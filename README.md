@@ -11,14 +11,20 @@ Research insterest:
 ### Education
 
 - **Tsinghua University** , 2013-2018
+
 Ph.D in Mechanics
+
 First-class Scholarship, Outstanding Graduate of Beijing
+
 Dissertation: Research on the Crystal Orientation and Temperature-Related Fretting Fatigue Properties of Nickel-based Single
 Crystal Superalloy
+
 Supervisor: Professor Shi Huiji
 
 - **Tsinghua University** , 2009-2013
+
 B.Eng. Materials Science and Engineering
+
 Excellent Graduation Thesis, National Encouragement Scholarship, First-class Scholarship
 
 
