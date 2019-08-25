@@ -60,7 +60,7 @@ Su, Y., Yu, F.-H., Han, Q.-N., Shang, Y.-B., Rui, S.-S., Li, J., . . . Niu, L.-S
 
 ## Technical skills
 
-## Contact inforamtion
+## Contact information
 
 Address: 29 Yudao St., Nanjing 210016, Jiangsu, China
 
