@@ -61,7 +61,7 @@ Su, Y., Yu, F.-H., Han, Q.-N., Shang, Y.-B., Rui, S.-S., Li, J., . . . Niu, L.-S
 
 ## Technical skills
 
-- Programming: Fortran (UMAT), Matlab, Python, Python Requests (for data collecting), Html5 & CSS, VueJS, Mobile App (PureWeather, AirQ on iPhone App Store), Wechat SmallApp (EasyCard), Git
+- Programming: Fortran (UMAT), Matlab, Python, Python Requests (for data collecting), Html5 & CSS, VueJS, Mobile App (PureWeather on iPhone App Store, 安卓应用宝上的"紫苑"), Wechat SmallApp (EasyCard), Git
 - Software: Abaqus and UMAT, OIM (EBSD), Solidworks, Image processing softwares, Data processing softwares
 - Language skills: Chinese, English
 - Personal blog (Non-academic related): [https://frankhan.net](https://frankhan.net)
