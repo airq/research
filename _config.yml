@@ -2,5 +2,6 @@ theme: jekyll-theme-cayman
 title: 研究
 description: 哇
 # google_analytics: [Your Google Analytics tracking ID]
-github: "false"
-show_downloads: "false"
+github: false
+show_downloads: false
+is_project_page: false
