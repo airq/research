@@ -37,13 +37,13 @@ Lecturer
 
 For more details see [Schloar Page](https://scholar.google.com/citations?user=V5QlaLsAAAAJ&hl=en&oi=ao)
 
-Han, Q.-N., Rui, S.-S., Qiu, W., Ma, X., Su, Y., Cui, H., . . . Shi, H. (2019). Crystal orientation effect on fretting fatigue induced geometrically necessary dislocation distribution in Ni-based single-crystal superalloys. Acta Materialia. 2019.
+Han, Q.-N., Rui, S.-S., Qiu, W., Ma, X., Su, Y., Cui, H., . . . Shi, H. (2019). Crystal orientation effect on fretting fatigue induced geometrically necessary dislocation distribution in Ni-based single-crystal superalloys. Acta Materialia.
 
 Han, Q.-N., Qiu, W., He, Z., Su, Y., Ma, X., & Shi, H.-J. (2018). The effect of crystal orientation on fretting fatigue crack formation in Ni-based single-crystal superalloys: In-situ SEM observation and crystal plasticity finite element simulation. Tribology international, 125, 209-219. 
 
-Han, Q.-N., Qiu, W., Shang, Y.-B., & Shi, H.-J. (2016). In-situ SEM observation and crystal plasticity finite element simulation of fretting fatigue crack formation in Ni-base single-crystal superalloys. Tribology international, 101, 33-42. 
+Han, Q. N., Rui, S. S., Qiu, W., Su, Y., Ma, X., He, Z., . . . Shi, H. J. (2019). Subsurface crack formation and propagation of fretting fatigue in Ni‐based single‐crystal superalloys. Fatigue & Fracture of Engineering Materials & Structures.
 
-Han, Q. N., Rui, S. S., Qiu, W., Su, Y., Ma, X., He, Z., . . . Shi, H. J. (2019). Subsurface crack formation and propagation of fretting fatigue in Ni‐based single‐crystal superalloys. Fatigue & Fracture of Engineering Materials & Structures. 2019.
+Han, Q.-N., Qiu, W., Shang, Y.-B., & Shi, H.-J. (2016). In-situ SEM observation and crystal plasticity finite element simulation of fretting fatigue crack formation in Ni-base single-crystal superalloys. Tribology international, 101, 33-42. 
 
 He, Z., Qiu, W., Fan, Y. N., Han, Q. N., Shi, H. J., & Ma, X. (2018). Effects of secondary orientation on fatigue crack initiation in a single crystal superalloy. Fatigue & Fracture of Engineering Materials & Structures, 41(4), 935-948. 
 
@@ -66,7 +66,7 @@ Su, Y., Yu, F.-H., Han, Q.-N., Shang, Y.-B., Rui, S.-S., Li, J., . . . Niu, L.-S
 
 ## Technical skills
 
-- Programming: Fortran (UMAT), Matlab, Python, Python Requests (for data collecting), Html5 & CSS, VueJS, Mobile App (PureWeather on iPhone App Store, 安卓应用宝上的"紫苑"), Wechat SmallApp (EasyCard), Git
+- Programming: Fortran (UMAT), Matlab, Python, Python Requests (for data collecting), Html5 & CSS, VueJS, Mobile App (PureWeather on iPhone App Store), Wechat SmallApp (EasyCard), Git
 - Software: Abaqus and UMAT, OIM (EBSD), Solidworks, Image processing softwares, Data processing softwares
 - Language skills: Chinese, English
 - Personal blog (Non-academic related): [https://frankhan.net](https://frankhan.net)
