@@ -1,4 +1,4 @@
-### Biography
+## Biography
 
 Qi-Nan Han (韩琦男) is curently working as a Lecturer at Nanjing University Of Aeronautics And Astronautics (NUAA). He received his bachelor's degree (BEng in Engineering mechanics and aerospace engineering) from Tsinghua University in 2013. He obtained his Ph.D from Tsinghua University in 2018 under the supervision of Professor Huiji Shi.
 
@@ -8,7 +8,7 @@ Research insterest:
 - Crystal plasticity simulation on mechanical behaviors in Nickel-based superalloys
 - Data-driven method to understand the 
 
-### Education
+## Education
 
 **Tsinghua University, 2013-2018**
 
@@ -28,9 +28,9 @@ B.Eng. Materials Science and Engineering
 Excellent Graduation Thesis, National Encouragement Scholarship, First-class Scholarship
 
 
-### Publication
+## Publication
 
-[Schloar Page](https://scholar.google.com/citations?user=V5QlaLsAAAAJ&hl=en&oi=ao)
+For more details see [Schloar Page](https://scholar.google.com/citations?user=V5QlaLsAAAAJ&hl=en&oi=ao)
 
 Han, Q.-N., Rui, S.-S., Qiu, W., Ma, X., Su, Y., Cui, H., . . . Shi, H. (2019). Crystal orientation effect on fretting fatigue induced geometrically necessary dislocation distribution in Ni-based single-crystal superalloys. Acta Materialia. 2019.
 
@@ -52,11 +52,21 @@ Su, Y., Han, Q.-N., Zhang, C.-C., Shi, H.-J., Niu, L.-S., Deng, G.-J., & Rui, S.
 
 Su, Y., Yu, F.-H., Han, Q.-N., Shang, Y.-B., Rui, S.-S., Li, J., . . . Niu, L.-S. (2019). Failure analysis of runway centerline light and effect of microstructure on mechanical properties. Engineering Failure Analysis, 105, 1069-1078. 
 
+## Patents
 
 
+## Conferences
 
 
+## Technical skills
 
+## Contact inforamtion
+
+Address: 29 Yudao St., Nanjing 210016, Jiangsu, China
+
+Email: hanqn@nuaa.edu.cn
+
+<!--
 ```markdown
 Syntax highlighted code block
 
@@ -75,12 +85,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FrankHan/research/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-->
