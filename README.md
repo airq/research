@@ -61,8 +61,8 @@ Su, Y., Yu, F.-H., Han, Q.-N., Shang, Y.-B., Rui, S.-S., Li, J., . . . Niu, L.-S
 
 ## Technical skills
 
-- Programming: Fortran (UMAT), Matlab, Python, Python Requests (for data collecting), Html & CSS, VueJS, Mobile App (PureWeather, AirQ on iPhone App Store), Wechat SmallApp (EasyCard)
-- Software: OIM (EBSD), Solidworks, Image processing software, Data processing software
+- Programming: Fortran (UMAT), Matlab, Python, Python Requests (for data collecting), Html5 & CSS, VueJS, Mobile App (PureWeather, AirQ on iPhone App Store), Wechat SmallApp (EasyCard)
+- Software: OIM (EBSD), Solidworks, Image processing softwares, Data processing softwares
 - Language skills: Chinese, English
 - Personal blog (Non-academic related): [https://frankhan.net](https://frankhan.net)
 - What I am learning: Machine learning with PyTorch
