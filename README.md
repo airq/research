@@ -4,13 +4,19 @@ Qi-Nan Han (韩琦男) is curently working as a Lecturer at Nanjing University O
 
 Research insterest:
 - Fretting fatigue in Nickel-based superalloys
-- Characterization of advanced materials
+- Characterization of advanced materials using in-situ SEM and EBSD
 - Crystal plasticity simulation on mechanical behaviors in Nickel-based superalloys
 - Data-driven method to understand the 
 
-### Markdown
+### Education
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### Publication
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
 
 ```markdown
 Syntax highlighted code block
