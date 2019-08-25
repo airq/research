@@ -23,7 +23,7 @@ Supervisor: Professor Shi Huiji
 
 **Tsinghua University, 2009-2013**
 
-B.Eng. Materials Science and Engineering
+B.Eng. Engineering Mechanics and Aerospace Engineering
 
 Excellent Graduation Thesis, National Encouragement Scholarship, First-class Scholarship
 
@@ -55,10 +55,17 @@ Su, Y., Yu, F.-H., Han, Q.-N., Shang, Y.-B., Rui, S.-S., Li, J., . . . Niu, L.-S
 ## Patents
 
 
+
 ## Conferences
 
 
 ## Technical skills
+
+- Programming: Fortran (UMAT), Matlab, Python, Python Requests (for data collecting), Html & CSS, VueJS, Mobile App (PureWeather, AirQ on iPhone App Store), Wechat SmallApp (EasyCard)
+- Software: OIM (EBSD), Solidworks, Image processing software, Data processing software
+- Language skills: Chinese, English
+- Personal blog (Non-academic related): [https://frankhan.net](https://frankhan.net)
+- What I am learning: Machine learning with PyTorch
 
 ## Contact information
 
