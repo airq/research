@@ -1,6 +1,6 @@
 ## Biography
 
-Qi-Nan Han (韩琦男) is curently working as a Lecturer at Nanjing University Of Aeronautics And Astronautics (NUAA). He received his bachelor's degree (BEng in Engineering mechanics and aerospace engineering) from Tsinghua University in 2013. He obtained his Ph.D from Tsinghua University in 2018 under the supervision of Professor Huiji Shi.
+Qi-Nan Han (韩琦男) is currently working as a Lecturer at Nanjing University Of Aeronautics And Astronautics (NUAA). He received his bachelor's degree (BEng in Engineering mechanics and aerospace engineering) from Tsinghua University in 2013. He obtained his Ph.D from Tsinghua University in 2018 under the supervision of Professor Huiji Shi.
 
 Research insterest:
 - Fretting fatigue in Nickel-based superalloys
