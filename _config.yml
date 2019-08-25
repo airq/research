@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 title: 研究
-description: [A short description of your site's purpose]
-show_downloads: ["true" or "false" to indicate whether to provide a download URL]
+description: 哇
+show_downloads: false
 google_analytics: [Your Google Analytics tracking ID]
