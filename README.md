@@ -8,7 +8,7 @@ Research insterest:
 - Crystal plasticity simulation on mechanical behaviors of Nickel-based superalloys
 - Data-driven method to understand material properties 
 
-## Education and experience
+## Education
 
 **Tsinghua University, 2013-2018**
 
@@ -26,6 +26,8 @@ Supervisor: Professor Shi Huiji
 B.Eng. Engineering Mechanics and Aerospace Engineering
 
 Excellent Graduation Thesis, National Encouragement Scholarship, First-class Scholarship
+
+## Professional Experience
 
 **Nanjing University Of Aeronautics And Astronautics (NUAA), 2019-present**
 
