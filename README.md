@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+### Biography
 
-You can use the [editor on GitHub](https://github.com/FrankHan/research/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Qi-Nan Han (韩琦男) is curently working as a Lecturer at Nanjing University Of Aeronautics And Astronautics (NUAA). He received his bachelor's degree (BEng in Engineering mechanics and aerospace engineering) from Tsinghua University in 2013. He obtained his Ph.D from Tsinghua University in 2018 under the supervision of Professor Huiji Shi.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Research insterest:
+- Fretting fatigue in Nickel-based superalloys
+- Characterization of advanced materials
+- Crystal plasticity simulation on mechanical behaviors in Nickel-based superalloys
+- Data-driven method to understand the 
 
 ### Markdown
 
