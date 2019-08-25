@@ -10,7 +10,7 @@ Research insterest:
 
 ### Education
 
-- **Tsinghua University** , 2013-2018
+- **Tsinghua University, 2013-2018**
 
 Ph.D in Mechanics
 
@@ -21,7 +21,7 @@ Crystal Superalloy
 
 Supervisor: Professor Shi Huiji
 
-- **Tsinghua University** , 2009-2013
+- **Tsinghua University, 2009-2013**
 
 B.Eng. Materials Science and Engineering
 
