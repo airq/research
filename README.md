@@ -8,7 +8,7 @@ Research insterest:
 - Crystal plasticity simulation on mechanical behaviors of Nickel-based superalloys
 - Data-driven method to understand material properties 
 
-## Education
+## Education and experience
 
 **Tsinghua University, 2013-2018**
 
@@ -27,6 +27,9 @@ B.Eng. Engineering Mechanics and Aerospace Engineering
 
 Excellent Graduation Thesis, National Encouragement Scholarship, First-class Scholarship
 
+**Nanjing University Of Aeronautics And Astronautics (NUAA), 2019-present**
+
+Lecturer
 
 ## Publication
 
