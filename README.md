@@ -5,8 +5,8 @@ Qi-Nan Han (韩琦男) is curently working as a Lecturer at Nanjing University O
 Research insterest:
 - Fretting fatigue in Nickel-based superalloys
 - Characterization of advanced materials using in-situ SEM and EBSD
-- Crystal plasticity simulation on mechanical behaviors in Nickel-based superalloys
-- Data-driven method to understand the 
+- Crystal plasticity simulation on mechanical behaviors of Nickel-based superalloys
+- Data-driven method to understand material properties 
 
 ## Education
 
