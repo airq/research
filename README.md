@@ -72,7 +72,7 @@ Qi-Nan Han, Hui-Ji Shi, Fetting fatigue crack formation in Ni-base single-crysta
 
 ## Technical skills
 
-- Programming: Fortran (UMAT), Matlab, Python, Python Requests (for data collecting), Html5 & CSS, VueJS, Mobile App (PureWeather on iPhone App Store), Wechat SmallApp (EasyCard), Git
+- Programming: Fortran (UMAT), Matlab, Python, Python Requests (for data collecting), Html5 & CSS, VueJS, Git
 - Software: Abaqus and UMAT, OIM (EBSD), Solidworks, Image processing softwares, Data processing softwares
 - Language skills: Chinese, English
 - Personal blog (Non-academic related): [https://frankhan.net](https://frankhan.net)
@@ -83,6 +83,11 @@ Qi-Nan Han, Hui-Ji Shi, Fetting fatigue crack formation in Ni-base single-crysta
 Address: 29 Yudao St., Nanjing 210016, Jiangsu, China
 
 Email: hanqn@nuaa.edu.cn
+
+<!--
+Programming: Fortran (UMAT), Matlab, Python, Python Requests (for data collecting), Html5 & CSS, VueJS, Mobile App (PureWeather on iPhone App Store), Wechat SmallApp (EasyCard), Git
+
+-->
 
 <!--
 ```markdown
