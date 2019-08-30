@@ -1,8 +1,9 @@
 theme: jekyll-theme-cayman
 title: Qinan Han
-description: [https://frankhan.net/research](https://frankhan.net/research)
+description: https://frankhan.net/research
 # In-situ fretting fatigue, Nickel-based superalloy, EBSD, Dislocation
 # google_analytics: [Your Google Analytics tracking ID]
 github: false
 show_downloads: false
 is_project_page: false
+show_credits: false
