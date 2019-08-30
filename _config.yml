@@ -7,3 +7,4 @@ github: false
 show_downloads: false
 is_project_page: false
 show_credits: false
+show_credit: false
