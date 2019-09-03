@@ -8,7 +8,9 @@ Research insterests:
 - Crystal plasticity simulation on mechanical behaviors of Nickel-based superalloys
 - Data-driven method to understand material properties 
 
-<img src="https://github.com/FrankHan/research/blob/master/Word%20Art%20(3).jpeg?raw=true" width ="50%" height ="50%" div align="center" />
+<div align="center">
+<img src="https://github.com/FrankHan/research/blob/master/Word%20Art%20(3).jpeg?raw=true" width ="50%" height ="50%" />
+  </div>
 
 
 ![Research insterests](https://github.com/FrankHan/research/blob/master/Word%20Art%20(3).jpeg?raw=true)
