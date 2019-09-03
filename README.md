@@ -8,6 +8,8 @@ Research insterests:
 - Crystal plasticity simulation on mechanical behaviors of Nickel-based superalloys
 - Data-driven method to understand material properties 
 
+![Research insterests](Word Art (3).jpeg)
+
 ## Education
 
 **Tsinghua University, 2013-2018**
@@ -105,7 +107,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](Word Art (3).jpeg)
 ```
 
 -->
