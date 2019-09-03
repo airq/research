@@ -13,8 +13,6 @@ Research insterests:
   </div>
 
 
-![Research insterests](https://github.com/FrankHan/research/blob/master/Word%20Art%20(3).jpeg?raw=true)
-
 ## Education
 
 **Tsinghua University, 2013-2018**
