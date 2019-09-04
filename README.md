@@ -9,7 +9,7 @@ Research insterests:
 - Data-driven method to understand material properties 
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/FrankHan/research/master/Word%20Art%20(3).jpeg" width ="70%" height ="70%" />
+<img src="https://i.loli.net/2019/09/04/drzYDtXu3SA5ZFo.png" width ="70%" height ="70%" />
 </div>
 
 
