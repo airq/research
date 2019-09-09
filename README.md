@@ -5,7 +5,7 @@ Qinan Han is currently working as a Lecturer at Nanjing University Of Aeronautic
 Research insterests:
 - Fretting fatigue of nickel-based superalloys
 - Characterization of advanced materials using in-situ SEM and EBSD
-- Crystal plasticity simulation on mechanical behaviors of Nickel-based superalloys
+- Crystal plasticity simulation on mechanical behaviors of nickel-based superalloys
 - Data-driven method to understand material properties 
 
 <div align="center">
