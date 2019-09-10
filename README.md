@@ -82,6 +82,7 @@ Qi-Nan Han, Hui-Ji Shi, Fetting fatigue crack formation in Ni-base single-crysta
 - Language skills: Chinese, English
 - Personal blog: [https://frankhan.net](https://frankhan.net)
 - Released apps: [App Store](https://apps.apple.com/cn/developer/qinan-han/id1163955356?l=en)
+- Wechat smallApps: EasyCard, 星光日历
 - What I am learning: Machine learning with PyTorch
 
 ## Contact information
