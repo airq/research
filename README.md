@@ -68,6 +68,10 @@ Su, Y., Yu, F.-H., Han, Q.-N., Shang, Y.-B., Rui, S.-S., Li, J., . . . Niu, L.-S
 
 韩琦男, 苏越, 施惠基, 高温原位微动疲劳实验系统，已授权，2018年4月（申请号：201721248108.8）
 
+## Awards
+
+2019 PHM Conference Data Challenge, 4th Place
+
 
 ## Conferences
 
