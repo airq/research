@@ -62,15 +62,17 @@ Su, Y., Han, Q.-N., Zhang, C.-C., Shi, H.-J., Niu, L.-S., Deng, G.-J., & Rui, S.
 
 Su, Y., Yu, F.-H., Han, Q.-N., Shang, Y.-B., Rui, S.-S., Li, J., . . . Niu, L.-S. (2019). Failure analysis of runway centerline light and effect of microstructure on mechanical properties. Engineering Failure Analysis, 105, 1069-1078. 
 
+## Awards
+
+2019 PHM Conference Data Challenge, 4th Place
+
 ## Patents
 
 韩琦男, 施惠基等，燕尾型高温微动疲劳实验系统，已授权，2018年4月（申请号：201721539937.1）
 
 韩琦男, 苏越, 施惠基, 高温原位微动疲劳实验系统，已授权，2018年4月（申请号：201721248108.8）
 
-## Awards
 
-2019 PHM Conference Data Challenge, 4th Place
 
 
 ## Conferences
