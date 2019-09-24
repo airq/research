@@ -100,12 +100,14 @@ Email:
   
 |h|a|n|q|n|@|n|u|a|a|.|e|d|u|.|c|n|
 
-
+<!-- not support by huawei
 :microscope: :microscope: :airplane: :airplane: :rocket: :rocket:
+-->
 
 <br/>
-
+<font color=gray>
 Last update: 24/09/2019
+  </font>
 
 <!--
 Programming: Fortran (UMAT), Matlab, Python, Python Requests (for data collecting), Html5 & CSS, VueJS, Mobile App (PureWeather on iPhone App Store), Wechat SmallApp (EasyCard), Git
