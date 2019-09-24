@@ -38,7 +38,7 @@ Excellent Graduation Thesis, National Encouragement Scholarship, First-class Sch
 
 Lecturer
 
-## Publication
+## Publications
 
 For more details see [Scholar Page](https://scholar.google.com/citations?user=V5QlaLsAAAAJ&hl=en&oi=ao) or [Researchgate](https://www.researchgate.net/profile/Qi_Nan_Han)
 
@@ -62,9 +62,11 @@ Su, Y., Han, Q.-N., Zhang, C.-C., Shi, H.-J., Niu, L.-S., Deng, G.-J., & Rui, S.
 
 Su, Y., Yu, F.-H., Han, Q.-N., Shang, Y.-B., Rui, S.-S., Li, J., . . . Niu, L.-S. (2019). Failure analysis of runway centerline light and effect of microstructure on mechanical properties. Engineering Failure Analysis, 105, 1069-1078. 
 
-## Awards
+## Academic Awards
 
 2019 PHM Conference Data Challenge, 4th Place
+
+Undergraduate Excellent Graduation Thesis of Tsinhgua University
 
 ## Patents
 
