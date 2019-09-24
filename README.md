@@ -101,10 +101,10 @@ Email:
 |h|a|n|q|n|@|n|u|a|a|.|e|d|u|.|c|n|
 
 <!-- not support by huawei
-:microscope: :microscope: :airplane: :airplane: :rocket: :rocket:
+:microscope: :microscope: :airplane: :airplane: :rocket: :rocket: <br/>
 -->
 
-<br/>
+
 
 `Last update: 24/09/2019`
 
