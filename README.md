@@ -66,7 +66,7 @@ Su, Y., Yu, F.-H., Han, Q.-N., Shang, Y.-B., Rui, S.-S., Li, J., . . . Niu, L.-S
 
 2019 PHM Conference Data Challenge, 4th Place
 
-Undergraduate Excellent Graduation Thesis of Tsinhgua University
+Undergraduate Excellent Graduation Thesis of Tsinghua University
 
 ## Patents
 
