@@ -94,7 +94,14 @@ Qi-Nan Han, Hui-Ji Shi, Fetting fatigue crack formation in Ni-base single-crysta
 
 Address: 29 Yudao St., Nanjing 210016, Jiangsu, China
 
-Email: hanqn@nuaa.edu.cn
+Email: 
+
+<i>
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+|h|a|n|q|n|@|n|u|a|a|.|e|d|u|.|c|n|
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+</i>
+
 
 Last update: 24/09/2019
 
