@@ -42,13 +42,13 @@ Lecturer
 
 For more details see [Scholar Page](https://scholar.google.com/citations?user=V5QlaLsAAAAJ&hl=en&oi=ao) or [Researchgate](https://www.researchgate.net/profile/Qi_Nan_Han)
 
-Han, Q.-N., Rui, S.-S., Qiu, W., Ma, X., Su, Y., Cui, H., . . . Shi, H. (2019). Crystal orientation effect on fretting fatigue induced geometrically necessary dislocation distribution in Ni-based single-crystal superalloys. Acta Materialia.
+Han, Q.-N., Rui, S.-S., Qiu, W., Ma, X., Su, Y., Cui, H., . . . Shi, H. (2019). Crystal orientation effect on fretting fatigue induced geometrically necessary dislocation distribution in Ni-based single-crystal superalloys. Acta Materialia. (IF=7.2)
 
-Han, Q.-N., Qiu, W., He, Z., Su, Y., Ma, X., & Shi, H.-J. (2018). The effect of crystal orientation on fretting fatigue crack formation in Ni-based single-crystal superalloys: In-situ SEM observation and crystal plasticity finite element simulation. Tribology international, 125, 209-219. 
+Han, Q.-N., Qiu, W., He, Z., Su, Y., Ma, X., & Shi, H.-J. (2018). The effect of crystal orientation on fretting fatigue crack formation in Ni-based single-crystal superalloys: In-situ SEM observation and crystal plasticity finite element simulation. Tribology international. (IF=3.5)
 
-Han, Q. N., Rui, S. S., Qiu, W., Su, Y., Ma, X., He, Z., . . . Shi, H. J. (2019). Subsurface crack formation and propagation of fretting fatigue in Ni‐based single‐crystal superalloys. Fatigue & Fracture of Engineering Materials & Structures.
+Han, Q. N., Rui, S. S., Qiu, W., Su, Y., Ma, X., He, Z., . . . Shi, H. J. (2019). Subsurface crack formation and propagation of fretting fatigue in Ni‐based single‐crystal superalloys. Fatigue & Fracture of Engineering Materials & Structures.(IF=2.5)
 
-Han, Q.-N., Qiu, W., Shang, Y.-B., & Shi, H.-J. (2016). In-situ SEM observation and crystal plasticity finite element simulation of fretting fatigue crack formation in Ni-base single-crystal superalloys. Tribology international, 101, 33-42. 
+Han, Q.-N., Qiu, W., Shang, Y.-B., & Shi, H.-J. (2016). In-situ SEM observation and crystal plasticity finite element simulation of fretting fatigue crack formation in Ni-base single-crystal superalloys. Tribology international. (IF=3.5)
 
 He, Z., Qiu, W., Fan, Y. N., Han, Q. N., Shi, H. J., & Ma, X. (2018). Effects of secondary orientation on fatigue crack initiation in a single crystal superalloy. Fatigue & Fracture of Engineering Materials & Structures, 41(4), 935-948. 
 
