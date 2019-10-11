@@ -1,11 +1,11 @@
 ## Biography
 
-Qinan Han (韩琦男) is currently working as a Lecturer at Nanjing University Of Aeronautics And Astronautics (NUAA). He received his bachelor's degree (BEng) from Tsinghua University in 2013. He obtained his Ph.D from Tsinghua University in 2018 under the supervision of Professor Huiji Shi.
+Qinan Han (韩琦男) is currently working as a Lecturer at Nanjing University Of Aeronautics And Astronautics (NUAA). He received his bachelor's degree (BEng) from Tsinghua University in 2013. He obtained his Ph.D from Tsinghua University in 2018 under the supervision of Prof. Huiji Shi.
 
 **Research insterests:**
-- Fretting fatigue of nickel-based superalloys
+- Fretting fatigue of Ni-based superalloys
 - Characterization of advanced materials using in-situ SEM and EBSD
-- Crystal plasticity simulation on mechanical behaviors of nickel-based superalloys
+- Crystal plasticity simulation on mechanical behaviors of Ni-based superalloys
 - Data-driven method to understand material properties 
 
 <div align="center">
@@ -21,7 +21,7 @@ Ph.D in Mechanics
 
 First-class Scholarship, Outstanding Graduate of Beijing
 
-Dissertation: Research on the Crystal Orientation and Temperature-Related Fretting Fatigue Properties of Nickel-based Single
+Dissertation: Research on the Crystal Orientation and Temperature-Related Fretting Fatigue Properties of Ni-based Single
 Crystal Superalloy
 
 Supervisor: Professor Shi Huiji
