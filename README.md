@@ -104,13 +104,13 @@ Email:
   
 |h|a|n|q|n|@|n|u|a|a|.|e|d|u|.|c|n|
 
+
+`Last update: 19/10/2019`
+
+
 <!-- not support by huawei
 :microscope: :microscope: :airplane: :airplane: :rocket: :rocket: <br/>
 -->
-
-
-
-`Last update: 24/09/2019`
 
 
 <!--
