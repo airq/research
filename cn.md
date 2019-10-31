@@ -1,4 +1,4 @@
-[English Version](https://scholar.google.com/citations?user=V5QlaLsAAAAJ&hl=en&oi=ao)
+[English Version](https://hanqn.com/en)
 
 ## 简介
 
