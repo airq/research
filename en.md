@@ -1,4 +1,4 @@
-[Chinese Version](https://hanqn.com/cn)
+[Chinese Version](https://hanqn.com/index)
 
 
 ## Biography
