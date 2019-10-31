@@ -70,7 +70,7 @@ Su, Y., Yu, F.-H., Han, Q.-N., Shang, Y.-B., Rui, S.-S., Li, J., . . . Niu, L.-S
 
 ## 学术奖项
 
-2019PHM机器学习挑战赛, RealAI团队成员
+2019PHM机器学习数据挑战赛，第4名, RealAI团队成员
 
 优秀本科生毕业设计论文，清华大学
 
