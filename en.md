@@ -75,20 +75,11 @@ Su, Y., Yu, F.-H., Han, Q.-N., Shang, Y.-B., Rui, S.-S., Li, J., . . . Niu, L.-S
 
 Undergraduate Excellent Graduation Thesis of Tsinghua University
 
-## Patents
-
-韩琦男, 施惠基等，燕尾型高温微动疲劳实验系统，已授权，2018年4月（申请号：201721539937.1）
-
-韩琦男, 苏越, 施惠基, 高温原位微动疲劳实验系统，已授权，2018年4月（申请号：201721248108.8）
-
-
-
 
 ## Conferences
 
 Qi-Nan Han, Hui-Ji Shi, Fetting fatigue crack formation in Ni-base single-crystal superalloys: in-situ SEM experiment and crystal plasticity analysis, 6th World Tribology Congress, 2017, Beijing, China. 
 
-韩琦男，施惠基，镍基单晶超合金微动疲劳裂纹萌生的原位观测实验及晶体塑性有限元模拟，中国力学大会, 2015年8月，上海
 
 ## Technical skills
 
