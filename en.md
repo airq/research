@@ -73,6 +73,8 @@ Su, Y., Yu, F.-H., Han, Q.-N., Shang, Y.-B., Rui, S.-S., Li, J., . . . Niu, L.-S
 
 2019 PHM Conference Data Challenge, 4th Place
 
+2018 Tsinghua University Laboratory Construction Contribution Award, Third Prize (first author), Macro and Micro Fretting Fatigue Experiment System
+
 Undergraduate Excellent Graduation Thesis of Tsinghua University
 
 
