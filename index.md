@@ -83,8 +83,6 @@ Su, Y., Yu, F.-H., Han, Q.-N., Shang, Y.-B., Rui, S.-S., Li, J., . . . Niu, L.-S
 韩琦男, 苏越, 施惠基, 高温原位微动疲劳实验系统，已授权，2018年4月（申请号：201721248108.8）
 
 
-
-
 ## 学术会议
 
 Qi-Nan Han, Hui-Ji Shi, Fetting fatigue crack formation in Ni-base single-crystal superalloys: in-situ SEM experiment and crystal plasticity analysis, 6th World Tribology Congress, 2017, Beijing, China. 
@@ -96,6 +94,8 @@ Qi-Nan Han, Hui-Ji Shi, Fetting fatigue crack formation in Ni-base single-crysta
 - 编程: Fortran, Matlab, Python, C, Python Requests, Html5 & WXML & CSS, Cross-platform App Development, VueJS, Git, Markdown, Latex
 - 软件: Abaqus and UMAT, OIM (EBSD), Solidworks, Catia, Hbuilder, Image processing softwares, Data processing softwares
 - 语言: Chinese, English
+
+
 
 
 ## 联系方式
