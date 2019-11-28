@@ -34,13 +34,27 @@
 
 优秀本科生毕业设计，国家励志奖学金，学业一等奖学金
 
-## 学术任教
+## 任教经历
 
 **南京航空航天大学 (NUAA), 2019-至今**
 
 讲师
 
-## 发表论文
+
+## 项目经历
+
+基金类项目：
+
+- 接触晶向和温度相关的镍基单晶合金微动疲劳损伤机理及寿命评估模型（国家自然科学基金航空发动机重大专项，参研）
+- 镍基单晶高温合金第二晶向对疲劳性能影响机制的实验和理论研究 （国家自然科学基金，参研）
+- 扫描显微环境下高温变形原位测量关键技术及其应用研究（国家自然科学基金重点项目，参研）
+
+其他项目：
+
+- 整理中
+
+
+## 代表性文章
 
 For more details see [Scholar Page](https://scholar.google.com/citations?user=V5QlaLsAAAAJ&hl=en&oi=ao) or [Research Gate](https://www.researchgate.net/profile/Qi_Nan_Han)
 
@@ -56,17 +70,8 @@ Han, Q. N., Rui, S. S., Qiu, W., Su, Y., Ma, X., He, Z., . . . Shi, H. J. (2019)
 
 Han, Q.-N., Qiu, W., Shang, Y.-B., & Shi, H.-J. (2016). In-situ SEM observation and crystal plasticity finite element simulation of fretting fatigue crack formation in Ni-base single-crystal superalloys. Tribology international. 
 
-He, Z., Qiu, W., Fan, Y. N., Han, Q. N., Shi, H. J., & Ma, X. (2018). Effects of secondary orientation on fatigue crack initiation in a single crystal superalloy. Fatigue & Fracture of Engineering Materials & Structures, 41(4), 935-948. 
-
-Liang, J., Han, Q., He, Z., Wang, Z., Xie, H., Li, X., & SHI, H. (2018). In-situ high-temperature mechanical property measurement technology and its application in scanning electron microscope. SCIENTIA SINICA Physica, Mechanica & Astronomica, 48(9), 094606. 
-
-Ma, X., Wei, D., Han, Q., Rui, S., Su, D., Yang, W., . . . Shi, H.-j. (2019). Parametric study of cyclic plasticity behavior in a directionally solidified superalloy with partial recrystallization by crystal plasticity finite element simulation. Journal of Materials Engineering and Performance, 1-9. 
-
-Rui, S.-S., Shang, Y.-B., Fan, Y.-N., Han, Q.-N., Niu, L.-S., Shi, H.-J., . . . Komai, N. (2018). EBSD analysis of creep deformation induced grain lattice distortion: A new method for creep damage evaluation of austenitic stainless steels. Materials Science and Engineering: A, 733, 329-337. 
-
 Su, Y., Han, Q.-N., Zhang, C.-C., Shi, H.-J., Niu, L.-S., Deng, G.-J., & Rui, S.-S. (2019). Effects of secondary orientation and temperature on the fretting fatigue behaviors of Ni-based single crystal superalloys. Tribology international, 130, 9-18. 
 
-Su, Y., Yu, F.-H., Han, Q.-N., Shang, Y.-B., Rui, S.-S., Li, J., . . . Niu, L.-S. (2019). Failure analysis of runway centerline light and effect of microstructure on mechanical properties. Engineering Failure Analysis, 105, 1069-1078. 
 
 ## 学术奖项
 
@@ -96,8 +101,6 @@ Qi-Nan Han, Hui-Ji Shi, Fetting fatigue crack formation in Ni-base single-crysta
 - 语言: Chinese, English
 
 
-
-
 ## 联系方式
 
 地址: 29 Yudao St., Nanjing 210016, Jiangsu, China
@@ -109,7 +112,7 @@ Qi-Nan Han, Hui-Ji Shi, Fetting fatigue crack formation in Ni-base single-crysta
 |h|a|n|q|n|@|n|u|a|a|.|e|d|u|.|c|n|
 
 
-`Last update: 31/10/2019`
+`Last update: 28/11/2019`
 
 
 <!-- not support by huawei
