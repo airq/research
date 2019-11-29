@@ -1,11 +1,11 @@
 theme: jekyll-theme-cayman
 title: Qinan Han
-description: In-situ SEM, Nickel-based superalloy
+description: In-situ SEM, Ni-based superalloy
 # In-situ fretting fatigue, Nickel-based superalloy, EBSD, Dislocation
 google_analytics: UA-97182832-3
 # github: false
 github:
-  zip_url: http://example.com/download.zip
+#   zip_url: http://example.com/download.zip
   another_url: https://hanqn.com/en
 show_downloads: false
 is_project_page: false
