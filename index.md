@@ -4,11 +4,11 @@
 
 韩琦男博士当前作为讲师任职于南京航空航天大学。他于2013年获得清华大学学士学位（力学）。他于2018年在施惠基教授的指导下获得清华大学博士学位（固体力学）。
 
-
+<!--
 <div align="center">
 <img src="https://raw.githubusercontent.com/airq/research/master/头像-small.jpg" width ="40%" height ="40%" />
 </div>
-
+-->
 
 **研究兴趣:**
 
