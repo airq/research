@@ -1,6 +1,6 @@
 [English Version](https://hanqn.com/en)
 
-## 简介
+# 简介
 
 韩琦男博士当前作为讲师任职于南京航空航天大学（能源与动力学院强度与振动工程系）。他于2013年获得清华大学学士学位（力学）。他于2018年在施惠基教授的指导下获得清华大学博士学位（固体力学）。
 
@@ -33,7 +33,7 @@
 </div>
 
 
-## 教育经历
+# 教育经历
 
 **清华大学, 2013-2018**
 
@@ -51,14 +51,14 @@
 
 优秀本科生毕业设计，国家励志奖学金，学业一等奖学金
 
-## 任教经历
+# 任教经历
 
 **南京航空航天大学 (NUAA), 2019-至今**
 
 讲师
 
 
-## 项目经历
+# 项目经历
 
 自然基金类项目：
 
@@ -71,7 +71,7 @@
 - 王永志科创基金，主持
 
 
-## 代表性文章
+# 代表性文章
 
 For more details see [Scholar Page](https://scholar.google.com/citations?user=V5QlaLsAAAAJ&hl=en&oi=ao) or [Research Gate](https://www.researchgate.net/profile/Qi_Nan_Han)
 
@@ -90,7 +90,7 @@ Han, Q.-N., Qiu, W., Shang, Y.-B., & Shi, H.-J. (2016). In-situ SEM observation 
 Su, Y., Han, Q.-N., Zhang, C.-C., Shi, H.-J., Niu, L.-S., Deng, G.-J., & Rui, S.-S. (2019). Effects of secondary orientation and temperature on the fretting fatigue behaviors of Ni-based single crystal superalloys. Tribology international, 130, 9-18. 
 
 
-## 学术奖项
+# 学术奖项
 
 2019PHM机器学习数据挑战赛，第4名, RealAI团队成员
 
@@ -98,27 +98,27 @@ Su, Y., Han, Q.-N., Zhang, C.-C., Shi, H.-J., Niu, L.-S., Deng, G.-J., & Rui, S.
 
 优秀本科生毕业设计论文，清华大学
 
-## 专利
+# 专利
 
 韩琦男, 施惠基等，燕尾型高温微动疲劳实验系统，已授权，2018年4月（申请号：201721539937.1）
 
 韩琦男, 苏越, 施惠基, 高温原位微动疲劳实验系统，已授权，2018年4月（申请号：201721248108.8）
 
 
-## 学术会议
+# 学术会议
 
 Qi-Nan Han, Hui-Ji Shi, Fetting fatigue crack formation in Ni-base single-crystal superalloys: in-situ SEM experiment and crystal plasticity analysis, 6th World Tribology Congress, 2017, Beijing, China. 
 
 韩琦男，施惠基，镍基单晶超合金微动疲劳裂纹萌生的原位观测实验及晶体塑性有限元模拟，中国力学大会, 2015年8月，上海
 
-## 技术技巧
+# 技术语言
 
 - 编程: Fortran, Matlab, Python, C, Python Requests, Html5 & WXML & CSS, Cross-platform App Development, VueJS, Git, Markdown, Latex
 - 软件: Abaqus and UMAT, OIM (EBSD), Solidworks, Catia, Hbuilder, Image processing softwares, Data processing softwares
 - 语言: Chinese, English
 
 
-## 联系方式
+# 联系方式
 
 地址: 南京市秦淮区御道街29号A10楼（明故宫校区）
 
