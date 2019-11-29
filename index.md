@@ -121,7 +121,7 @@ Qi-Nan Han, Hui-Ji Shi, Fetting fatigue crack formation in Ni-base single-crysta
 
 
   
-|h|a|n|q|n|@|n|u|a|a|.|e|d|u|.|c|n|
+hanqn@nuaa.edu.cn
 
 
 `Last update: 28/11/2019`
