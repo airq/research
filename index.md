@@ -5,6 +5,11 @@
 韩琦男博士当前作为讲师任职于南京航空航天大学。他于2013年获得清华大学学士学位（力学）。他于2018年在施惠基教授的指导下获得清华大学博士学位（固体力学）。
 
 
+<div align="center">
+<img src="https://i.loli.net/2019/09/04/drzYDtXu3SA5ZFo.png" width ="70%" height ="70%" />
+</div>
+
+
 **研究兴趣:**
 
 - 高温材料、功能材料与结构的损伤机理
@@ -117,11 +122,7 @@ Qi-Nan Han, Hui-Ji Shi, Fetting fatigue crack formation in Ni-base single-crysta
 
 地址: 南京市秦淮区御道街29号A10楼（明故宫校区）
 
-邮箱: 
-
-
-  
-hanqn@nuaa.edu.cn
+邮箱: hanqn@nuaa.edu.cn
 
 
 `Last update: 28/11/2019`
