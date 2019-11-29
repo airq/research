@@ -28,13 +28,15 @@
 
 包括：借助疲劳/微动疲劳等力学实验、显微表征数据的统计学和机器学习等方法，揭示材料、结构的内秉属性。
 
-<div align="center">
-<img src="https://i.loli.net/2019/09/04/drzYDtXu3SA5ZFo.png" width ="70%" height ="70%" />
-</div>
-
 ### 热诚欢迎以上方向及相关方向的学生报考研究生！
 
 一级学科名称：能源动力，代码：085800（专业硕士）
+
+<div align="center">
+<img src="https://i.loli.net/2019/09/04/drzYDtXu3SA5ZFo.png" width ="55%" height ="55%" />
+</div>
+
+
 
 
 ## 教育经历
