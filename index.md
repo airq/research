@@ -6,7 +6,7 @@
 
 
 <div align="center">
-<img src="https://i.loli.net/2019/09/04/drzYDtXu3SA5ZFo.png" width ="70%" height ="70%" />
+<img src="https://raw.githubusercontent.com/airq/research/master/头像-small.jpg" width ="40%" height ="40%" />
 </div>
 
 
