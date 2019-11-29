@@ -5,7 +5,6 @@ description: In-situ SEM, Ni-based superalloy
 google_analytics: UA-97182832-3
 # github: false
 github:
-#   zip_url: http://example.com/download.zip
   another_url: https://hanqn.com/en
 show_downloads: false
 is_project_page: false
