@@ -1,6 +1,6 @@
 [English Version](https://hanqn.com/en)
 
-<button class="button2 btn-primary" type="button">English Version</button>
+<a class="button2 btn-primary" type="button" href="https://hanqn.com/en">English Version</a>
 
 
 ## 简介
