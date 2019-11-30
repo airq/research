@@ -30,7 +30,7 @@
 
 ### 热诚欢迎有志青年报考研究生！
 
-一级学科名称：能源动力，代码：085800（专业硕士）
+**一级学科名称：能源动力，代码：085800（专业硕士）**
 
 <div align="center">
 <img src="https://i.loli.net/2019/09/04/drzYDtXu3SA5ZFo.png" width ="55%" height ="55%" />
