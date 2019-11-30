@@ -192,7 +192,6 @@ button {
   display: inline-block;
   padding: 6px 12px;
   margin-bottom: 0;
-  font-size: 14px;
   font-weight: normal;
   line-height: 1.428571429;
   text-align: center;
@@ -210,9 +209,9 @@ button {
 }
 
 .btn-primary {
-  color: #ffffff;
-  background-color: #428bca;
-  border-color: #357ebd;
+  color: #159957;
+  background-color: #ffffff;
+  border-color: #159957;
 }
 
 button:disabled {
