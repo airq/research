@@ -1,7 +1,7 @@
 [English Version](https://hanqn.com/en)
 
-<button>English Version</button>
-<btn>English Version</btn>
+<button  type="button" class="btn btn-outline-warning">English Version</button>
+
 
 ## 简介
 
