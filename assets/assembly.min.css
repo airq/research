@@ -190,16 +190,16 @@ button {
 
 .button2 {
   display: inline-block;
-  padding: 8px 14px;
+  padding: 6px 12px;
   margin-bottom: 0;
-  font-weight: bold;
+  font-weight: normal;
   line-height: 1.428571429;
   text-align: center;
   white-space: nowrap;
   vertical-align: middle;
   cursor: pointer;
   background-image: none;
-  border: 1.2px solid transparent;
+  border: 1px solid transparent;
   border-radius: 4px;
   -webkit-user-select: none;
      -moz-user-select: none;
@@ -214,12 +214,21 @@ button {
   border-color: #159957;
 }
 
+ .btn-primary:hover{
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #159957;
+    border-color: #159957;
+    }
+
 .btn-primary:focus{
     text-decoration: none;
     color: #ffffff;
     background-color: #159957;
     border-color: #159957;
     }
+
+
 
 button:disabled {
     cursor: default
