@@ -214,6 +214,13 @@ button {
   border-color: #159957;
 }
 
+.btn-primary:focus{
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #159957;
+    border-color: #159957;
+    }
+
 button:disabled {
     cursor: default
 }
