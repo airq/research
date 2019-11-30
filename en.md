@@ -2,7 +2,7 @@
 -->
 
 <div align="right">
-<a class="button2 btn-primary " type="button" href="https://hanqn.com/en">English Version</a>
+<a class="button2 btn-primary " type="button" href="https://hanqn.com/index">中文版</a>
 </div>
 
 ## Biography
