@@ -7,7 +7,7 @@
 
 ## Biography
 
-Qinan Han (韩琦男) is currently working as a Lecturer at Nanjing University Of Aeronautics And Astronautics (NUAA). He received his bachelor's degree (BEng) from Tsinghua University in 2013. He obtained his Ph.D from Tsinghua University in 2018 under the supervision of Prof. Huiji Shi.
+Qinan Han is currently working as a Lecturer at Nanjing University Of Aeronautics And Astronautics (NUAA). He received his bachelor's degree (BEng) from Tsinghua University in 2013. He obtained his Ph.D from Tsinghua University in 2018 under the supervision of Prof. Huiji Shi.
 
 **Research insterests:**
 - Fretting fatigue of Ni-based superalloys
@@ -105,7 +105,7 @@ Email:
 |h|a|n|q|n|@|n|u|a|a|.|e|d|u|.|c|n|
 
 
-`Last update: 19/10/2019`
+`Last update: 02/12/2019`
 
 
 <!-- not support by huawei
