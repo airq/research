@@ -121,7 +121,7 @@ Qi-Nan Han, Hui-Ji Shi, Fetting fatigue crack formation in Ni-base single-crysta
 
 韩琦男，施惠基，镍基单晶超合金微动疲劳裂纹萌生的原位观测实验及晶体塑性有限元模拟，中国力学大会, 2015年8月，上海
 
-为 International Journal of Fatigue, Tribology International, Theoretical and Applied Fracture Mechanics, Rare Metals等杂志审稿。
+<!-- 为 International Journal of Fatigue, Tribology International, Theoretical and Applied Fracture Mechanics, Rare Metals等杂志审稿。-->
 
 ## 技术语言
 
