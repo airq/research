@@ -89,7 +89,7 @@ Qi-Nan Han, Hui-Ji Shi, Fetting fatigue crack formation in Ni-base single-crysta
 
 ## Technical skills
 
-- Programming: Fortran, Matlab, Python, C, Python Requests, Html5 & WXML & CSS, Cross-platform App Development, VueJS, Git, Markdown, Latex
+- Programming: Fortran, Matlab, Python, C, Python Requests, Html5/WXML & CSS & Javascript, Cross-platform App Development, VueJS, Git, Markdown, Latex
 - Software: Abaqus and UMAT, OIM (EBSD), Solidworks, Catia, Hbuilder, Image processing softwares, Data processing softwares
 - Language skills: Chinese, English
 
