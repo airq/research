@@ -132,7 +132,9 @@ Qi-Nan Han, Hui-Ji Shi, Fetting fatigue crack formation in Ni-base single-crysta
 
 地址: 南京市秦淮区御道街29号A10楼（明故宫校区）
 
-邮箱: |h|a|n|q|n|@|n|u|a|a|.|e|d|u|.|c|n|
+邮箱: 
+
+|h|a|n|q|n|@|n|u|a|a|.|e|d|u|.|c|n|
 
 
 `Last update: 29/11/2019`
