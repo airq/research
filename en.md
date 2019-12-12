@@ -45,7 +45,7 @@ Excellent Graduation Thesis, National Encouragement Scholarship, First-class Sch
 
 Lecturer
 
-## Publications
+## Selected Publications
 
 For more details see [Scholar Page](https://scholar.google.com/citations?user=V5QlaLsAAAAJ&hl=en&oi=ao) or [Research Gate](https://www.researchgate.net/profile/Qi_Nan_Han)
 
@@ -56,16 +56,6 @@ Han, Q.-N.,  . . . Shi, H. (2019). Effect of crystal orientation on the indentat
 Yue Su, Han QN <sup>*</sup>,  . . . Shi H. (2019). High temperature in-situ SEM observation and crystal plasticity simulation on fretting fatigue of Ni-based single crystal superalloys. International Journal of Plasticity. <i>Accepted</i>.
 
 Han, Q.-N., Qiu, W., He, Z., Su, Y., Ma, X., & Shi, H.-J. (2018). The effect of crystal orientation on fretting fatigue crack formation in Ni-based single-crystal superalloys: In-situ SEM observation and crystal plasticity finite element simulation. Tribology international. 
-
-Han, Q. N., Rui, S. S., Qiu, W., Su, Y., Ma, X., He, Z., . . . Shi, H. J. (2019). Subsurface crack formation and propagation of fretting fatigue in Ni‐based single‐crystal superalloys. Fatigue & Fracture of Engineering Materials & Structures.
-
-Han, Q.-N., Qiu, W., Shang, Y.-B., & Shi, H.-J. (2016). In-situ SEM observation and crystal plasticity finite element simulation of fretting fatigue crack formation in Ni-base single-crystal superalloys. Tribology international. 
-
-He, Z., Qiu, W., Fan, Y. N., Han, Q. N., Shi, H. J., & Ma, X. (2018). Effects of secondary orientation on fatigue crack initiation in a single crystal superalloy. Fatigue & Fracture of Engineering Materials & Structures, 41(4), 935-948. 
-
-Liang, J., Han, Q., He, Z., Wang, Z., Xie, H., Li, X., & SHI, H. (2018). In-situ high-temperature mechanical property measurement technology and its application in scanning electron microscope. SCIENTIA SINICA Physica, Mechanica & Astronomica, 48(9), 094606. 
-
-Ma, X., Wei, D., Han, Q., Rui, S., Su, D., Yang, W., . . . Shi, H.-j. (2019). Parametric study of cyclic plasticity behavior in a directionally solidified superalloy with partial recrystallization by crystal plasticity finite element simulation. Journal of Materials Engineering and Performance, 1-9. 
 
 Rui, S.-S., Shang, Y.-B., Fan, Y.-N., Han, Q.-N., Niu, L.-S., Shi, H.-J., . . . Komai, N. (2018). EBSD analysis of creep deformation induced grain lattice distortion: A new method for creep damage evaluation of austenitic stainless steels. Materials Science and Engineering: A, 733, 329-337. 
 
