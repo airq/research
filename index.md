@@ -113,13 +113,13 @@ Su, Y., Han, Q.-N., Zhang, C.-C., Shi, H.-J., Niu, L.-S., Deng, G.-J., & Rui, S.
 韩琦男, 苏越, 施惠基, 高温原位微动疲劳实验系统，已授权，2018年4月（申请号：201721248108.8）
 
 
-## 学术会议和其他学术活动
+## 学术会议
 
 Qi-Nan Han, Hui-Ji Shi, Fetting fatigue crack formation in Ni-base single-crystal superalloys: in-situ SEM experiment and crystal plasticity analysis, 6th World Tribology Congress, 2017, Beijing, China. 
 
-韩琦男，施惠基，镍基单晶超合金微动疲劳裂纹萌生的原位观测实验及晶体塑性有限元模拟，中国力学大会, 2015年8月，上海
+## 学术活动
 
-<!-- 为 International Journal of Fatigue, Tribology International, Theoretical and Applied Fracture Mechanics, Rare Metals等杂志审稿。-->
+为Theoretical and Applied Fracture Mechanics等杂志审稿。
 
 ## 技术语言
 
