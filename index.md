@@ -123,9 +123,9 @@ Qi-Nan Han, Hui-Ji Shi, Fetting fatigue crack formation in Ni-base single-crysta
 
 ## 技术语言
 
-- 编程: Fortran, Matlab, Python, C, Python Requests, Html5/WXML & CSS & Javascript, Cross-platform App Development, VueJS, Git, Markdown, Latex
-- 软件: Abaqus and UMAT, OIM (EBSD), Solidworks, Catia, Hbuilder, Image processing softwares, Data processing softwares
-- 语言: Chinese, English
+- 熟悉科学计算、前后端语言
+- 熟悉工程仿真、图像处理、数据处理软件
+- 中、英文语言熟练
 
 
 ## 联系方式
