@@ -123,7 +123,7 @@ Qi-Nan Han, Hui-Ji Shi, Fetting fatigue crack formation in Ni-base single-crysta
 
 ## 技术语言
 
-- 熟悉科学计算、前后端语言
+- 熟悉科学计算语言、前后端、全栈
 - 熟悉工程仿真、图像处理、数据处理软件
 - 中、英文语言熟练
 
@@ -137,7 +137,7 @@ Qi-Nan Han, Hui-Ji Shi, Fetting fatigue crack formation in Ni-base single-crysta
 |h|a|n|q|n|@|n|u|a|a|.|e|d|u|.|c|n|
 
 
-`Last update: 29/11/2019`
+`Last update: 18/12/2019`
 
 
 <!-- not support by huawei
