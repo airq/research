@@ -63,13 +63,15 @@ Su, Y., Han, Q.-N., Zhang, C.-C., Shi, H.-J., Niu, L.-S., Deng, G.-J., & Rui, S.
 
 Su, Y., Yu, F.-H., Han, Q.-N., Shang, Y.-B., Rui, S.-S., Li, J., . . . Niu, L.-S. (2019). Failure analysis of runway centerline light and effect of microstructure on mechanical properties. Engineering Failure Analysis, 105, 1069-1078. 
 
-## Academic Awards
+## Academic activities
 
 2019 PHM Conference Data Challenge, 4th Place
 
 2018 Tsinghua University Laboratory Construction Contribution Award, Third Prize (first author), Macro and Micro Fretting Fatigue Experiment System
 
 Undergraduate Excellent Graduation Thesis of Tsinghua University
+
+Dr. Han serves as a Peer Reviewer for these journals: Theoretical and Applied Fracture Mechanics, Chinese Journal of Aeronautics.
 
 
 ## Conferences
@@ -79,8 +81,8 @@ Qi-Nan Han, Hui-Ji Shi, Fetting fatigue crack formation in Ni-base single-crysta
 
 ## Technical skills
 
-- Programming: Fortran, Matlab, Python, C, Python Requests, Html5/WXML & CSS & Javascript, Cross-platform App Development, VueJS, Git, Markdown, Latex
-- Software: Abaqus and UMAT, OIM (EBSD), Solidworks, Catia, Hbuilder, Image processing softwares, Data processing softwares
+- Programming: Fortran, Matlab, Python, C, Html5/WXML & CSS & Javascript, Cross-platform App Development, VueJS, Git, Markdown, Latex
+- Software: Abaqus and UMAT, OIM, Solidworks, Catia, Hbuilder, Image processing softwares, Data processing softwares
 - Language skills: Chinese, English
 
 
