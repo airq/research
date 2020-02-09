@@ -76,7 +76,7 @@ Dr. Han serves as a Peer Reviewer for *Theoretical and Applied Fracture Mechanic
 
 ## Conferences
 
-Qi-Nan Han, Hui-Ji Shi, Fetting fatigue crack formation in Ni-base single-crystal superalloys: in-situ SEM experiment and crystal plasticity analysis, 6th World Tribology Congress, 2017, Beijing, China. 
+Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-crystal superalloys: in-situ SEM experiment and crystal plasticity analysis, 6th World Tribology Congress, 2017, Beijing, China. 
 
 
 ## Technical skills
@@ -97,7 +97,7 @@ Email:
 |h|a|n|q|n|@|n|u|a|a|.|e|d|u|.|c|n|
 
 
-`Last update: 09/02/2019`
+`Last update: 09/02/2020`
 
 
 <!-- not support by huawei
