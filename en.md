@@ -71,7 +71,7 @@ Su, Y., Yu, F.-H., Han, Q.-N., Shang, Y.-B., Rui, S.-S., Li, J., . . . Niu, L.-S
 
 Undergraduate Excellent Graduation Thesis of Tsinghua University
 
-Dr. Han serves as a Peer Reviewer for these journals: Theoretical and Applied Fracture Mechanics, Chinese Journal of Aeronautics.
+Dr. Han serves as a Peer Reviewer for *Theoretical and Applied Fracture Mechanics* and *Chinese Journal of Aeronautics*.
 
 
 ## Conferences
