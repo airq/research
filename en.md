@@ -97,7 +97,7 @@ Email:
 |h|a|n|q|n|@|n|u|a|a|.|e|d|u|.|c|n|
 
 
-`Last update: 02/12/2019`
+`Last update: 09/02/2019`
 
 
 <!-- not support by huawei
