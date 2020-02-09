@@ -120,7 +120,7 @@ Qi-Nan Han, Hui-Ji Shi, Fetting fatigue crack formation in Ni-base single-crysta
 
 ## 学术活动
 
-为Theoretical and Applied Fracture Mechanics, Chinese Journal of Aeronautics等杂志审稿。
+为*Theoretical and Applied Fracture Mechanics*, *Chinese Journal of Aeronautics*等杂志审稿。
 
 ## 技术语言
 
