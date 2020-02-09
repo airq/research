@@ -28,8 +28,8 @@ Ph.D in Mechanics
 
 First-class Scholarship, Outstanding Graduate of Beijing
 
-Dissertation: Research on the Crystal Orientation and Temperature-Related Fretting Fatigue Properties of Ni-based Single
-Crystal Superalloy
+Dissertation: *Research on the Crystal Orientation and Temperature-Related Fretting Fatigue Properties of Ni-based Single
+Crystal Superalloy*
 
 Supervisor: Professor Shi Huiji
 
