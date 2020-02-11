@@ -1,0 +1,15 @@
+删除footer的方法：这是原先的，现在不用了，现在有了正确的index
+1. Edit readme,md
+2. commit
+3. open page and save as single html
+4. edit html file
+5. upload html to this folder
+
+
+修改banner的颜色，在index的28行：
+<style>
+      .bg-gradient {
+        background-color: black;
+        background-image: linear-gradient(120deg, #6699cc, #159957);
+      }
+ </style>
