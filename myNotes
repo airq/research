@@ -5,7 +5,7 @@
 4. edit html file
 5. upload html to this folder
 
-
+=====================================================================
 修改banner的颜色，在index的28行：
 <style>
       .bg-gradient {
@@ -13,3 +13,23 @@
         background-image: linear-gradient(120deg, #6699cc, #159957);
       }
  </style>
+
+------
+随机修改：
+
+
+      // choose the banner color
+      var colorArr = [];
+      var test =  document.getElementsByTagName('header')[0];
+
+      test.style.backgroundImage='linear-gradient(-90deg, #29bdd9 0%, #276ace 100%)';
+      test.style.backgroundImage='linear-gradient(120deg, #29bdd9, #276ace)';
+
+      test.style.backgroundImage='linear-gradient(to right, #ff9569 0%, #e92758 100%)';
+      test.style.backgroundImage='linear-gradient(120deg, #667eea, #764ba2)';
+
+      test.style.backgroundImage='linear-gradient(120deg, #667eea, #764ba2)';
+      test.style.backgroundImage='linear-gradient(-90deg, #29bdd9 0%, #276ace 100%)';
+      test.style.backgroundImage='linear-gradient(120deg, #13547a , #80d0c7)';
+      
+===============================================
