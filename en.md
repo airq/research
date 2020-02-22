@@ -89,12 +89,12 @@ Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 ## Contact information
 
 
-- Email: 
+Email: 
   
 |h|a|n|q|n|@|n|u|a|a|.|e|d|u|.|c|n|
 
 
-- Address: 
+Address: 
 
 A10 Building, 29 Yudao Road, Nanjing 210016, Jiangsu, China
 
