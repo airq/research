@@ -7,7 +7,7 @@
 
 ## Biography
 
-Qinan Han is currently working as a Lecturer at *College of Energy and Power Engineering, Nanjing University Of Aeronautics And Astronautics (NUAA)*. He received his bachelor's degree (BEng) from Tsinghua University in 2013. He obtained his Ph.D from Tsinghua University in 2018 under the supervision of Prof. Huiji Shi.
+Qinan Han is currently working as a Lecturer at *College of Energy and Power Engineering, Nanjing University Of Aeronautics And Astronautics (NUAA)*. He received his bachelor's degree (BEng) from *Tsinghua University* in 2013. He obtained his Ph.D from *Tsinghua University* in 2018 under the supervision of Prof. Huiji Shi.
 
 **Research insterests:**
 - Fretting fatigue of Ni-based superalloys
