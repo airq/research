@@ -82,8 +82,6 @@ Han, Q.-N., Rui, S.-S., Qiu, W., Ma, X., Su, Y., Cui, H., . . . Shi, H. (2019). 
 
 Han, Q.-N.,  . . . Shi, H. (2019). Effect of crystal orientation on the indentation behaviour of Ni-based single crystal superalloy. Materials Science & Engineering A.
 
-Yue Su, Han QN <sup>*</sup>,  . . . Shi H<sup>*</sup>. (2019). High temperature in-situ SEM observation and crystal plasticity simulation on fretting fatigue of Ni-based single crystal superalloys. International Journal of Plasticity.
-
 Han, Q.-N., Qiu, W., He, Z., Su, Y., Ma, X., & Shi, H.-J. (2018). The effect of crystal orientation on fretting fatigue crack formation in Ni-based single-crystal superalloys: In-situ SEM observation and crystal plasticity finite element simulation. Tribology international. 
 
 Han, Q. N., Rui, S. S., Qiu, W., Su, Y., Ma, X., He, Z., . . . Shi, H. J. (2019). Subsurface crack formation and propagation of fretting fatigue in Ni‐based single‐crystal superalloys. Fatigue & Fracture of Engineering Materials & Structures.
@@ -93,7 +91,7 @@ Su, Y., Han, Q.-N., Zhang, C.-C., Shi, H.-J., Niu, L.-S., Deng, G.-J., & Rui, S.
 
 ## 学术奖项
 
-2019PHM机器学习数据挑战赛，第4名, RealAI团队成员
+2019PHM机器学习数据挑战赛，第4名
 
 2018清华大学实验室建设贡献奖，三等奖（第一作者），宏微观微动疲劳实验系统
 
