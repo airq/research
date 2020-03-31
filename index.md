@@ -70,8 +70,7 @@
 
 其他项目：
 
-- 王永志科创基金，主持
-- XXX试验技术研究与试验装置开发，科研院所项目，主持
+- 某试验技术研究与试验装置开发，科研院所项目，主持
 
 
 ## 代表性文章
@@ -137,8 +136,8 @@ Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 
 
 <!--
+王永志科创基金，主持
 Programming: Fortran (UMAT), Matlab, Python, Python Requests (for data collecting), Html5 & CSS, VueJS, Mobile App (PureWeather on iPhone App Store), Wechat SmallApp (EasyCard), Git
-
 -->
 
 <!--
