@@ -2,7 +2,7 @@ var consoleInfo = "+------------------------------------------------------------
 
 
 console.info("Hello!");
-console.info("Welcome contact!");
-console.info("hanqn@nuaa.edu.cn");
+console.info("Welcome to contact!");
+console.info("Welcome to follow me on Twitter @Dr_QHan!");
 console.info(consoleInfo);
 //console.info(consoleInfo, "color: #f70");
