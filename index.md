@@ -51,7 +51,7 @@
 
 学士学位（工程力学与航天航空工程）
 
-优秀本科生毕业设计，国家励志奖学金，学业一等奖学金
+国家励志奖学金，学业一等奖学金
 
 ## 任教经历
 
@@ -70,7 +70,7 @@
 
 其他项目：
 
-- 某试验技术研究与试验装置开发，科研院所项目，主持
+- 某试验技术研究与试验装置开发，主持
 
 
 ## 代表性文章
@@ -83,9 +83,6 @@ Han, Q.-N.,  . . . Shi, H. (2019). Effect of crystal orientation on the indentat
 
 Han, Q.-N., Qiu, W., He, Z., Su, Y., Ma, X., & Shi, H.-J. (2018). The effect of crystal orientation on fretting fatigue crack formation in Ni-based single-crystal superalloys: In-situ SEM observation and crystal plasticity finite element simulation. Tribology international. 
 
-Han, Q. N., Rui, S. S., Qiu, W., Su, Y., Ma, X., He, Z., . . . Shi, H. J. (2019). Subsurface crack formation and propagation of fretting fatigue in Ni‐based single‐crystal superalloys. Fatigue & Fracture of Engineering Materials & Structures.
-
-Su, Y., Han, Q.-N., Zhang, C.-C., Shi, H.-J., Niu, L.-S., Deng, G.-J., & Rui, S.-S. (2019). Effects of secondary orientation and temperature on the fretting fatigue behaviors of Ni-based single crystal superalloys. Tribology international, 130, 9-18. 
 
 
 ## 学术奖项
