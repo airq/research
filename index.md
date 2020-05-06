@@ -83,11 +83,15 @@ Han, Q.-N.,  . . . Shi, H. (2019). Effect of crystal orientation on the indentat
 
 Han, Q.-N., Qiu, W., He, Z., Su, Y., Ma, X., & Shi, H.-J. (2018). The effect of crystal orientation on fretting fatigue crack formation in Ni-based single-crystal superalloys: In-situ SEM observation and crystal plasticity finite element simulation. Tribology international. 
 
+Han, Q. N., Rui, S. S., Qiu, W., Su, Y., Ma, X., He, Z., . . . Shi, H. J. (2019). Subsurface crack formation and propagation of fretting fatigue in Ni‐based single‐crystal superalloys. Fatigue & Fracture of Engineering Materials & Structures.
+
+Su, Y., Han, Q.-N., Zhang, C.-C., Shi, H.-J., Niu, L.-S., Deng, G.-J., & Rui, S.-S. (2019). Effects of secondary orientation and temperature on the fretting fatigue behaviors of Ni-based single crystal superalloys. Tribology international, 130, 9-18.
+
 
 
 ## 学术奖项
 
-2019PHM机器学习数据挑战赛，第4名
+2019PHM机器学习数据挑战团队赛，第4名
 
 2018清华大学实验室建设贡献奖，三等奖（第一作者），宏微观微动疲劳实验系统
 
