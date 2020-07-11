@@ -121,7 +121,7 @@ Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 
 - 熟悉科学计算语言、前后端、全栈
 - 熟悉工程仿真、图像处理、数据处理软件
-- 中、英文语言熟练
+- 普通话一级乙等、英文熟练
 
 
 ## 联系方式
@@ -133,7 +133,7 @@ Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 |h|a|n|q|n|@|n|u|a|a|.|e|d|u|.|c|n|
 
 
-`Last update: 09/02/2020`
+`Last update: 09/07/2020`
 
 
 <!-- not support by huawei
