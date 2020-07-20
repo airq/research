@@ -1,7 +1,7 @@
 <!--[English Version](https://hanqn.com/en)-->
 
 <div align="right">
-<a class="button2 btn-primary " type="button" href="https://hanqn.com/en">English Version</a>
+<a class="button2 btn-primary " type="button" href="https://hanqn.com/en" style ="margin-bottom:5px">English Version</a>
 </div>
 
 ## 简介
