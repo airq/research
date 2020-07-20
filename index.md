@@ -1,10 +1,12 @@
 <!--[English Version](https://hanqn.com/en)-->
 
 <div align="right">
-<a class="button2 btn-primary " type="button" href="https://hanqn.com/en" style ="margin-bottom:5px">English Version</a>
+<a class="button2 btn-primary " type="button" href="https://hanqn.com/en"  >English Version</a>
 </div>
 
-## 简介
+<!-- ## 简介 -->
+
+<h2 id="简介" style="margin-top:-35px">简介</h2>
 
 韩琦男博士当前作为讲师任职于南京航空航天大学（能源与动力学院强度与振动工程系）。他于2013年获得清华大学学士学位（力学）。他于2018年在施惠基教授的指导下获得清华大学博士学位（固体力学）。
 
