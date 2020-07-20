@@ -4,7 +4,7 @@
 <a class="button2 btn-primary " type="button" href="https://hanqn.com/en"  >English Version</a>
 </div>
 
- ## 简介 
+## 简介 
 
 <!-- <h2 id="简介" style="margin-top:-35px">简介</h2> -->
 
