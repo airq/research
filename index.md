@@ -85,7 +85,7 @@ Han, Q.-N.,  . . . Shi, H. (2019). Effect of crystal orientation on the indentat
 
 Han, Q.-N., Qiu, W., He, Z., Su, Y., Ma, X., & Shi, H.-J. (2018). The effect of crystal orientation on fretting fatigue crack formation in Ni-based single-crystal superalloys: In-situ SEM observation and crystal plasticity finite element simulation. Tribology international. 
 
-Han Qinan, Lei Xusheng, . . .  Cui Haitao*, Shi Huiji* (2020). In-situ Observation and Finite Element Analysis of Fretting Fatigue Crack Propagation Behavior in 1045 Steel. Chinese Journal of Aeronautics.
+Han Qinan, Lei Xusheng, . . .  Cui Haitao*, Shi Huiji (2020). In-situ Observation and Finite Element Analysis of Fretting Fatigue Crack Propagation Behavior in 1045 Steel. Chinese Journal of Aeronautics.
 
 Han, Q. N., Rui, S. S., Qiu, W., Su, Y., Ma, X., He, Z., . . . Shi, H. J. (2019). Subsurface crack formation and propagation of fretting fatigue in Ni‐based single‐crystal superalloys. Fatigue & Fracture of Engineering Materials & Structures.
 
