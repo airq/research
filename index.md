@@ -119,7 +119,7 @@ Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 
 ## 学术活动
 
-为*Theoretical and Applied Fracture Mechanics*, *Chinese Journal of Aeronautics*等杂志审稿。
+为*Theoretical and Applied Fracture Mechanics*, *Chinese Journal of Aeronautics*等杂志审稿。中国机械工程学会会员。
 
 ## 技术语言
 
@@ -137,7 +137,7 @@ Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 |h|a|n|q|n|@|n|u|a|a|.|e|d|u|.|c|n|
 
 
-`Last update: 29/07/2020`
+`Last update: 19/08/2020`
 
 
 <!-- not support by huawei
