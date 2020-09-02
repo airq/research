@@ -92,7 +92,9 @@ Su, Y., Han, Q.-N., Zhang, C.-C., Shi, H.-J., Niu, L.-S., Deng, G.-J., & Rui, S.
 
 
 
-## 学术奖项
+## 学术荣誉
+
+2020,江苏省双创博士 （双创人才计划）
 
 2019结构健康监测（PHM）机器学习数据挑战赛，第4名
 
@@ -141,7 +143,7 @@ Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 |h|a|n|q|n|@|n|u|a|a|.|e|d|u|.|c|n|
 
 
-`Last update: 19/08/2020`
+`Last update: 01/09/2020`
 
 
 <!-- not support by huawei
