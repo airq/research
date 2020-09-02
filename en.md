@@ -74,6 +74,10 @@ Dr. Han serves as a Peer Reviewer for *Theoretical and Applied Fracture Mechanic
 
 ## Conferences
 
+Qinan Han, Jianwen Fang, Haitao Cui, Crystal orientation effect on the fretting fatigue behavior in Ni-based single crystal superalloys, The 8th International Conference on Fracture Fatigue and Wear (FFW 2020), August 26-27, 2020, Online conference.
+
+Qinan Han, Wenhui Qiu, Haitao Cui, Huiji Shi, Crystal Plasticity Simulation of the Indentation Behavior of Ni-based Single Crystal Superalloy Considering the Crystal Orientation Effect, 11th International Conference on Computational Methods (ICCM 2020), 9th-12th August 2020, Virtual Conference.
+
 Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-crystal superalloys: in-situ SEM experiment and crystal plasticity analysis, 6th World Tribology Congress, 2017, Beijing, China. 
 
 
