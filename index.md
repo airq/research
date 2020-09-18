@@ -53,7 +53,7 @@
 
 学士学位（工程力学与航天航空工程）
 
-国家励志奖学金，学业一等奖学金
+国家励志奖学金，学业一等奖学金多次，冯氏学者奖学金
 
 
 
@@ -79,7 +79,7 @@ For more details see [Scholar Page](https://scholar.google.com/citations?user=V5
 
 Han, Q.-N., Rui, S.-S., Qiu, W., Ma, X., Su, Y., Cui, H., . . . Shi, H. (2019). Crystal orientation effect on fretting fatigue induced geometrically necessary dislocation distribution in Ni-based single-crystal superalloys. Acta Materialia.
 
-Han, Q.-N., et al. Effects of temperature and load on fretting fatigue induced geometrically necessary dislocation distribution in titanium alloy. Under Review.
+Han, Q.-N., et al.(2020). Effects of temperature and load on fretting fatigue induced geometrically necessary dislocation distribution in titanium alloy. Materials Science & Engineering A.
 
 Han, Q.-N.,  . . . Shi, H. (2019). Effect of crystal orientation on the indentation behaviour of Ni-based single crystal superalloy. Materials Science & Engineering A.
 
