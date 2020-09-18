@@ -144,7 +144,7 @@ Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 |h|a|n|q|n|@|n|u|a|a|.|e|d|u|.|c|n|
 
 
-`Last update: 01/09/2020`
+`Last update: 18/09/2020`
 
 
 <!-- not support by huawei
