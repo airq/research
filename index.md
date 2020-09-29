@@ -28,7 +28,7 @@
 
 ### 热诚欢迎有志青年报考研究生！
 
-一级学科名称：能源动力，一级学科代码：085800（专业硕士）
+一级学科名称：能源动力，一级学科代码：085800（专业硕士）。其下包含:01动力工程，02航空工程。
 
 <div align="center">
 <img src="https://i.loli.net/2019/09/04/drzYDtXu3SA5ZFo.png" width ="55%" height ="55%" />
@@ -95,7 +95,7 @@ Su, Y., Han, Q.-N., Zhang, C.-C., Shi, H.-J., Niu, L.-S., Deng, G.-J., & Rui, S.
 
 ## 学术荣誉
 
-2020,江苏省双创博士 （双创人才计划）
+2020,江苏省双创博士 （双创人才计划），能源与动力学院"能动之星"
 
 2019结构健康监测（PHM）机器学习数据挑战赛，第4名
 
@@ -144,7 +144,7 @@ Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 |h|a|n|q|n|@|n|u|a|a|.|e|d|u|.|c|n|
 
 
-`Last update: 18/09/2020`
+`Last update: 29/09/2020`
 
 
 <!-- not support by huawei
