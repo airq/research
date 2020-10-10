@@ -13,7 +13,7 @@ Qinan Han is currently working as a Lecturer at *College of Energy and Power Eng
 - Fretting fatigue of Ni-based superalloys
 - Characterization of advanced materials using in-situ SEM and EBSD
 - Crystal plasticity simulation on mechanical behaviors of Ni-based superalloys
-- Data-driven method to understand material properties 
+- Data-driven method to understand and model material properties 
 
 <div align="center">
 <img src="https://i.loli.net/2019/09/04/drzYDtXu3SA5ZFo.png" width ="70%" height ="70%" />
