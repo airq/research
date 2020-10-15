@@ -95,7 +95,9 @@ Su, Y., Han, Q.-N., Zhang, C.-C., Shi, H.-J., Niu, L.-S., Deng, G.-J., & Rui, S.
 
 ## 学术荣誉
 
-2020,江苏省双创博士 （双创人才计划），能源与动力学院"能动之星"
+2020, 江苏省双创博士 （双创人才计划）
+
+2020, 能源与动力学院"能动之星"
 
 2019结构健康监测（PHM）机器学习数据挑战赛，第4名
 
@@ -124,6 +126,14 @@ Considering the Crystal Orientation Effect,  11th International Conference on Co
 
 Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-crystal superalloys: in-situ SEM experiment and crystal plasticity analysis, 6th World Tribology Congress, 2017, Beijing, China. 
 
+## 教学和学生指导
+
+2020秋季学期《工程弹性力学》课程助教
+
+现指导和协助指导硕士生5名，博士生1名，研究生论文和课题均进展顺利。
+
+曾指导多名基本科研能力训练、本科生毕业设计，学生均取得良好成绩。
+
 ## 学术活动
 
 为*Theoretical and Applied Fracture Mechanics*, *Chinese Journal of Aeronautics*等杂志审稿。中国机械工程学会会员。
@@ -144,7 +154,7 @@ Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 |h|a|n|q|n|@|n|u|a|a|.|e|d|u|.|c|n|
 
 
-`Last update: 29/09/2020`
+`Last update: 16/10/2020`
 
 
 <!-- not support by huawei
