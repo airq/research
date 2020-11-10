@@ -126,6 +126,8 @@ Qinan Han, Jianwen Fang, Haitao Cui, Crystal orientation effect on the fretting 
  Qinan Han, Wenhui Qiu, Haitao Cui, Huiji Shi, Crystal Plasticity Simulation of the Indentation Behavior of Ni-based Single Crystal Superalloy
 Considering the Crystal Orientation Effect,  11th International Conference on Computational Methods (ICCM 2020),  9th-12th August 2020, Virtual Conference.
 
+Qinan Han, Shao-Shi Rui, Yue Su, Haitao Cui, Huiji Shi. The Distributions of Geometrically Necessary Dislocation under Different Crystal Orientations in Fretting Fatigue of Ni-based Single-crystal Superalloys. The 16th Asia-Pacific Conference on Fracture and Strength 2020 (APCFS2020). November 3-7 2020. Online conference.
+
 Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-crystal superalloys: in-situ SEM experiment and crystal plasticity analysis, 6th World Tribology Congress, 2017, Beijing, China. 
 
 ## 教学和学生指导
