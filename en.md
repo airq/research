@@ -10,7 +10,7 @@
 Qinan Han is currently working as a Lecturer at *College of Energy and Power Engineering, Nanjing University of Aeronautics and Astronautics (NUAA)*. He received his bachelor's degree (BEng) from *Tsinghua University* in 2013. He obtained his Ph.D from *Tsinghua University* in 2018 under the supervision of Prof. Huiji Shi.
 
 **Research interests:**
-- Fretting fatigue of Ni-based superalloys
+- Fretting fatigue and low cycle fatigue of Ni-based superalloys
 - Characterization of advanced alloys using in-situ SEM and EBSD
 - Crystal plasticity simulation on mechanical behaviors of Ni-based superalloys
 - Data-driven method to understand and model material properties 
