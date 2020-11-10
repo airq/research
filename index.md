@@ -18,7 +18,7 @@
 
 **研究兴趣/招生方向:**
 
-- 镍基单晶高温合金的微动疲劳
+- 镍基单晶高温合金的疲劳、微动疲劳
 - 基于原位SEM和EBSD的材料表征
 - 镍基合金的晶体塑性有限元模拟
 - 基于数据驱动的材料内秉属性理解
@@ -160,7 +160,7 @@ Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 |h|a|n|q|n|@|n|u|a|a|.|e|d|u|.|c|n|
 
 
-`Last update: 16/10/2020`
+`Last update: 10/11/2020`
 
 
 <!-- not support by huawei
