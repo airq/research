@@ -1,4 +1,4 @@
-<!--[English Version](https://hanqn.com/en)-->
+<!--[English](https://hanqn.com/en)-->
 
 <div align="right">
 <a class="button2 btn-primary " type="button" href="https://hanqn.com/en"  >English Version</a>
