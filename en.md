@@ -20,7 +20,6 @@ Dr. Qinan Han is currently working as a Lecturer at *College of Energy and Power
 </div>
 
 
-<br/>
 
 <!--
 **Comprehensive characterization and modelling of material deformation:**
@@ -30,9 +29,8 @@ Dr. Qinan Han is currently working as a Lecturer at *College of Energy and Power
 <img src="https://raw.githubusercontent.com/airq/research/master/img/500-13-tip-cycle.gif" width ="90%" height ="90%" />
 </div>
 
-<center> Comprehensive characterization </center>
-
 <!--
+<center> Comprehensive characterization </center>
 For the same fretting fatigue crack tip zone, the SEM, EBSD, Abaqus crystal plasticity model established from real EBSD, calculated Mises stress and cumulative shear strain maps are presented.
 -->
 
