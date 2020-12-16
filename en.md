@@ -19,6 +19,7 @@ Dr. Qinan Han is currently working as a Lecturer at *College of Energy and Power
 <img src="https://i.loli.net/2019/09/04/drzYDtXu3SA5ZFo.png" width ="70%" height ="70%" />
 </div>
 
+<br/>
 <div align="center">
 <img src="https://raw.githubusercontent.com/airq/research/master/img/500-13-tip-cycle.gif" width ="100%" height ="100%" />
 </div>
