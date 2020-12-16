@@ -20,7 +20,7 @@ Dr. Qinan Han is currently working as a Lecturer at *College of Energy and Power
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/airq/research/master/img/500-13-tip.gif" width ="90%" height ="90%" />
+<img src="https://raw.githubusercontent.com/airq/research/master/img/500-13-tip-cycle.gif" width ="100%" height ="100%" />
 </div>
 
 Comprehensive characterization and modelling of material deformation: the same fretting fatigue crack tip zone. 
