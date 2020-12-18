@@ -103,7 +103,7 @@ Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 
 - Programming: Fortran, Matlab, Python, C, Html5/WXML & CSS & Javascript, Cross-platform App Development, VueJS, Git, Markdown, Latex
 - Software: Abaqus and UMAT, OIM, Solidworks, Catia, Hbuilder, Image processing softwares, Data processing softwares
-- Language skills: Chinese, English(IELTS 7.0)
+- Language skills: Chinese, English (IELTS 7.0)
 
 
 ## Contact information
