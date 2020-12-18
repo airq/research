@@ -12,7 +12,7 @@ Dr. Qinan Han is currently working as a Lecturer at *College of Energy and Power
 **Research interests:**
 - Fretting fatigue and low cycle fatigue of Ni-based superalloys
 - Characterization of advanced alloys using in-situ SEM and EBSD
-- Crystal plasticity simulation on mechanical behaviors of Ni-based superalloys
+- Crystal plasticity simulation on mechanical behaviors of single-crystal and poly-crystal alloys
 - Data-driven method to understand and model material properties 
 
 <div align="center">
