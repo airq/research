@@ -25,8 +25,14 @@ Dr. Qinan Han is currently working as a Lecturer at *College of Energy and Power
 **Comprehensive characterization and modelling of material deformation:**
 -->
 
+<!--
 <div align="center">
 <img src="https://raw.githubusercontent.com/airq/research/master/img/500-13-tip-cycle.gif" width ="90%" height ="90%" />
+</div>
+-->
+
+<div align="center">
+<img src="https://i.loli.net/2020/12/18/j68sTEZSehbAoVf.gif" width ="90%" height ="90%" />
 </div>
 
 <!--
