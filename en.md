@@ -103,7 +103,7 @@ Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 
 - Programming: Fortran, Matlab, Python, C, Html5/WXML & CSS & Javascript, Cross-platform App Development, VueJS, Git, Markdown, Latex
 - Software: Abaqus and UMAT, OIM, Solidworks, Catia, Hbuilder, Image processing softwares, Data processing softwares
-- Language skills: Chinese, English
+- Language skills: Chinese, English(IELTS 7.0)
 
 
 ## Contact information
@@ -127,7 +127,7 @@ A10 Building, 29 Yudao Road, Nanjing 210016, Jiangsu, China
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d845.5374717110113!2d118.8196038292095!3d32.038134135673275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzLCsDAyJzE3LjMiTiAxMTjCsDQ5JzEyLjUiRQ!5e0!3m2!1szh-CN!2sjp!4v1582250805950!5m2!1szh-CN!2sjp" width="95%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 -->
 
-`Last update: 15/12/2020`
+`Last update: 18/12/2020`
 
 
 <!-- not support by huawei
