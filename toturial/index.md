@@ -12,7 +12,7 @@ https://mp.weixin.qq.com/s?src=11&timestamp=1605704245&ver=2714&signature=onboSC
 
 安装教程其实网上特别多，大部分都可以安装成功，而且基本都差不多。
 
-abaqus连接环静力分析教程：【链接】
+abaqus连接环静力分析教程：https://hanqn.com/toturial/%E8%BF%9E%E6%8E%A5%E7%8E%AF%E7%9A%84%E9%9D%99%E5%8A%9B%E5%88%86%E6%9E%90%E6%95%99%E7%A8%8B.doc?raw=true
 
 abaqus XFEM扩展有限元裂纹分析教程：https://wk.baidu.com/view/dc0f1cc558f5f61fb73666ed?pcf=2
 
