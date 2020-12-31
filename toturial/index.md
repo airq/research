@@ -1,7 +1,8 @@
 
 
-# 1. 总述
-这里用于汇集科研入门所需的各种资料
+# 1. 概述
+
+这里用于汇集学习、科研入门所需的各种资料。
 
 # 2. 科研软件
 
@@ -35,19 +36,25 @@ abaqus XFEM扩展有限元裂纹分析教程：https://wk.baidu.com/view/dc0f1cc
 
 文献调研网站工具：
 
-（推荐）谷歌学术 https://scholar.google.com  ，或者web of science：http://apps.webofknowledge.com/Search.do
+（推荐）谷歌学术 https://scholar.google.com  ，或者web of science：http://apps.webofknowledge.com/Search.do  。
+
+不推荐使用百度学术，因为收录的sci多少而且检索排序较乱。
 
 主要调研五年内文献，经验上来说被引用数高的文献看的价值大一些（但不绝对）。
 
 word中文献插入用endnote，公式输入和公式编号mathtype，画图表origin，三维零件设计solidworks/ug/catia等（学精一个即可）。图表编号用word本身即可（百度有提示）。
 
+sci文献下载（正常方式，推荐，网络需要处于学校ip）：谷歌学术点击文章链接可以直接跳转到文章页面（注意如果用的是谷歌学术镜像，一般无法跳转到），学校把elsevier、wilely的文章大部分都买了，在文章页面可以直接下载pdf。
+
+使用 doi.org ：这个网站中输入doi号（每个文章唯一的身份证号），也可以直接跳转到文章页面（中间可能需要多次跳转，刷新网页即可）。或者直接在浏览器地址中输入doi.org/doi号。
+
 sci文献免费下载（校外也可）：sci-hub（百度即有网址，大约是sci-hub.shop）。
 
 # 5. 学习科研心得
 
-（仅供参考，因人而异）
+仅供参考，因人而异。
 
-## 4.1. 制定个人计划的诀窍
+## 5.1. 制定个人计划的诀窍
 
 **定一个大计划不如制定当前就可以实现的可操作的小计划（不怕小，越具体越好）。**例如：
 
