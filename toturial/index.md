@@ -47,7 +47,7 @@ origin正版：https://my.originlab.com/forum/topic.asp?TOPIC_ID=22328
 
 （推荐）谷歌学术 https://scholar.google.com  ，或者web of science：http://apps.webofknowledge.com/Search.do  。
 
-不推荐使用百度学术，因为收录的sci多少而且检索排序较乱。
+不推荐使用百度学术，因为收录的sci很少而且检索排序较乱。
 
 主要调研五年内文献，掌握近期进展。经验上来说被引用数高的文献看的价值大一些（但不绝对）。
 
@@ -83,3 +83,5 @@ sci文献免费下载（校外也可）：sci-hub（百度即有网址，大约�
 
 养成长期记笔记的习惯。我从2013年开始用云笔记至今已经记录了10多GB笔记。
 
+
+*这个页面为韩博士个人总结和组内使用，未经许可请勿随意分享。*
