@@ -3,5 +3,5 @@
 
 1. 科研软件
 
-1.1. abaqus入门
+   1.1. abaqus入门
 abaqus安装教程：
