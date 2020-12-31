@@ -49,7 +49,7 @@ origin正版：https://my.originlab.com/forum/topic.asp?TOPIC_ID=22328
 
 不推荐使用百度学术，因为收录的sci多少而且检索排序较乱。
 
-主要调研五年内文献，经验上来说被引用数高的文献看的价值大一些（但不绝对）。
+主要调研五年内文献，掌握近期进展。经验上来说被引用数高的文献看的价值大一些（但不绝对）。
 
 word中文献插入用endnote，公式输入和公式编号mathtype，画图表origin，三维零件设计solidworks/ug/catia等（学精一个即可）。图表编号用word本身即可（百度有提示）。
 
