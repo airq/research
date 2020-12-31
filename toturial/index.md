@@ -29,7 +29,7 @@ abaqus XFEM扩展有限元裂纹分析教程：https://wk.baidu.com/view/dc0f1cc
 
 # 3. 基本科研训练
 
-每年5月份结束时候要交的报告模板，可以浏览：【链接】
+每年5月份结束时候要交的报告模板，请浏览：https://hanqn.com/toturial/%E5%9F%BA%E6%9C%AC%E7%A7%91%E7%A0%94%E8%83%BD%E5%8A%9B%E8%AE%AD%E7%BB%83-%E6%8A%A5%E5%91%8A%E6%A8%A1%E7%89%88-2019.zip
 
 # 4. 学习科研心得（仅供参考，因人而异）
 
