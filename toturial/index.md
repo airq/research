@@ -31,7 +31,21 @@ abaqus XFEM扩展有限元裂纹分析教程：https://wk.baidu.com/view/dc0f1cc
 
 每年5月份结束时候要交的报告模板，请浏览：https://hanqn.com/toturial/%E5%9F%BA%E6%9C%AC%E7%A7%91%E7%A0%94%E8%83%BD%E5%8A%9B%E8%AE%AD%E7%BB%83-%E6%8A%A5%E5%91%8A%E6%A8%A1%E7%89%88-2019.zip
 
-# 4. 学习科研心得（仅供参考，因人而异）
+# 4. 本科生毕业设计
+
+文献调研网站工具：
+
+（推荐）谷歌学术 https://scholar.google.com  ，或者web of science：http://apps.webofknowledge.com/Search.do
+
+主要调研五年内文献，经验上来说被引用数高的文献看的价值大一些（但不绝对）。
+
+word中文献插入用endnote，公式输入和公式编号mathtype，画图表origin，三维零件设计solidworks/ug/catia等（学精一个即可）。图表编号用word本身即可（百度有提示）。
+
+sci文献免费下载（校外也可）：sci-hub（百度即有网址，大约是sci-hub.shop）。
+
+# 5. 学习科研心得
+
+（仅供参考，因人而异）
 
 ## 4.1. 制定个人计划的诀窍
 
