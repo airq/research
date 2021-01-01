@@ -15,7 +15,7 @@ abaqus documentation：最好的abaqus学习资料，不仅有步骤讲解，还
 abaqus documentation使用提示：
 
 - 最常用的是Abaqus/CAE User's Guide（相当于入门教程，有很多详细的操作过程讲解）和 Abaqus Analysis User's Guide（部分稍难一些的操作、操作涉及的理论讲解）。
-- 点击abaqus界面导航栏中“问号”，再点击一个窗口，可以迅速进入abaqus documentation相应的位置。
+- 点击abaqus界面导航栏中“问号”，再点击一个窗口或者界面上任意位置，可以迅速进入abaqus documentation相应的内容讲解。
 - 在abaqus documentation页面搜索框搜索关键词：查看搜索结果中数字最大的位置，一般可以找到需要搜索的内容。
 
 庄茁《基于abaqus的有限元分析和应用》：本书有大量示例，以及详细的abaqus操作过程（例如下面提到的连接环静力分析），网上有pdf。
