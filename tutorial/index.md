@@ -35,7 +35,7 @@ abaqus XFEM扩展有限元裂纹分析教程：https://wk.baidu.com/view/dc0f1cc
 
 ## 2.2. abaqus阶段二：微动的XFEM分析
 
-参考文献：https://www.sciencedirect.com/science/article/pii/S0301679X16001377#f0025 的 Fig.2进行微动接触模型建立，尺寸大概相似即可不要求完全一样，边界条件按照文献设置、载荷按照Table1中的Case2或3。网格划分与Fig3类似即可，不要求完全一致。参考XFEM入门教程实现的方法，在Specimen上、接触区中央设置XFEM裂纹，裂纹扩展准则等设置可以都按照XFEM入门教程。以上是模型设置的主要要求，其他可以自己学习、网上百度、参考文献书籍或者与我讨论。
+参考文献：https://www.sciencedirect.com/science/article/pii/S0301679X16001377#f0025  的Fig.2进行微动接触模型建立，尺寸大概相似即可不要求完全一样，边界条件按照文献设置、载荷按照Table1中的Case2或3。网格划分与Fig3类似即可，不要求完全一致。参考XFEM入门教程实现的方法，在Specimen上、接触区中央设置XFEM裂纹，裂纹扩展准则等设置可以都按照XFEM入门教程。以上是模型设置的主要要求，其他可以自己学习、网上百度、参考文献书籍或者与我讨论。
 
 **要求如下：**
 
