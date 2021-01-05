@@ -33,6 +33,8 @@ abaqus连接环静力分析教程：https://hanqn.com/tutorial/%E8%BF%9E%E6%8E%A
 
 abaqus XFEM扩展有限元裂纹分析教程：https://wk.baidu.com/view/dc0f1cc558f5f61fb73666ed?pcf=2
 
+XFEM科普：https://mp.weixin.qq.com/s/9TN5fbOlIHs6WrGgPYRchQ 
+
 **具体要求如下：** 
 
 请按照第1个链接是一个安装教程，自己下载安装一下abaqus，那个教程的底部有百度网盘的下载链接。然后第2个和第3个是两个具体的案例，一个是连接环，一个是裂纹扩展，自己独立照着做一下。
