@@ -63,7 +63,7 @@ origin正版：https://my.originlab.com/forum/topic.asp?TOPIC_ID=22328
 
 每年5月份结束时候要交的报告模板，请浏览：https://hanqn.com/tutorial/%E5%9F%BA%E6%9C%AC%E7%A7%91%E7%A0%94%E8%83%BD%E5%8A%9B%E8%AE%AD%E7%BB%83-%E6%8A%A5%E5%91%8A%E6%A8%A1%E7%89%88-2019.zip
 
-# 4. 本科生毕业设计
+# 4. 文献调研和下载相关（本科生毕业设计/研究生入门）
 
 <!-- 锚点： https://hanqn.com/tutorial/index.html#4-%E6%9C%AC%E7%A7%91%E7%94%9F%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1  --> 
 
@@ -82,6 +82,8 @@ sci文献下载（正常方式，推荐，网络需要处于学校ip）：谷歌
 使用 doi.org ：这个网站中输入doi号（每个文章唯一的身份证号），也可以直接跳转到文章页面（中间可能需要多次跳转，刷新网页即可）。或者直接在浏览器地址中输入doi.org/doi号。
 
 sci文献免费下载（校外也可）：sci-hub（百度即有网址，大约是sci-hub.shop）。
+
+Elsevier ScienceDirect文献远程访问（在家下载文献）：http://lib.nuaa.edu.cn/do/bencandy.php?fid=3&id=3669   这个我一直在用，很好用。
 
 # 5. 学习科研心得
 
