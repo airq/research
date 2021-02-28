@@ -134,7 +134,7 @@ Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 
 ## 教学和学生指导
 
-2020秋季学期《工程弹性力学》课程助教
+2020秋季学期《工程弹性力学》课程助教, 春季学期《航空发动机结构分析与设计》课程助教。
 
 指导硕士生1名，协助指导硕士生4名、博士生1名，研究生论文和课题均进展顺利。
 
@@ -157,9 +157,10 @@ Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 
 地址: 南京市秦淮区御道街29号A10楼（明故宫校区）
 
-邮箱: 
+邮箱:  hanqn *at* nuaa.edu.cn
 
-|h|a|n|q|n|@|n|u|a|a|.|e|d|u|.|c|n|
+<!--  |h|a|n|q|n|@|n|u|a|a|.|e|d|u|.|c|n|  -->
+
 
 
 `Last update: 12/12/2020`
