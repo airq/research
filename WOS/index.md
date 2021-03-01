@@ -2,9 +2,9 @@
 
 # 概述
 
-只点一下，将Web of Science搜索结果保存为参考文献。
+**只点一下，将Web of Science搜索结果保存为参考文献。
 
-Generate citations from Web of Science by JUST ONE CLICK!
+**Generate citations from Web of Science by JUST ONE CLICK!
 
 
 # 安装
@@ -28,9 +28,9 @@ Generate citations from Web of Science by JUST ONE CLICK!
 1. 在Web of Science中搜索时，点击右上角"W"标志的按钮，即可得到当前页面的参考引文；
 2. 在"W"标志右键--选项，可以设置参考文献格式、编号格式、设置序号起始值，点击保存，回到搜索页面刷新页面（或者进行新的搜索时），右上角引文更新为新格式。
 
-与Google Scholar扩展程序相比的优点：
+与"Google Scholar扩展程序"相比的优点：
 
-1、没有Google Scholar功能多，如果能用Google Scholar还是推荐用Google Scholar。
+1、没有Google Scholar扩展程序的功能多，如果能用Google Scholar还是推荐用Google Scholar。
 2、可以一次输出多达几十条引文。
 3、可以输出为ppt格式。
 
