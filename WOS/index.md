@@ -2,7 +2,7 @@
 
 # 概述
 
-**只点一下，将Web of Science搜索结果保存为参考文献。
+只点一下，将Web of Science搜索结果保存为参考文献。
 
 **Generate citations from Web of Science by JUST ONE CLICK!
 
