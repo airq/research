@@ -8,6 +8,10 @@
 
 <!-- <h2 id="简介" style="margin-top:-35px">简介</h2> -->
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/airq/research/master/img/DrHAN.jpg" width ="50%" height ="50%" />
+</div>
+
 韩琦男博士当前作为讲师任职于南京航空航天大学（能源与动力学院强度与振动工程系）。他于2013年获得清华大学学士学位（力学）。他于2018年在施惠基教授的指导下获得清华大学博士学位（固体力学）。
 
 <!--
@@ -165,9 +169,7 @@ Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 
 邮箱:  hanqn *at* nuaa.edu.cn
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/airq/research/master/img/DrHAN.jpg" width ="50%" height ="50%" />
-</div>
+
 
 <!--  |h|a|n|q|n|@|n|u|a|a|.|e|d|u|.|c|n|  -->
 
