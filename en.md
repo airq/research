@@ -89,7 +89,6 @@ Rui, S.-S., Shang, Y.-B., Fan, Y.-N., Han, Q.-N., Niu, L.-S., Shi, H.-J., . . . 
 
 Su, Y., Han, Q.-N., Zhang, C.-C., Shi, H.-J., Niu, L.-S., Deng, G.-J., & Rui, S.-S. (2019). Effects of secondary orientation and temperature on the fretting fatigue behaviors of Ni-based single crystal superalloys. Tribology international, 130, 9-18. 
 
-Qinan Han, Yuntian Chen, … Haitao Cui, Huiji Shi. (2021) Wear prediction of aerospace bearing using machine learning. (To be submitted)
 
 
 ## Academic activities
