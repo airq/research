@@ -83,7 +83,7 @@ Han QN, Lei XS, . . . Cui HT, Shi HJ. (2020). Effects of temperature and load on
 
 Han QN, Lei XS, . . . Cui HT, Shi HJ. (2021).Temperature-dependent fatigue response of a Fe44Mn36Co10Cr10 high entropy alloy: a coupled in-situ electron microscopy study and crystal plasticity simulation. Under review.
 
-Han Qi-Nan, Qiu Wenhui, Shang Yi-Bo, et al. (2016) In-situ SEM observation and crystal plasticity finite element simulation of fretting fatigue crack formation in Ni-base single-crystal superalloys. Tribology International.
+Han Qi-Nan, Qiu Wenhui, Shang Yi-Bo, et al. (2016). In-situ SEM observation and crystal plasticity finite element simulation of fretting fatigue crack formation in Ni-base single-crystal superalloys. Tribology International.
 
 Rui, S.-S., Shang, Y.-B., Fan, Y.-N., Han, Q.-N., Niu, L.-S., Shi, H.-J., . . . Komai, N. (2018). EBSD analysis of creep deformation induced grain lattice distortion: A new method for creep damage evaluation of austenitic stainless steels. Materials Science and Engineering: A, 733, 329-337. 
 
