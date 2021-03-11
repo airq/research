@@ -77,16 +77,19 @@ For more details see [Scholar Page](https://scholar.google.com/citations?user=V5
 
 Han, Q.-N., Rui, S.-S., Qiu, W., Ma, X., Su, Y., Cui, H., . . . Shi, H. (2019). Crystal orientation effect on fretting fatigue induced geometrically necessary dislocation distribution in Ni-based single-crystal superalloys. Acta Materialia.
 
-
 Han, Q.-N.,  . . . Shi, H. (2019). Effect of crystal orientation on the indentation behaviour of Ni-based single crystal superalloy. Materials Science & Engineering A.
 
 Han QN, Lei XS, . . . Cui HT, Shi HJ. (2020). Effects of temperature and load on fretting fatigue induced geometrically necessary dislocation distribution in titanium alloy. Materials Science & Engineering A.
 
-Han, Q.-N., Qiu, W., He, Z., Su, Y., Ma, X., & Shi, H.-J. (2018). The effect of crystal orientation on fretting fatigue crack formation in Ni-based single-crystal superalloys: In-situ SEM observation and crystal plasticity finite element simulation. Tribology international. 
+Han QN, Lei XS, . . . Cui HT, Shi HJ. (2021).Temperature-dependent fatigue response of a Fe44Mn36Co10Cr10 high entropy alloy: a coupled in-situ electron microscopy study and crystal plasticity simulation. Under review.
+
+Han Qi-Nan, Qiu Wenhui, Shang Yi-Bo, et al. (2016) In-situ SEM observation and crystal plasticity finite element simulation of fretting fatigue crack formation in Ni-base single-crystal superalloys. Tribology International.
 
 Rui, S.-S., Shang, Y.-B., Fan, Y.-N., Han, Q.-N., Niu, L.-S., Shi, H.-J., . . . Komai, N. (2018). EBSD analysis of creep deformation induced grain lattice distortion: A new method for creep damage evaluation of austenitic stainless steels. Materials Science and Engineering: A, 733, 329-337. 
 
 Su, Y., Han, Q.-N., Zhang, C.-C., Shi, H.-J., Niu, L.-S., Deng, G.-J., & Rui, S.-S. (2019). Effects of secondary orientation and temperature on the fretting fatigue behaviors of Ni-based single crystal superalloys. Tribology international, 130, 9-18. 
+
+Qinan Han, Yuntian Chen, … Haitao Cui, Huiji Shi. (2021) Wear prediction of aerospace bearing using machine learning. (To be submitted)
 
 
 ## Academic activities
