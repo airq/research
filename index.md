@@ -149,11 +149,13 @@ Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 
 本科生指导：指导5名基本科研能力训练、6名本科生毕业设计，学生均取得良好成绩。指导本科生大学生创新创业项目1项。
 
-## 学术活动
+## 学术活动和国际合作
 
 为*Theoretical and Applied Fracture Mechanics*, *Chinese Journal of Aeronautics*等杂志审稿。
 
 江苏省中小型绿色动力装置工程实验室副秘书长。中国机械工程学会会员。
+
+与麻省理工学院(MIT), 怀俄明大学(University of Wyoming)，卡耐基梅隆大学(Carnegie Mellon University)，清华大学，北京大学，中山大学，西北工业大学，空军工程大学等国内外知名研究单位有深入合作研究。
 
 ## 技术语言
 
