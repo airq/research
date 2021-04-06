@@ -99,8 +99,13 @@ Su, Y., Han, Q.-N., Zhang, C.-C., Shi, H.-J., Niu, L.-S., Deng, G.-J., & Rui, S.
 
 Undergraduate Excellent Graduation Thesis of Tsinghua University
 
-Dr. Han serves as a Peer Reviewer for *Theoretical and Applied Fracture Mechanics* , *Chinese Journal of Aeronautics*.
+Dr. Han serves as:
 
+Peer Reviewer for *Theoretical and Applied Fracture Mechanics* , *Chinese Journal of Aeronautics*.
+
+Invited technical committee and reviewer for IC-EEES 2021
+
+Member of Innovative Science and Engineering Research Institute (ISERI)
 
 ## Conferences
 
@@ -141,7 +146,7 @@ A10 Building, 29 Yudao Road, Nanjing 210016, Jiangsu, China
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d845.5374717110113!2d118.8196038292095!3d32.038134135673275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzLCsDAyJzE3LjMiTiAxMTjCsDQ5JzEyLjUiRQ!5e0!3m2!1szh-CN!2sjp!4v1582250805950!5m2!1szh-CN!2sjp" width="95%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 -->
 
-`Last update: 07/03/2021`
+`Last update: 06/04/2021`
 
 
 <!-- not support by huawei
