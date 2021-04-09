@@ -129,7 +129,7 @@ Su, Y., Han, Q.-N., Zhang, C.-C., Shi, H.-J., Niu, L.-S., Deng, G.-J., & Rui, S.
 
 韩琦男, 杨晓林, 崔海涛, 苏越, 施惠基, 超高温原位微动疲劳实验系统（申请号CN202010167112.1，公开号CN111443103A）
 
-
+Han Qinan, Xiaolin Yang, et al. SYSTEM FOR ULTRA-HIGH TEMPERATURE IN-SITU FRETTING FATIGUE EXPERIMENT. US patent. 2021. (submitted)
 
 ## 软件著作权
 
