@@ -130,6 +130,12 @@ Su, Y., Han, Q.-N., Zhang, C.-C., Shi, H.-J., Niu, L.-S., Deng, G.-J., & Rui, S.
 韩琦男, 杨晓林, 崔海涛, 苏越, 施惠基, 超高温原位微动疲劳实验系统（申请号CN202010167112.1，公开号CN111443103A）
 
 
+
+## 软件著作权
+
+韩琦男，方健文，雷旭升，崔海涛，几何必需位错密度计算与可视化，2021（申请中）
+
+
 ## 学术会议
 
 Qinan Han, Jianwen Fang, Haitao Cui, Crystal orientation effect on the fretting fatigue behavior in Ni-based single crystal superalloys, The 8th International Conference on Fracture Fatigue and Wear (FFW 2020), August 26-27, 2020, Online conference.
