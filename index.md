@@ -133,7 +133,7 @@ Han Qinan, Xiaolin Yang, et al. SYSTEM FOR ULTRA-HIGH TEMPERATURE IN-SITU FRETTI
 
 ## 软件著作权
 
-韩琦男，方健文，雷旭升，崔海涛，几何必需位错密度计算与可视化，2021（申请中）
+韩琦男，方健文，雷旭升，崔海涛，几何必需位错密度计算与可视化软件，2021（申请中）
 
 
 ## 学术会议
