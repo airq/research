@@ -141,6 +141,8 @@ Han Qinan, Xiaolin Yang, et al. SYSTEM FOR ULTRA-HIGH TEMPERATURE IN-SITU FRETTI
 韩琦男，方健文，雷旭升，崔海涛，几何必需位错密度计算与可视化软件，2021.4，登记号2021SR0564383.
 
 
+韩琦男，俞耀，崔海涛，各向异性材料裂尖场变量求解及可视化交互软件，申请中
+
 ## 学术会议
 
 Qinan Han, Jianwen Fang, Haitao Cui, Crystal orientation effect on the fretting fatigue behavior in Ni-based single crystal superalloys, The 8th International Conference on Fracture Fatigue and Wear (FFW 2020), August 26-27, 2020, Online conference.
