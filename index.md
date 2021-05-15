@@ -42,7 +42,9 @@
 <img src="https://i.loli.net/2019/09/04/drzYDtXu3SA5ZFo.png" width ="55%" height ="55%" />
 </div>
 
-
+<div align="center">
+<img src="https://i.loli.net/2020/12/18/j68sTEZSehbAoVf.gif" width ="90%" height ="90%" />
+</div>
 
 
 ## 教育经历
@@ -134,7 +136,7 @@ Su, Y., Han, Q.-N., Zhang, C.-C., Shi, H.-J., Niu, L.-S., Deng, G.-J., & Rui, S.
 
 韩琦男, 杨晓林, 崔海涛, 苏越, 施惠基, 超高温原位微动疲劳实验系统（申请号CN202010167112.1，公开号CN111443103A）
 
-Han Qinan, Xiaolin Yang, et al. SYSTEM FOR ULTRA-HIGH TEMPERATURE IN-SITU FRETTING FATIGUE EXPERIMENT. US patent. 2021. (submitted)
+Han Qinan, Xiaolin Yang, et al. SYSTEM FOR ULTRA-HIGH TEMPERATURE IN-SITU FRETTING FATIGUE EXPERIMENT. US Patent. 2021. (under review)
 
 ## 软件著作权
 
