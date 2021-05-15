@@ -90,6 +90,9 @@ Rui, S.-S., Shang, Y.-B., Fan, Y.-N., Han, Q.-N., Niu, L.-S., Shi, H.-J., . . . 
 Su, Y., Han, Q.-N., Zhang, C.-C., Shi, H.-J., Niu, L.-S., Deng, G.-J., & Rui, S.-S. (2019). Effects of secondary orientation and temperature on the fretting fatigue behaviors of Ni-based single crystal superalloys. Tribology international, 130, 9-18. 
 
 
+## Patents
+
+Han Qinan, Xiaolin Yang, et al. SYSTEM FOR ULTRA-HIGH TEMPERATURE IN-SITU FRETTING FATIGUE EXPERIMENT. US Patent. 2021. (under review)
 
 ## Academic activities
 
