@@ -92,7 +92,7 @@ Su, Y., Han, Q.-N., Zhang, C.-C., Shi, H.-J., Niu, L.-S., Deng, G.-J., & Rui, S.
 
 ## Patents
 
-Han Qinan, Xiaolin Yang, et al. SYSTEM FOR ULTRA-HIGH TEMPERATURE IN-SITU FRETTING FATIGUE EXPERIMENT. US Patent. 2021. (under review)
+Qinan Han, Xiaolin Yang, et al. SYSTEM FOR ULTRA-HIGH TEMPERATURE IN-SITU FRETTING FATIGUE EXPERIMENT. US Patent. 2021. (under review)
 
 ## Academic activities
 
