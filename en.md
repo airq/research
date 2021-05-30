@@ -67,7 +67,7 @@ Excellent Graduation Thesis, National Encouragement Scholarship, First-class Sch
 
 ## Work Experience
 
-Engineer, China Aircraft Strength Research Institute, Xi'an 710065, Shaanxi, 2018.07-2019.03.
+Engineer, Aircraft Strength Research Institute, Xi'an 710065, Shaanxi, 2018.07-2019.03.
 
 Lecturer, Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing 210016, Jiangsu, 2019.04-present.
 
