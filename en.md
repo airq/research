@@ -98,7 +98,7 @@ Qinan Han, Xiaolin Yang, et al. SYSTEM FOR ULTRA-HIGH TEMPERATURE IN-SITU FRETTI
 
 Teaching assistant: Engineering elasticity, Undergraduate Course, 09/2020-11/2020.
 
-Teaching assistant: Structural design and analysis of aeroengine, Undergraduate Course, 02/2021-06/2020.
+Teaching assistant: Structural design and analysis of aeroengine, Undergraduate Course, 03/2021-06/2021.
 
 Supervising Master student: Jianwen Fang (09/2020-).
 
