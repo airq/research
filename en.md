@@ -100,9 +100,9 @@ Teaching assistant: Engineering elasticity, Undergraduate Course, 09/2020-11/202
 
 Teaching assistant: Structural design and analysis of aeroengine, Undergraduate Course, 02/2021-06/2020
 
-Supervising Master student: Jianwen Fang.
+Supervising Master student: Jianwen Fang (09/2020-).
 
-Instructor of innovative projects for university students: Automatic recognition and measurement of fatigue crack based on computer vision.(Five undergraduate students participating).
+Instructor of innovative project for university students: Automatic recognition and measurement of fatigue cracks based on computer vision.(Five undergraduate students participating).
 
 ## Academic activities
 
