@@ -103,7 +103,7 @@ Teaching assistant: Structural design and analysis of aeroengine, Undergraduate 
 
 Supervising Master student: Jianwen Fang (09/2020-).
 
-Instructor of innovative project for university students: Automatic recognition and measurement of fatigue cracks based on computer vision.(Five undergraduate students participating).
+Instructor of innovative project for university students: Automatic recognition and measurement of fatigue cracks based on computer vision. (Five undergraduate students participating).
 
 ## Academic activities
 
