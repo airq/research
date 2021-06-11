@@ -192,7 +192,7 @@ Innovative Science and Engineering Research Institute (ISERI)邀请会员。
 
 
 
-地址: 南京市秦淮区御道街29号A10楼（明故宫校区）
+地址: 南京市秦淮区御道街29号（明故宫校区）
 
 邮箱:  hanqn *at* nuaa.edu.cn
 
