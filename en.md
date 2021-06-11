@@ -82,7 +82,7 @@ Han, Q.-N.,  . . . Shi, H. (2019). Effect of crystal orientation on the indentat
 
 Han QN, Lei XS, . . . Cui HT, Shi HJ. (2020). Effects of temperature and load on fretting fatigue induced geometrically necessary dislocation distribution in titanium alloy. Materials Science & Engineering A.
 
-Han QN, Lei XS, . . . Cui HT, Shi HJ. (2021).Temperature-dependent fatigue response of a Fe44Mn36Co10Cr10 high entropy alloy: a coupled in-situ electron microscopy study and crystal plasticity simulation. Under review.
+Han QN, Lei XS, . . . Cui HT, Shi HJ. (2021).Temperature-dependent fatigue response of a Fe44Mn36Co10Cr10 high entropy alloy: a coupled in-situ electron microscopy study and crystal plasticity simulation. International Journal of Fatigue. (accepted)
 
 Han Qi-Nan, Qiu Wenhui, Shang Yi-Bo, et al. (2016). In-situ SEM observation and crystal plasticity finite element simulation of fretting fatigue crack formation in Ni-base single-crystal superalloys. Tribology International.
 
@@ -160,7 +160,7 @@ A10 Building, 29 Yudao Road, Nanjing 210016, Jiangsu, China
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d845.5374717110113!2d118.8196038292095!3d32.038134135673275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzLCsDAyJzE3LjMiTiAxMTjCsDQ5JzEyLjUiRQ!5e0!3m2!1szh-CN!2sjp!4v1582250805950!5m2!1szh-CN!2sjp" width="95%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 -->
 
-`Last update: 30/05/2021`
+`Last update: 11/06/2021`
 
 
 <!-- not support by huawei
