@@ -11,9 +11,6 @@
 
 Dr. Qinan Han is currently working as a Lecturer at *College of Energy and Power Engineering, Nanjing University of Aeronautics and Astronautics (NUAA)*. He received his bachelor's degree (BEng) from *Tsinghua University* in 2013. He obtained his Ph.D from *Tsinghua University* in 2018 under the supervision of Prof. Huiji Shi.
 
-<div align="center">
-<img src="https://hanqn.com/img/DrHAN.jpg" width ="0%" height ="0%" />
-</div>
 
 **Research interests:**
 - Fretting fatigue and low cycle fatigue of Ni-based superalloys
@@ -67,9 +64,9 @@ Excellent Graduation Thesis, National Encouragement Scholarship, First-class Sch
 
 ## Work Experience
 
-Engineer, Aircraft Strength Research Institute, Xi'an 710065, Shaanxi, 2018.07-2019.03.
+Engineer, Aircraft Strength Research Institute, 2018.07-2019.03.
 
-Lecturer, Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing 210016, Jiangsu, 2019.04-present.
+Lecturer, Nanjing University of Aeronautics and Astronautics (NUAA), 2019.04-present.
 
 
 ## Selected Publications
