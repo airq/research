@@ -149,7 +149,7 @@ hanqn *at* nuaa.edu.cn
 
 **Address** 
 
-A10 Building, 29 Yudao Road, Nanjing 210016, Jiangsu, China
+29 Yudao Road, Nanjing 210016, Jiangsu, China
 
 **Map**
 
