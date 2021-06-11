@@ -12,7 +12,7 @@
 Dr. Qinan Han is currently working as a Lecturer at *College of Energy and Power Engineering, Nanjing University of Aeronautics and Astronautics (NUAA)*. He received his bachelor's degree (BEng) from *Tsinghua University* in 2013. He obtained his Ph.D from *Tsinghua University* in 2018 under the supervision of Prof. Huiji Shi.
 
 <div align="center">
-<img src="https://hanqn.com/img/DrHAN.jpg" width ="50%" height ="50%" />
+<img src="https://hanqn.com/img/DrHAN.jpg" width ="0%" height ="0%" />
 </div>
 
 **Research interests:**
