@@ -123,8 +123,18 @@ Elsevier ScienceDirect文献远程访问（在家下载文献）：http://lib.nu
 
 看标题、看摘要、看结论→看图→看全文（如果发现不太相关就可以不读全文或者粗读）。
 
+## 6.4. 学英语
+
+主要在于坚持，每天学习10多分钟好于考前集中学两天。
+
+背单词：扇贝单词app，以及利用有道词典app的单词记录本
+
+听力 阅读 口语：推荐一个练听力和阅读的nature podcast，里面都是自然科学的话题：（网页上有mp3、outline和原文）
+
+https://play.acast.com/s/nature/googleaibeatshumansatdesigningcomputerchips   
+
 
 
 `这个页面为韩博士个人总结和组内使用，未经许可请勿随意分享。`
 
-`Last update: 10/01/2020`
+`Last update: 25/06/2021`
