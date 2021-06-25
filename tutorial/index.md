@@ -129,11 +129,13 @@ Elsevier ScienceDirect文献远程访问（在家下载文献）：http://lib.nu
 
 背单词：扇贝单词app，以及利用有道词典app的单词记录本
 
-听力 阅读 口语：推荐一个练听力和阅读的nature podcast，里面都是自然科学的话题：（网页上有mp3、outline和原文）
+听力 阅读 口语：推荐一个练听力和阅读的nature podcast，里面都是自然科学的话题：（网页上有mp3、outline）
 
 https://play.acast.com/s/nature/googleaibeatshumansatdesigningcomputerchips   
 
+这个里面旧的cast有英语原文：
 
+https://www.nature.com/nature/articles?type=nature-podcast
 
 `这个页面为韩博士个人总结和组内使用，未经许可请勿随意分享。`
 
