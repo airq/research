@@ -148,6 +148,9 @@ Qinan Han, Xiaolin Yang, et al. SYSTEM FOR ULTRA-HIGH TEMPERATURE IN-SITU FRETTI
 
 Qinan Han, Jianwen Fang, Haitao Cui, Crystal orientation effect on the fretting fatigue behavior in Ni-based single crystal superalloys, The 8th International Conference on Fracture Fatigue and Wear (FFW 2020), August 26-27, 2020, Online conference.
 
+杨晓林，韩琦男，崔海涛，慕琴琴，徐健，考虑高低周复合载荷影响的涡轮榫连接结构微动疲劳研究，第六届空天动力联合会议，航空燃气涡轮推进相关技术，2021
+
+
  Qinan Han, Wenhui Qiu, Haitao Cui, Huiji Shi, Crystal Plasticity Simulation of the Indentation Behavior of Ni-based Single Crystal Superalloy
 Considering the Crystal Orientation Effect,  11th International Conference on Computational Methods (ICCM 2020),  9th-12th August 2020, Virtual Conference.
 
