@@ -121,6 +121,10 @@ Elsevier ScienceDirect文献远程访问（在家下载文献）：http://lib.nu
 
 ## 6.3. 看文献步骤
 
+施一公教授讲述看文献要点：
+
+https://mp.weixin.qq.com/s/o4tA_jWbU5Q8T3HixjB-Pw
+
 看标题、看摘要、看结论→看图→看全文（如果发现不太相关就可以不读全文或者粗读）。
 
 ## 6.4. 学英语
@@ -139,4 +143,4 @@ https://www.nature.com/nature/articles?type=nature-podcast
 
 `这个页面为韩博士个人总结和组内使用，未经许可请勿随意分享。`
 
-`Last update: 25/06/2021`
+`Last update: 05/08/2021`
