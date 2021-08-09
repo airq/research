@@ -59,6 +59,12 @@ origin正版：https://my.originlab.com/forum/topic.asp?TOPIC_ID=22328
 
 盗版origin容易造成死机，并且作图极慢。
 
+origin教程：
+
+https://mp.weixin.qq.com/s/u3LsvCIROUnc-4UcVHJ9kw
+
+https://mp.weixin.qq.com/s/5HLzQ07Gn4tr4OUYi56SZQ
+
 # 3. 基本科研训练
 
 每年5月份结束时候要交的报告模板，请浏览：https://hanqn.com/tutorial/%E5%9F%BA%E6%9C%AC%E7%A7%91%E7%A0%94%E8%83%BD%E5%8A%9B%E8%AE%AD%E7%BB%83-%E6%8A%A5%E5%91%8A%E6%A8%A1%E7%89%88-2019.zip
