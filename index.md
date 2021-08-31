@@ -67,11 +67,7 @@
 
 国家励志奖学金，学业一等奖学金多次，冯氏学者奖学金
 
-## 工作经历
 
-2018.07-2019.03，中国飞机强度研究所发动机强度研究室，工程师
-
-2019.04-，南京航空航天大学能源与动力学院，讲师
 
 
 ## 项目经历
@@ -79,7 +75,7 @@
 自然基金项目：
 
 - 考虑小角晶界影响的镍基单晶高温合金微动疲劳性能研究 （国家自然科学基金青年项目，主持）
-- 接触晶向和温度相关的镍基单晶合金微动疲劳损伤机理及寿命评估模型（国家自然科学基金航空发动机专项，参研）
+- 接触晶向和温度相关的镍基单晶合金微动疲劳损伤机理及寿命评估模型（国家自然科学基金，参研）
 - 镍基单晶高温合金第二晶向对疲劳性能影响机制的实验和理论研究 （国家自然科学基金，参研）
 - 扫描显微环境下高温变形原位测量关键技术及其应用研究（国家自然科学基金重点项目，参研）
 
@@ -148,7 +144,6 @@ Qinan Han, Xiaolin Yang, et al. SYSTEM FOR ULTRA-HIGH TEMPERATURE IN-SITU FRETTI
 
 Qinan Han, Jianwen Fang, Haitao Cui, Crystal orientation effect on the fretting fatigue behavior in Ni-based single crystal superalloys, The 8th International Conference on Fracture Fatigue and Wear (FFW 2020), August 26-27, 2020, Online conference.
 
-杨晓林，韩琦男，崔海涛，慕琴琴，徐健，考虑高低周复合载荷影响的涡轮榫连接结构微动疲劳研究，第六届空天动力联合会议，航空燃气涡轮推进相关技术，2021
 
 
  Qinan Han, Wenhui Qiu, Haitao Cui, Huiji Shi, Crystal Plasticity Simulation of the Indentation Behavior of Ni-based Single Crystal Superalloy
@@ -160,7 +155,7 @@ Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 
 ## 教学和学生指导
 
-2020秋季学期《工程弹性力学》课程助教, 春季学期《航空发动机结构分析与设计》课程助教。
+2020秋季学期《工程弹性力学》课程助教。
 
 研究生指导和协助指导：正在指导硕士生3名、博士生1名，研究生论文和课题均进展顺利。已毕业硕士2名，均按期毕业，其中校优秀硕士论文1名。
 
