@@ -79,7 +79,18 @@ https://mp.weixin.qq.com/s/5HLzQ07Gn4tr4OUYi56SZQ
 
 5月底：完成毕设论文撰写。
 
-# 5. 文献调研和下载相关（本科生毕业设计/研究生入门）
+
+
+# 5. 文献调研和下载相关（本科生版本）
+
+请点击pdf查看：
+
+https://raw.githubusercontent.com/airq/research/master/tutorial/%E6%96%87%E7%8C%AE%E8%B0%83%E7%A0%94.pdf
+
+感谢方健文整理。
+
+
+# 6. 文献调研和下载相关（研究生版本）
 
 <!-- 锚点： https://hanqn.com/tutorial/index.html#4-%E6%9C%AC%E7%A7%91%E7%94%9F%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1  --> 
 
@@ -101,11 +112,11 @@ sci文献免费下载（校外也可）：sci-hub（百度即有网址，大约�
 
 Elsevier ScienceDirect文献远程访问（在家下载文献）：http://lib.nuaa.edu.cn/do/bencandy.php?fid=3&id=3669   这个我一直在用，很好用。
 
-# 6. 学习科研心得
+# 7. 学习科研心得
 
 仅供参考，因人而异。
 
-## 6.1. 制定个人计划的诀窍
+## 7.1. 制定个人计划的诀窍
 
 **定一个大计划不如制定当前就可以实现的可操作的小计划（不怕小，越具体越好）。**例如：
 
@@ -117,7 +128,7 @@ Elsevier ScienceDirect文献远程访问（在家下载文献）：http://lib.nu
 
 每周学一个小时matlab → 明天学习matlab for循环的第一个例子
 
-## 6.2. 好记性不如烂笔头
+## 7.2. 好记性不如烂笔头
 
 多记学习和科研笔记，例如，自己学习新软件中遇到的问题和解决方法记录下来，绝对胜于网上别人的教程。自己阅读英文文章、写作范文、sci文章积累的好句式，绝对胜于网上别人总结好的宝典。
 
@@ -125,7 +136,7 @@ Elsevier ScienceDirect文献远程访问（在家下载文献）：http://lib.nu
 
 养成长期记笔记的习惯。我从2013年开始用云笔记至今已经记录了10多GB笔记。
 
-## 6.3. 看文献步骤
+## 7.3. 看文献步骤
 
 施一公教授讲述看文献要点：
 
@@ -133,7 +144,7 @@ https://mp.weixin.qq.com/s/o4tA_jWbU5Q8T3HixjB-Pw
 
 看标题、看摘要、看结论→看图→看全文（如果发现不太相关就可以不读全文或者粗读）。
 
-## 6.4. 学英语
+## 7.4. 学英语
 
 主要在于坚持，每天学习10多分钟好于考前集中学两天。
 
@@ -149,4 +160,4 @@ https://www.nature.com/nature/articles?type=nature-podcast
 
 `这个页面为韩博士个人总结和组内使用，未经许可请勿随意分享。`
 
-`Last update: 05/08/2021`
+`Last update: 26/10/2021`
