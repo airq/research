@@ -85,12 +85,12 @@ https://mp.weixin.qq.com/s/5HLzQ07Gn4tr4OUYi56SZQ
 
 请点击pdf查看：
 
-https://raw.githubusercontent.com/airq/research/master/tutorial/%E6%96%87%E7%8C%AE%E8%B0%83%E7%A0%94.pdf
+https://hanqn.com/tutorial/%E6%96%87%E7%8C%AE%E8%B0%83%E7%A0%94.pdf
 
 感谢方健文整理。
 
 
-# 6. 文献调研和下载相关（研究生版本）
+# 6. 文献调研和下载相关（本科毕设&研究生版本）
 
 <!-- 锚点： https://hanqn.com/tutorial/index.html#4-%E6%9C%AC%E7%A7%91%E7%94%9F%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1  --> 
 
