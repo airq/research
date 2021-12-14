@@ -90,7 +90,8 @@ https://hanqn.com/tutorial/%E6%96%87%E7%8C%AE%E8%B0%83%E7%A0%94.pdf
 感谢方健文整理。
 
 
-2、高温合金和金属疲劳相关书籍：
+2、高温合金和金属疲劳相关入门书籍：
+
 （以下书籍均有电子版pdf，咨询方健文索取）
 
 《材料的疲劳 第3版》 (美)S.SURESH著，王中光译 国防工业出版社
@@ -171,4 +172,4 @@ https://www.nature.com/nature/articles?type=nature-podcast
 
 `这个页面为韩博士个人总结和组内使用，未经许可请勿随意分享。`
 
-`Last update: 26/10/2021`
+`Last update: 14/12/2021`
