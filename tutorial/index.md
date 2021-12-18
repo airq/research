@@ -163,9 +163,11 @@ https://mp.weixin.qq.com/s/o4tA_jWbU5Q8T3HixjB-Pw
 
 主要在于坚持，每天学习10多分钟好于考前集中学两天。
 
-背单词：扇贝单词app，以及利用有道词典app的单词记录本
+【生活英语】背单词：扇贝单词app，以及利用有道词典app的单词记录本
 
-听力 阅读 口语：推荐一个练听力和阅读的nature podcast，里面都是自然科学的话题：（网页上有mp3、outline）
+【科技英语】背单词：看SCI论文的过程中积累单词
+
+听力 阅读 口语：推荐一个练科技听力和阅读的nature podcast，里面都是自然科学的话题：（网页上有mp3、outline）
 
 https://play.acast.com/s/nature/googleaibeatshumansatdesigningcomputerchips   
 
@@ -175,4 +177,4 @@ https://www.nature.com/nature/articles?type=nature-podcast
 
 `这个页面为韩博士个人总结和组内使用，未经许可请勿随意分享。`
 
-`Last update: 14/12/2021`
+`Last update: 16/12/2021`
