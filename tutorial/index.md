@@ -24,8 +24,11 @@ abaqus documentation使用提示：
 
 ## 2.1. abaqus入门
    
-abaqus安装教程：（把这个链接直接拷贝到微信里，发给文件传输助手或者发给自己，然后再点击就能打开）
-https://mp.weixin.qq.com/s?src=11&timestamp=1605704245&ver=2714&signature=onboSCIrY3p5wRIWGQqs6WfIOYfv-Wkew0NG1KHMvuWw2d69JB96-LEdDPR2wD3nLmwMfYkEYJXFl*rXgs8VioT85z8IUnDQ03KsJa--t107Yjlqg*HjR2zXAefZZONl&new=1   
+abaqus安装包和安装教程：
+
+链接：https://pan.baidu.com/s/1Sb8HwSpzhkVdtEekRJcmxw 
+提取码：7i8z 
+
 
 安装教程其实网上特别多，大部分都可以安装成功，而且基本都差不多。
 
