@@ -42,7 +42,7 @@
 一级学科名称：085800（专业学位）能源动力，其中 02（全日制）强度与振动工程。
 
 
-详细招生和考试目录请参考：[http://yzsbm.nuaa.edu.cn/sszsml/index.html](http://yzsbm.nuaa.edu.cn/sszsml/index.html)
+招、考目录请参考：[http://yzsbm.nuaa.edu.cn/sszsml/index.html](http://yzsbm.nuaa.edu.cn/sszsml/index.html)
 
 
 
