@@ -159,7 +159,7 @@ Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 
 研究生指导和协助指导：正在指导硕士生3名、博士生1名，研究生论文和课题均进展顺利。已毕业硕士2名，均按期毕业，其中校优秀硕士论文1名。
 
-本科生指导：指导5名基本科研能力训练、6名本科生毕业设计，学生均取得良好成绩。指导本科生大学生创新创业校级项目1项、院级项目1项。
+本科生指导：指导5名基本科研能力训练、6名本科生毕业设计，学生均取得良好成绩。指导本科生大学生创新创业校级项目1项、院级自由探索项目1项。
 
 本科生班级：2021.4-，卓越工程师班班主任。
 
@@ -198,7 +198,7 @@ Innovative Science and Engineering Research Institute (ISERI)邀请会员。
 
 
 
-`Last update: 02/07/2021`
+`Last update: 21/12/2021`
 
 
 <!-- not support by huawei
