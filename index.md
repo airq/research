@@ -46,7 +46,7 @@
 
 详细招生和考试目录请参考：http://yzsbm.nuaa.edu.cn/sszsml/index.html
 
-### 欢迎各位同学报名基本科研能力训练、本科生毕业设计！欢迎通过邮箱与我联系！
+### 欢迎各位同学报名大创、基本科研训练、本科毕设！欢迎通过邮箱与我联系！
 
 <div align="center">
 <img src="https://i.loli.net/2019/09/04/drzYDtXu3SA5ZFo.png" width ="55%" height ="55%" />
