@@ -101,9 +101,13 @@ Han, Q.-N., Rui, S.-S., Qiu, W., Ma, X., Su, Y., Cui, H., . . . Shi, H. (2019). 
 
 Han QN, Lei XS, . . .  Cui HT, Shi HJ. (2021).Temperature-dependent fatigue response of a Fe44Mn36Co10Cr10 high entropy alloy: a coupled in-situ electron microscopy study and crystal plasticity simulation. International Journal of Fatigue.
 
+Han QN et al., In-situ SEM and EBSD study on fretting fatigue crack initiation of a directionally solidified Ni-based superalloy. Under Review.	
+
 Han, Q.-N., et al.(2020). Effects of temperature and load on fretting fatigue induced geometrically necessary dislocation distribution in titanium alloy. Materials Science & Engineering A.
 
 Han, Q.-N.,  . . . Shi, H. (2019). Effect of crystal orientation on the indentation behaviour of Ni-based single crystal superalloy. Materials Science & Engineering A.
+
+Han QN et al., Machine learning based phase constitution prediction in high entropy alloys. Under Review.	
 
 Han Qi-Nan, Qiu Wenhui, Shang Yi-Bo, et al. (2016). In-situ SEM observation and crystal plasticity finite element simulation of fretting fatigue crack formation in Ni-base single-crystal superalloys. Tribology International.
 
