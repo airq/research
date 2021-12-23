@@ -75,6 +75,8 @@ For more details see [Scholar Page](https://scholar.google.com/citations?user=V5
 
 Han, Q.-N., Rui, S.-S., Qiu, W., Ma, X., Su, Y., Cui, H., . . . Shi, H. (2019). Crystal orientation effect on fretting fatigue induced geometrically necessary dislocation distribution in Ni-based single-crystal superalloys. Acta Materialia.
 
+Han QN et al., In-situ SEM and EBSD study on fretting fatigue crack initiation of a directionally solidified Ni-based superalloy. Under Review.
+
 Han, Q.-N.,  . . . Shi, H. (2019). Effect of crystal orientation on the indentation behaviour of Ni-based single crystal superalloy. Materials Science & Engineering A.
 
 Han QN, Lei XS, . . . Cui HT, Shi HJ. (2020). Effects of temperature and load on fretting fatigue induced geometrically necessary dislocation distribution in titanium alloy. Materials Science & Engineering A.
@@ -94,9 +96,11 @@ Qinan Han, Xiaolin Yang, et al. SYSTEM FOR ULTRA-HIGH TEMPERATURE IN-SITU FRETTI
 
 ## Teaching & mentoring
 
+Teaching: Engineering elasticity, Undergraduate course, 09/2021-11/2021.
+
 Teaching assistant: Engineering elasticity, Undergraduate course, 09/2020-11/2020.
 
-Supervising Master student: Jianwen Fang (09/2020-).
+Supervising Master student: Jianwen Fang (09/2020-), Qiuyu Zhao (09/2021-).
 
 Instructor of innovative project for university students: Automatic recognition and measurement of fatigue cracks based on computer vision. (Five undergraduate students participating).
 
@@ -129,7 +133,7 @@ Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 
 ## Technical skills
 
-- Programming: Fortran, Matlab, Python, C, Html5/WXML & CSS & Javascript, Cross-platform App Development, VueJS, Git, Markdown, Latex
+- Programming:  Matlab, Python, Fortran, Html5/WXML & CSS & Javascript, Cross-platform App Development, VueJS, Git, Markdown, Latex
 - Software: Abaqus and UMAT, OIM, Solidworks, Catia, Hbuilder, Image processing softwares, Data processing softwares
 - Language skills: Chinese, English (IELTS 7.0)
 
