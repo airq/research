@@ -147,6 +147,9 @@ Su, Y., Han, Q.-N., Zhang, C.-C., Shi, H.-J., Niu, L.-S., Deng, G.-J., & Rui, S.
 
 Qinan Han, Xiaolin Yang, et al. SYSTEM FOR ULTRA-HIGH TEMPERATURE IN-SITU FRETTING FATIGUE EXPERIMENT. US Patent. 2021. (under review)
 
+韩琦男,鲁章伦,崔海涛,张宏建，双相合金的全场晶体塑性模拟方法、装置、设备及介质，2021-12（申请号202111624193.4）
+
+
 ## 软件著作权
 
 韩琦男，方健文，雷旭升，崔海涛，几何必需位错密度计算与可视化软件，2021.4，登记号2021SR0564383.
