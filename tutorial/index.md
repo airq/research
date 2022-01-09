@@ -34,7 +34,7 @@ abaqus安装包和安装教程：
 
 abaqus连接环静力分析教程：https://hanqn.com/tutorial/%E8%BF%9E%E6%8E%A5%E7%8E%AF%E7%9A%84%E9%9D%99%E5%8A%9B%E5%88%86%E6%9E%90%E6%95%99%E7%A8%8B.doc?raw=true
 
-abaqus XFEM扩展有限元裂纹分析教程：https://wk.baidu.com/view/dc0f1cc558f5f61fb73666ed?pcf=2
+abaqus XFEM扩展有限元裂纹分析教程：https://wk.baidu.com/view/4319d2f7a45177232f60a2d4?pcf=2&bfetype=new
 
 XFEM科普：https://mp.weixin.qq.com/s/9TN5fbOlIHs6WrGgPYRchQ 
 
@@ -177,4 +177,4 @@ https://www.nature.com/nature/articles?type=nature-podcast
 
 `这个页面为韩博士个人总结和组内使用，未经许可请勿随意分享。`
 
-`Last update: 16/12/2021`
+`Last update: 9/1/2022`
