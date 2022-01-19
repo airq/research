@@ -195,7 +195,7 @@ Innovative Science and Engineering Research Institute (ISERI)邀请会员。
 
 中国机械工程学会会员。
 
-与麻省理工学院(MIT), 怀俄明大学(University of Wyoming)，范德堡大学(Vanderbilt University)，清华大学，北京大学，东南大学，中山大学等国内外知名机构研究人员有深入交流/合作研究。
+与麻省理工学院(MIT), 范德堡大学(Vanderbilt University)，清华大学，北京大学，东南大学，中山大学等国内外知名机构研究人员有深入交流/合作研究。
 
 ## 技术语言
 
