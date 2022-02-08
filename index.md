@@ -113,8 +113,6 @@ Han Qi-Nan, Qiu Wenhui, Shang Yi-Bo, et al. (2016). In-situ SEM observation and 
 
 Han QN, Lei XS, . . .  Cui HT, Shi HJ. (2020). In-situ Observation and Finite Element Analysis of Fretting Fatigue Crack Propagation Behavior in 1045 Steel. Chinese Journal of Aeronautics.
 
-Han QN et al., Machine learning based phase constitution prediction in high entropy alloys. Under Review.	
-
 
 Han, Q. N., Rui, S. S., Qiu, W., Su, Y., Ma, X., He, Z., . . . Shi, H. J. (2019). Subsurface crack formation and propagation of fretting fatigue in Ni‐based single‐crystal superalloys. Fatigue & Fracture of Engineering Materials & Structures.
 
