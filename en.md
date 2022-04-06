@@ -75,7 +75,7 @@ For more details see [Scholar Page](https://scholar.google.com/citations?user=V5
 
 Han, Q.-N., Rui, S.-S., Qiu, W., Ma, X., Su, Y., Cui, H., . . . Shi, H. (2019). Crystal orientation effect on fretting fatigue induced geometrically necessary dislocation distribution in Ni-based single-crystal superalloys. Acta Materialia.
 
-Han QN et al., In-situ SEM and EBSD study on fretting fatigue crack initiation of a directionally solidified Ni-based superalloy. Under Review.
+Han QN et al. (2022) In-situ SEM and EBSD study on fretting fatigue crack initiation of a directionally solidified Ni-based superalloy. International Journal of Fatigue.	
 
 Han, Q.-N.,  . . . Shi, H. (2019). Effect of crystal orientation on the indentation behaviour of Ni-based single crystal superalloy. Materials Science & Engineering A.
 
