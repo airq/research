@@ -175,13 +175,16 @@ https://mp.weixin.qq.com/s/o4tA_jWbU5Q8T3HixjB-Pw
 
 【科技英语】背单词：看SCI论文的过程中积累单词
 
-听力 阅读 口语：推荐一个练科技听力和阅读的nature podcast，里面都是自然科学的话题：（网页上有mp3、outline）
-
-https://play.acast.com/s/nature/googleaibeatshumansatdesigningcomputerchips   
-
-这个里面旧的cast有英语原文：
+听力 阅读 口语：推荐一个练科技听力和阅读的nature podcast，里面都是自然科学的话题,（网页上有mp3、outline）有英语原文(TRANSCRIPT)，可以练习听力、口语：
 
 https://www.nature.com/nature/articles?type=nature-podcast
+
+
+<!--
+https://play.acast.com/s/nature/googleaibeatshumansatdesigningcomputerchips   
+-->
+
+
 
 `这个页面为韩博士个人总结和组内使用，未经许可请勿随意分享。`
 
