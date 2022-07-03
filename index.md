@@ -88,7 +88,7 @@
 - 镍基单晶高温合金第二晶向对疲劳性能影响机制的实验和理论研究 ，国家自然科学基金面上项目，参加
 - 扫描显微环境下高温变形原位测量关键技术及其应用研究，国家自然科学基金重点项目，参加
 - 特殊构型镍基单晶高温合金的疲劳和蠕变行为模拟，重大专项子课题，主持
-- 用于新型叶片的XX合金微动疲劳损伤机理研究，主持
+- 高熵合金微动疲劳损伤机理研究，主持
 - 取向偏差相关的镍基单晶高温合金微动疲劳损伤机理及裂纹萌生判据研究，基本科研经费，主持
 - XX疲劳损伤机理与寿命预测模型，重大专项子课题，主持
 - 清华大学王永志科创基金，主持
@@ -131,11 +131,11 @@ Su, Y., Han, Q.-N., Zhang, C.-C., Shi, H.-J., Niu, L.-S., Deng, G.-J., & Rui, S.
 
 韩琦男, 杨晓林, 崔海涛, 苏越, 施惠基, 超高温原位微动疲劳实验系统（申请号CN202010167112.1，公开号CN111443103A）
 
-Qinan Han, Xiaolin Yang, et al. SYSTEM FOR ULTRA-HIGH TEMPERATURE IN-SITU FRETTING FATIGUE EXPERIMENT. US Patent. 2021. (under review)
+Qinan Han, Xiaolin Yang, et al. SYSTEM FOR ULTRA-HIGH TEMPERATURE IN-SITU FRETTING FATIGUE EXPERIMENT. US Patent. 2021. 
 
 韩琦男,鲁章伦,崔海涛,张宏建，双相合金的全场晶体塑性模拟方法、装置、设备及介质，2021-12（申请号202111624193.4）
 
-韩琦男,王威,崔海涛,方健文,张宏建, 含小角晶界的双晶合金微动疲劳晶体塑性模拟方法、装置	,2011-1(申请号202210093849.2)
+韩琦男,王威,崔海涛,方健文,张宏建, 含小角晶界的双晶合金微动疲劳晶体塑性模拟方法、装置,2011-1(申请号202210093849.2)
 
 
 ## 软件著作权
@@ -176,7 +176,7 @@ Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 江苏省双创博士，江苏省中小型绿色动力装置工程实验室副秘书长，《应用力学学报》青年编委，SCI期刊客座编辑。ICEEES2021技术委员会委员。为 *Journal of Materials Science*，*Theoretical and Applied Fracture Mechanics*, *Chinese Journal of Aeronautics*等杂志审稿。
 
 
-与麻省理工学院(MIT), 范德堡大学(Vanderbilt University)，清华大学，北京大学，东南大学，中山大学等国内外知名机构研究人员有深入交流/合作研究。
+与牛津大学,麻省理工学院(MIT), 范德堡大学(Vanderbilt University)，清华大学，北京大学，东南大学，中山大学, 重庆大学等国内外知名机构研究人员有深入合作。
 
 
 
@@ -196,7 +196,7 @@ Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 
 
 
-`Last update: 21/12/2021`
+`Last update: 03/07/2022`
 
 
 <!-- not support by huawei
