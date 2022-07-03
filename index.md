@@ -29,7 +29,7 @@
 - 高性能合金的复杂疲劳损伤机理和寿命预测
 - 基于原位SEM和EBSD的材料表征
 - 单晶/多晶合金的晶体塑性多尺度有限元模拟
-- 基于数据驱动的图像视觉损伤检测、材料内秉属性理解
+- 基于数据驱动的图像视觉监测、材料内秉属性理解
 
 
 ### 热诚欢迎有志青年报考研究生！
@@ -88,6 +88,7 @@
 - 镍基单晶高温合金第二晶向对疲劳性能影响机制的实验和理论研究 ，国家自然科学基金面上项目，参加
 - 扫描显微环境下高温变形原位测量关键技术及其应用研究，国家自然科学基金重点项目，参加
 - 特殊构型镍基单晶高温合金的疲劳和蠕变行为模拟，重大专项子课题，主持
+- 用于新型叶片的XX合金微动疲劳损伤机理研究，主持
 - 取向偏差相关的镍基单晶高温合金微动疲劳损伤机理及裂纹萌生判据研究，基本科研经费，主持
 - XX疲劳损伤机理与寿命预测模型，重大专项子课题，主持
 - 清华大学王永志科创基金，主持
@@ -144,13 +145,16 @@ Qinan Han, Xiaolin Yang, et al. SYSTEM FOR ULTRA-HIGH TEMPERATURE IN-SITU FRETTI
 
 韩琦男，俞耀，崔海涛，各向异性材料裂尖场变量求解及可视化交互软件，2021.5.13，软著登字第7408326号
 
+
+韩琦男，崔海涛等，裂纹实时识别和可视化软件，2022-04，软著登字第9457843号.
+
+
 ## 学术会议
 
 Qinan Han, Jianwen Fang, Haitao Cui, Crystal orientation effect on the fretting fatigue behavior in Ni-based single crystal superalloys, The 8th International Conference on Fracture Fatigue and Wear (FFW 2020), August 26-27, 2020, Online conference.
 
 
-
- Qinan Han, Wenhui Qiu, Haitao Cui, Huiji Shi, Crystal Plasticity Simulation of the Indentation Behavior of Ni-based Single Crystal Superalloy
+Qinan Han, Wenhui Qiu, Haitao Cui, Huiji Shi, Crystal Plasticity Simulation of the Indentation Behavior of Ni-based Single Crystal Superalloy
 Considering the Crystal Orientation Effect,  11th International Conference on Computational Methods (ICCM 2020),  9th-12th August 2020, Virtual Conference.
 
 Qinan Han, Shao-Shi Rui, Yue Su, Haitao Cui, Huiji Shi. The Distributions of Geometrically Necessary Dislocation under Different Crystal Orientations in Fretting Fatigue of Ni-based Single-crystal Superalloys. The 16th Asia-Pacific Conference on Fracture and Strength 2020 (APCFS2020). November 3-7 2020. Online conference.
@@ -159,21 +163,21 @@ Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 
 ## 教学和学生指导
 
-讲授2021秋季学期《工程弹性力学》课程。
+讲授2021、2022秋季学期《工程弹性力学》课程。
 
-研究生指导和协助指导：正在指导硕士生3名、博士生1名，研究生论文和课题均进展顺利。已毕业硕士2名，均按期毕业，其中校优秀硕士论文1名。
+研究生指导和协助指导：正在指导硕士生3名、博士生1名，研究生论文和课题均进展顺利。已毕业硕士4名，均按期毕业，其中校优秀硕士论文提名2名。
 
-本科生指导：指导5名基本科研能力训练、6名本科生毕业设计，学生均取得良好成绩。指导本科生大学生创新创业校级项目1项、院级自由探索项目1项。
+本科生指导：指导7名基本科研能力训练、8名本科生毕业设计，学生均取得良好成绩。指导本科生大学生创新创业校级项目1项、院级自由探索项目1项，结题良好，其中学生以一作产出软著等成果。
 
-本科生班级：2021.4-，卓越工程师班班主任。
+本科生班级：2021.4-2022.6，卓越工程师班班主任。
 
 ## 学术活动和国际国内合作
 
-为 *Journal of Materials Science*，*Theoretical and Applied Fracture Mechanics*, *Chinese Journal of Aeronautics*等杂志审稿。
+江苏省双创博士，江苏省中小型绿色动力装置工程实验室副秘书长，《应用力学学报》青年编委，SCI期刊客座编辑。ICEEES2021技术委员会委员。为 *Journal of Materials Science*，*Theoretical and Applied Fracture Mechanics*, *Chinese Journal of Aeronautics*等杂志审稿。
 
-International Conference on Environment Engineering and Energy Science (ICEEES 2021)特邀审稿人和技术委员会委员。
 
 与麻省理工学院(MIT), 范德堡大学(Vanderbilt University)，清华大学，北京大学，东南大学，中山大学等国内外知名机构研究人员有深入交流/合作研究。
+
 
 
 
