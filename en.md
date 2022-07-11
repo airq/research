@@ -9,7 +9,7 @@
 
 
 
-Dr. Qinan Han is currently working as a Lecturer at *College of Energy and Power Engineering, Nanjing University of Aeronautics and Astronautics (NUAA)*. He received his bachelor's degree (BEng) from *Tsinghua University* in 2013. He obtained his Ph.D from *Tsinghua University* in 2018 under the supervision of Prof. Huiji Shi.
+Dr. Qinan Han is currently working as an Associate Professor at *College of Energy and Power Engineering, Nanjing University of Aeronautics and Astronautics (NUAA)*. He received his bachelor's degree (BEng) from *Tsinghua University* in 2013. He obtained his Ph.D from *Tsinghua University* in 2018 under the supervision of Prof. Huiji Shi.
 
 
 **Research interests:**
@@ -61,13 +61,14 @@ Supervisor: Professor Shi Huiji
 B.Eng. Engineering Mechanics and Aerospace Engineering
 
 Excellent Graduation Thesis, National Encouragement Scholarship, First-class Scholarship
-
+<!--
 ## Work Experience
 
 Engineer, Aircraft Strength Research Institute, 2018.07-2019.03.
 
 Lecturer, Nanjing University of Aeronautics and Astronautics (NUAA), 2019.04-present.
 
+-->
 
 ## Selected Publications
 
@@ -159,7 +160,7 @@ hanqn *at* nuaa.edu.cn
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d845.5374717110113!2d118.8196038292095!3d32.038134135673275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzLCsDAyJzE3LjMiTiAxMTjCsDQ5JzEyLjUiRQ!5e0!3m2!1szh-CN!2sjp!4v1582250805950!5m2!1szh-CN!2sjp" width="95%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 -->
 
-`Last update: 23/12/2021`
+`Last update: 11/07/2022`
 
 
 <!-- not support by huawei
