@@ -61,13 +61,13 @@ Supervisor: Professor Shi Huiji
 B.Eng. Engineering Mechanics and Aerospace Engineering
 
 Excellent Graduation Thesis, National Encouragement Scholarship, First-class Scholarship
+
 <!--
 ## Work Experience
 
 Engineer, Aircraft Strength Research Institute, 2018.07-2019.03.
 
 Lecturer, Nanjing University of Aeronautics and Astronautics (NUAA), 2019.04-present.
-
 -->
 
 ## Selected Publications
