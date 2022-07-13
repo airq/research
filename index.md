@@ -166,15 +166,15 @@ Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 
 讲授2021、2022秋季学期《工程弹性力学》课程。
 
-研究生指导和协助指导：正在指导硕士生3名、博士生1名，研究生论文和课题均进展顺利。已毕业硕士4名，均按期毕业，其中校优秀硕士论文提名2名。
+研究生指导和协助指导：正在指导硕士生3名、博士生1名，研究生论文和课题进展顺利，已毕业硕士生4名，均按期毕业，其中一半获得校优秀硕士论文提名。
 
-本科生指导：指导7名基本科研能力训练、8名本科生毕业设计，学生均取得良好成绩。指导本科生大学生创新创业校级项目1项、院级自由探索项目1项，结题良好，其中学生以一作产出软著等成果。
+本科生指导：指导多名基本科研能力训练、本科生毕业设计、本科生大学生创新创业校级项目、自由探索项目、本科生一对一导师，学生均取得良好成绩，其中学生以一作产出软著等成果。
 
 本科生班级：2021.4-2022.6，卓越工程师班班主任。
 
 ## 学术活动和国际国内合作
 
-江苏省双创博士，江苏省中小型绿色动力装置工程实验室副秘书长，《应用力学学报》首届青年编委，SCI期刊客座编辑。ICEEES2021技术委员会委员。为 *Journal of Materials Science*，*Theoretical and Applied Fracture Mechanics*, *Chinese Journal of Aeronautics*等杂志审稿。
+江苏省双创博士，江苏省中小型绿色动力装置工程实验室副秘书长，《应用力学学报》首届青年编委，SCI期刊Metals（科协T2）客座编辑，首届能动之星。任ICEEES2021技术委员会委员。为 *Journal of Materials Science*，*Theoretical and Applied Fracture Mechanics*, *Chinese Journal of Aeronautics*等杂志审稿。
 
 
 与牛津大学,麻省理工学院(MIT), 范德堡大学(Vanderbilt University)，清华大学，北京大学，东南大学，中山大学, 重庆大学等国内外知名机构研究人员有深入合作。
