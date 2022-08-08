@@ -190,7 +190,7 @@ Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 
 ## 学术活动和国际国内合作
 
-为 *Journal of Materials Science*，*Theoretical and Applied Fracture Mechanics*, *Chinese Journal of Aeronautics*等杂志审稿。
+为 *APL Materials*, *Journal of Materials Science*，*Theoretical and Applied Fracture Mechanics*, *Chinese Journal of Aeronautics*等杂志审稿。
 
 International Conference on Environment Engineering and Energy Science (ICEEES 2021)特邀审稿人和技术委员会委员。
 
