@@ -165,6 +165,8 @@ Qinan Han, Xiaolin Yang, et al. SYSTEM FOR ULTRA-HIGH TEMPERATURE IN-SITU FRETTI
 
 韩琦男，俞耀，崔海涛，各向异性材料裂尖场变量求解及可视化交互软件，2021.5.13，软著登字第7408326号
 
+裂纹的计算机视觉
+
 ## 学术会议
 
 Qinan Han, Jianwen Fang, Haitao Cui, Crystal orientation effect on the fretting fatigue behavior in Ni-based single crystal superalloys, The 8th International Conference on Fracture Fatigue and Wear (FFW 2020), August 26-27, 2020, Online conference.
@@ -189,6 +191,8 @@ Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 本科生班级：2021.4-，卓越工程师班班主任。
 
 ## 学术活动和国际国内合作
+
+应用力学学报首届青年编委。
 
 为 *APL Materials*, *Journal of Materials Science*，*Theoretical and Applied Fracture Mechanics*, *Chinese Journal of Aeronautics*等杂志审稿。
 
