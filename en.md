@@ -115,7 +115,7 @@ Undergraduate Excellent Graduation Thesis of Tsinghua University
 
 Dr. Han serves as:
 
-Peer Reviewer for *Journal of Materials Science*，*Theoretical and Applied Fracture Mechanics* , *Chinese Journal of Aeronautics*.
+Peer Reviewer for *APL Materials*, *Journal of Materials Science*，*Theoretical and Applied Fracture Mechanics* , *Chinese Journal of Aeronautics*.
 
 Invited technical committee and reviewer for IC-EEES 2021
 
