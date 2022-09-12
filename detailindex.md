@@ -83,6 +83,7 @@
 自然基金项目：
 
 - 考虑小角晶界影响的镍基单晶高温合金微动疲劳性能研究 （国家自然科学基金青年项目，主持）
+- 梯度晶粒结构相关的增材制造高温合金微动疲劳研究 （国家自然科学基金面上项目，主持）
 - 基于实验表征和模拟的增材制造高温合金变形机理研究 （国家自然科学基金国际合作项目，主持）
 - 接触晶向和温度相关的镍基单晶合金微动疲劳损伤机理及寿命评估模型（国家自然科学基金，参研）
 - 镍基单晶高温合金第二晶向对疲劳性能影响机制的实验和理论研究 （国家自然科学基金，参研）
@@ -194,7 +195,7 @@ Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 
 应用力学学报首届青年编委。
 
-为 *APL Materials*, *Journal of Materials Science*，*Theoretical and Applied Fracture Mechanics*, *Chinese Journal of Aeronautics*等杂志审稿。
+为 *APL Materials*, *Journal of Materials Science*，*Theoretical and Applied Fracture Mechanics*, *Chinese Journal of Aeronautics*, *Mathematics*， *Materials* 等杂志审稿。
 
 International Conference on Environment Engineering and Energy Science (ICEEES 2021)特邀审稿人和技术委员会委员。
 
