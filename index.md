@@ -101,7 +101,7 @@
 
 ## 代表性文章
 
-For more details see [Scholar Page](https://scholar.google.com/citations?user=V5QlaLsAAAAJ&hl=en&oi=ao) or [Research Gate](https://www.researchgate.net/profile/Qi_Nan_Han)
+For more details see [Research Gate](https://www.researchgate.net/profile/Qi_Nan_Han)
 
 Han, Q.-N., Rui, S.-S., Qiu, W., Ma, X., Su, Y., Cui, H., . . . Shi, H. (2019). Crystal orientation effect on fretting fatigue induced geometrically necessary dislocation distribution in Ni-based single-crystal superalloys. Acta Materialia.
 
