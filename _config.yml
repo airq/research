@@ -1,11 +1,11 @@
 theme: jekyll-theme-cayman
-title: Qinan Han
-description: in-situ testing technique, advanced alloys,multiscale simulation
+title: 韩琦男 副教授
+# description: 原位测试, advanced alloys,multiscale simulation
 # In-situ fretting fatigue, Nickel-based superalloy, EBSD, Dislocation
 google_analytics: UA-97182832-3
 github: false
 # github:
-#   zip_url: https://hanqn.com/en
+#   zip_url: https://hanqn.com/index
 show_downloads: false
 is_project_page: false
 # show_credits: false
