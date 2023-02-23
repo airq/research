@@ -50,9 +50,11 @@
 
 ### 欢迎各位同学报名大创、基本科研训练、本科毕设！欢迎通过邮箱与我联系！
 
+<!--
 <div align="center">
 <img src="https://i.loli.net/2019/09/04/drzYDtXu3SA5ZFo.png" width ="55%" height ="55%" />
 </div>
+-->
 
 <div align="center">
 <img src="https://i.loli.net/2020/12/18/j68sTEZSehbAoVf.gif" width ="90%" height ="90%" />
