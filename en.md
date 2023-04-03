@@ -3,9 +3,7 @@
 -->
 
 <!-
-<div align="right">
-<a class="button2 btn-primary " type="button" href="https://hanqn.com/index">中文版</a>
-</div>
+<div align="right"><a class="button2 btn-primary " type="button" href="https://hanqn.com/index">中文版</a></div>
 -->
 
 ## Biography
@@ -102,7 +100,7 @@ Supervising Master student: Jianwen Fang (09/2020-04/2023, Outstanding graduate)
 
 Instructor of innovative project for university students: Automatic recognition and measurement of fatigue cracks based on computer vision. (Five undergraduate students participating).
 
-## Academic activities
+## Awards & Academic activities
 
 2019 PHM Conference Data Challenge, 4th Place
 
