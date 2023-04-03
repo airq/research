@@ -1,9 +1,11 @@
 <!--[Chinese Version](https://hanqn.com/index)
 -->
 
+<!-
 <div align="right">
 <a class="button2 btn-primary " type="button" href="https://hanqn.com/index">中文版</a>
 </div>
+-->
 
 ## Biography
 
@@ -15,8 +17,8 @@ Dr. Qinan Han is currently working as an Associate Professor at *College of Ener
 **Research interests:**
 - Fatigue and fretting fatigue of Ni-based superalloys
 - Characterization of advanced alloys using in-situ SEM and EBSD
-- Crystal plasticity simulation on mechanical behaviors of single-crystal and poly-crystal alloys
-- Data-driven method to understand and model material properties 
+- Crystal plasticity simulation including grain boundary cracking of single-crystal and poly-crystal alloys
+- Data-driven method to model material properties 
 
 <div align="center">
 <img src="https://i.loli.net/2019/09/04/drzYDtXu3SA5ZFo.png" width ="70%" height ="70%" />
@@ -62,13 +64,7 @@ B.Eng. Engineering Mechanics and Aerospace Engineering
 
 Excellent Graduation Thesis, National Encouragement Scholarship, First-class Scholarship
 
-<!--
-## Work Experience
 
-Engineer, Aircraft Strength Research Institute, 2018.07-2019.03.
-
-Lecturer, Nanjing University of Aeronautics and Astronautics (NUAA), 2019.04-present.
--->
 
 ## Selected Publications
 
@@ -101,7 +97,7 @@ Teaching: Engineering elasticity, Undergraduate course, 09/2021-11/2021.
 
 Teaching assistant: Engineering elasticity, Undergraduate course, 09/2020-11/2020.
 
-Supervising Master student: Jianwen Fang (09/2020-), Qiuyu Zhao (09/2021-).
+Supervising Master student: Jianwen Fang (09/2020-04/2023, Outstanding graduate), Qiuyu Zhao (09/2021-).
 
 Instructor of innovative project for university students: Automatic recognition and measurement of fatigue cracks based on computer vision. (Five undergraduate students participating).
 
@@ -111,7 +107,10 @@ Instructor of innovative project for university students: Automatic recognition 
 
 2018 Tsinghua University Laboratory Construction Contribution Award, Third Prize (first author), Macro and Micro Fretting Fatigue Experiment System
 
+<!--
+
 Undergraduate Excellent Graduation Thesis of Tsinghua University
+-->
 
 Dr. Han serves as:
 
