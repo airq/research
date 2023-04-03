@@ -1,4 +1,5 @@
-<!--[Chinese Version](https://hanqn.com/index)
+<!--
+[Chinese Version](https://hanqn.com/index)
 -->
 
 <!-
