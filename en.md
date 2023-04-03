@@ -8,7 +8,7 @@
 
 
 
-Dr. Qinan Han is currently working as an Associate Professor at *College of Energy and Power Engineering, Nanjing University of Aeronautics and Astronautics (NUAA)*. He received his bachelor's degree (BEng) from *Tsinghua University* in 2013. He obtained his Ph.D from *Tsinghua University* in 2018 under the supervision of Prof. Huiji Shi.
+Dr. Qinan Han is currently working as an Associate Professor at *Nanjing University of Aeronautics and Astronautics (NUAA)*. He received his bachelor's degree (BEng) from *Tsinghua University* in 2013. He obtained his Ph.D from *Tsinghua University* in 2018 under the supervision of Prof. Huiji Shi.
 
 
 **Research interests:**
