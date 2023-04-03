@@ -2,9 +2,7 @@
 [Chinese Version](https://hanqn.com/index)
 -->
 
-<!-
-<div align="right"><a class="button2 btn-primary " type="button" href="https://hanqn.com/index">Chinese</a></div>
--->
+
 
 ## Biography
 
