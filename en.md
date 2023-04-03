@@ -14,7 +14,7 @@ Dr. Qinan Han is currently working as an Associate Professor at *Nanjing Univers
 **Research interests:**
 - Fatigue and fretting fatigue of Ni-based superalloys
 - Characterization of advanced alloys using in-situ SEM and EBSD
-- Crystal plasticity simulation including grain boundary cracking of single-crystal and poly-crystal alloys
+- Crystal plasticity simulation considering grain boundary cracking of single-crystal and poly-crystal alloys
 - Data-driven method to model material properties 
 
 <div align="center">
