@@ -8,7 +8,7 @@
 
 
 
-Dr. Qinan Han is currently working as an Associate Professor at *Nanjing University of Aeronautics and Astronautics (NUAA)*. He received his bachelor's degree (BEng) from *Tsinghua University* in 2013. He obtained his Ph.D from *Tsinghua University* in 2018 under the supervision of Prof. Huiji Shi.
+Dr. Qinan Han is currently working as an Associate Professor at *Nanjing University of Aero. and Astro. (NUAA)*. He received his bachelor's degree (BEng) from *Tsinghua University* in 2013. He obtained his Ph.D from *Tsinghua University* in 2018 under the supervision of Prof. Huiji Shi.
 
 
 **Research interests:**
@@ -57,7 +57,7 @@ Supervisor: Professor Shi Huiji
 
 **Tsinghua University, 2009-2013**
 
-B.Eng. Engineering Mechanics and Aerospace Engineering
+B.Eng. Engineering Mechanics 
 
 Excellent Graduation Thesis, National Encouragement Scholarship, First-class Scholarship
 
