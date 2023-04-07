@@ -174,6 +174,8 @@ Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 
 本科生指导：指导多名基本科研能力训练、本科生毕业设计、本科生大学生创新创业校级项目、自由探索项目、本科生一对一导师，学生均取得良好成绩，一名本科毕设获得院优秀论文，学生以一作产出软著等成果。
 
+指导学生参加全国“云说新科技”科普新星赛，作品获“科普新星三星”，获“优秀科普导师”。
+
 本科生班级：2021.4-2022.6，卓越工程师班班主任。
 
 ## 学术兼职和国际国内合作
@@ -205,7 +207,7 @@ Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 
 
 
-`Last update: 11/07/2022`
+`Last update: 04/2023`
 
 
 <!-- not support by huawei
