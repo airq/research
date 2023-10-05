@@ -114,7 +114,7 @@ Han, Q.-N., et al.(2020). Effects of temperature and load on fretting fatigue in
 Han, Q.-N.,  . . . Shi, H. (2019). Effect of crystal orientation on the indentation behaviour of Ni-based single crystal superalloy. Materials Science & Engineering A.
 
 
-Han Qi-Nan, Qiu Wenhui, Shang Yi-Bo, et al. (2016). In-situ SEM observation and crystal plasticity finite element simulation of fretting fatigue crack formation in Ni-base single-crystal superalloys. Tribology International.
+Han, Q.-N., Qiu Wenhui, Shang Yi-Bo, et al. (2016). In-situ SEM observation and crystal plasticity finite element simulation of fretting fatigue crack formation in Ni-base single-crystal superalloys. Tribology International.
 
 Han QN, Lei XS, . . .  Cui HT, Shi HJ. (2020). In-situ Observation and Finite Element Analysis of Fretting Fatigue Crack Propagation Behavior in 1045 Steel. Chinese Journal of Aeronautics.
 
@@ -136,7 +136,7 @@ Su, Y., Han, Q.-N., Zhang, C.-C., Shi, H.-J., Niu, L.-S., Deng, G.-J., & Rui, S.
 
 韩琦男, 杨晓林, 崔海涛, 苏越, 施惠基, 超高温原位微动疲劳实验系统（申请号CN202010167112.1，公开号CN111443103A）
 
-Qinan Han, Xiaolin Yang, et al. SYSTEM FOR ULTRA-HIGH TEMPERATURE IN-SITU FRETTING FATIGUE EXPERIMENT. US Patent. 2021. 
+Han, Q.-N., Xiaolin Yang, et al. SYSTEM FOR ULTRA-HIGH TEMPERATURE IN-SITU FRETTING FATIGUE EXPERIMENT. US Patent. 2021. 
 
 韩琦男,鲁章伦,崔海涛,张宏建，双相合金的全场晶体塑性模拟方法、装置、设备及介质，2021-12（申请号202111624193.4）
 
@@ -156,15 +156,19 @@ Qinan Han, Xiaolin Yang, et al. SYSTEM FOR ULTRA-HIGH TEMPERATURE IN-SITU FRETTI
 
 ## 学术会议
 
-Qinan Han, Jianwen Fang, Haitao Cui, Crystal orientation effect on the fretting fatigue behavior in Ni-based single crystal superalloys, The 8th International Conference on Fracture Fatigue and Wear (FFW 2020), August 26-27, 2020, Online conference.
+
+Han, Q.-N., Jianwen Fang, Haitao Cui, Crystal orientation effect on the fretting fatigue behavior in Ni-based single crystal superalloys, The 8th International Conference on Fracture Fatigue and Wear (FFW 2020), August 26-27, 2020, Online conference.
 
 
-Qinan Han, Wenhui Qiu, Haitao Cui, Huiji Shi, Crystal Plasticity Simulation of the Indentation Behavior of Ni-based Single Crystal Superalloy
+
+Han, Q.-N., Wenhui Qiu, Haitao Cui, Huiji Shi, Crystal Plasticity Simulation of the Indentation Behavior of Ni-based Single Crystal Superalloy
 Considering the Crystal Orientation Effect,  11th International Conference on Computational Methods (ICCM 2020),  9th-12th August 2020, Virtual Conference.
 
-Qinan Han, Shao-Shi Rui, Yue Su, Haitao Cui, Huiji Shi. The Distributions of Geometrically Necessary Dislocation under Different Crystal Orientations in Fretting Fatigue of Ni-based Single-crystal Superalloys. The 16th Asia-Pacific Conference on Fracture and Strength 2020 (APCFS2020). November 3-7 2020. Online conference.
 
-Qi-Nan Han, Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-crystal superalloys: in-situ SEM experiment and crystal plasticity analysis, 6th World Tribology Congress, 2017, Beijing, China. 
+Han, Q.-N., Shao-Shi Rui, Yue Su, Haitao Cui, Huiji Shi. The Distributions of Geometrically Necessary Dislocation under Different Crystal Orientations in Fretting Fatigue of Ni-based Single-crystal Superalloys. The 16th Asia-Pacific Conference on Fracture and Strength 2020 (APCFS2020). November 3-7 2020. Online conference.
+
+
+Han, Q.-N., Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-crystal superalloys: in-situ SEM experiment and crystal plasticity analysis, 6th World Tribology Congress, 2017, Beijing, China. 
 
 ## 教学和学生指导
 
