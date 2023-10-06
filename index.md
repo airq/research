@@ -84,7 +84,7 @@
 
 ## 科研项目
 
-主持国家自然科学基金青年项目、面上项目、国家自然科学基金委与英国皇家学会国际合作项目、重大专项子专题、基本科研业务费等科研项目，参研国家自然科学基金重点项目、面上项目等国家级和省部级科研项目多项。
+主持国家自然科学基金青年项目、面上项目、国际合作交流项目等科研项目，参研国家自然科学基金重点项目、面上项目等国家级和省部级科研项目多项。
 
 <!--
 - 考虑小角晶界影响的镍基单晶高温合金微动疲劳性能研究 ，国家自然科学基金青年项目，主持
@@ -156,9 +156,9 @@ Han, Q.-N., Xiaolin Yang, et al. SYSTEM FOR ULTRA-HIGH TEMPERATURE IN-SITU FRETT
 
 ## 学术会议
 
+Han, Q.-N., Orientation-dependent fretting fatigue damage mechanism at elevated temperature, ESIA17/ISSI2023 International Conference, May 2023, Manchester, UK.
 
 Han, Q.-N., Jianwen Fang, Haitao Cui, Crystal orientation effect on the fretting fatigue behavior in Ni-based single crystal superalloys, The 8th International Conference on Fracture Fatigue and Wear (FFW 2020), August 26-27, 2020, Online conference.
-
 
 
 Han, Q.-N., Wenhui Qiu, Haitao Cui, Huiji Shi, Crystal Plasticity Simulation of the Indentation Behavior of Ni-based Single Crystal Superalloy
@@ -190,10 +190,12 @@ Han, Q.-N., Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 
 《应用力学学报》首届青年编委，SCI期刊Metals（科协T2）客座编辑，首届能动之星。任ICEEES2021技术委员会委员。
 
-任国自然面上项目通讯评审人。为 *International Journal of Fatigue*, *APL Materials*, *Journal of Materials Science*，*Theoretical and Applied Fracture Mechanics*, *Journal of Applied Physics*, *Chinese Journal of Aeronautics*, *Mathematics*， *Materials* 等杂志审稿。
+任国家自然科学基金通讯评审人。
+
+为 *International Journal of Fatigue*, *APL Materials*, *Journal of Materials Science*，*Theoretical and Applied Fracture Mechanics*, *Journal of Applied Physics*, *Chinese Journal of Aeronautics*, *Mathematics*， *Materials* 等杂志审稿。
 
 
-与清华大学，北京大学，东南大学，中山大学, 重庆大学等国内外知名机构研究人员有深入合作。
+与清华大学，北京大学，东南大学，中山大学，重庆大学等国内外知名机构研究人员有深入合作。
 
 
 
