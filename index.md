@@ -156,6 +156,8 @@ Han, Q.-N., Xiaolin Yang, et al. SYSTEM FOR ULTRA-HIGH TEMPERATURE IN-SITU FRETT
 
 ## 学术会议
 
+<u> Han, Q.-N., </u> Yuanbo T. Tang, Roger C. Reed, A corroborative study on the fatigue mechanisms at room and elevated temperatures of a dual-phase high entropy alloy, Fatigue2024, June 2024, Cambridge, UK. 
+
 Han, Q.-N., Orientation-dependent fretting fatigue damage mechanism at elevated temperature, ESIA17/ISSI2023 International Conference, May 2023, Manchester, UK.
 
 Han, Q.-N., Jianwen Fang, Haitao Cui, Crystal orientation effect on the fretting fatigue behavior in Ni-based single crystal superalloys, The 8th International Conference on Fracture Fatigue and Wear (FFW 2020), August 26-27, 2020, Online conference.
@@ -196,7 +198,7 @@ Han, Q.-N., Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 为 *International Journal of Fatigue*, *APL Materials*, *Journal of Materials Science*，*Theoretical and Applied Fracture Mechanics*, *Journal of Applied Physics*, *Chinese Journal of Aeronautics* 等杂志审稿。
 
 
-与清华大学，北京大学，东南大学，中山大学，重庆大学等国内外知名机构研究人员有深入合作。
+与清华大学，牛津大学，伯明翰大学，东南大学，中山大学，重庆大学等国内外知名机构研究人员有深入合作。
 
 
 
