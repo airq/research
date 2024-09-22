@@ -156,7 +156,9 @@ Han, Q.-N., Xiaolin Yang, et al. SYSTEM FOR ULTRA-HIGH TEMPERATURE IN-SITU FRETT
 
 ## 学术会议
 
-<ins> Han, Q.-N., </ins> Yuanbo T. Tang, Roger C. Reed, A corroborative study on the fatigue mechanisms at room and elevated temperatures of a dual-phase high entropy alloy, Fatigue2024, June 2024, Cambridge, UK. 
+Utada, S., Han, Q., Li, A., Miquel, M. Z., Polatoğlu, C., Hasselqvist, M., ... & Reed, R. C. Tensile Testing of Ni-Based Single Crystal Superalloys: What Is the Correct “Point of View”?. Superalloys2024. August, 2024, Champion, Pennsylvania, USA.
+
+ Han, Q.-N., Yuanbo T. Tang, Roger C. Reed, A corroborative study on the fatigue mechanisms at room and elevated temperatures of a dual-phase high entropy alloy, Fatigue2024, June 2024, Cambridge, UK. 
 
 Han, Q.-N., Orientation-dependent fretting fatigue damage mechanism at elevated temperature, ESIA17/ISSI2023 International Conference, May 2023, Manchester, UK.
 
