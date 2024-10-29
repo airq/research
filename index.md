@@ -99,13 +99,17 @@
 - 清华大学王永志科创基金，主持
 -->
 
-## 代表性文章
+## 代表性文章/论著
 
-For more details see [Research Gate](https://www.researchgate.net/profile/Qi_Nan_Han)
+在 Acta Materialia （一区Top，IF=8.3）, International Journal of Plasticity （一区Top，IF=9.4）, International Journal of Fatigue（一区Top，IF=5.7）等刊物发表论文20余篇。所指导硕士生以一作发表International Journal of Fatigue等权威SCI期刊。
+
+详细论文请见： [Research Gate](https://www.researchgate.net/profile/Qi_Nan_Han)
 
 Han, Q.-N., Rui, S.-S., Qiu, W., Ma, X., Su, Y., Cui, H., . . . Shi, H. (2019). Crystal orientation effect on fretting fatigue induced geometrically necessary dislocation distribution in Ni-based single-crystal superalloys. Acta Materialia.
 
 Fang J, Han QN*, Cui H, et al. (2023). Fretting fatigue experiment and polycrystal plasticity simulation in Ni-based superalloy at room temperature and 650° C. International Journal of Fatigue.
+
+Piao Li, Wen Jiang, Luca Susmel, Qi-Nan Han (2023). Porosity-related high-cycle fatigue strength of nickel-base single crystals: Fatigue experiments and electron back-scattered diffraction analysis. International Journal of Fatigue. 
 
 Han QN, Lei XS, . . .  Cui HT, Shi HJ. (2021).Temperature-dependent fatigue response of a Fe44Mn36Co10Cr10 high entropy alloy: a coupled in-situ electron microscopy study and crystal plasticity simulation. International Journal of Fatigue.
 
@@ -125,12 +129,14 @@ Han, Q. N., Rui, S. S., Qiu, W., Su, Y., Ma, X., He, Z., . . . Shi, H. J. (2019)
 
 Su, Y., Han, Q.-N., Zhang, C.-C., Shi, H.-J., Niu, L.-S., Deng, G.-J., & Rui, S.-S. (2019). Effects of secondary orientation and temperature on the fretting fatigue behaviors of Ni-based single crystal superalloys. Tribology international, 130, 9-18.
 
-
-
-
+Cui H, Han Q. Fatigue Damage Mechanism and Fatigue Life Prediction of Metallic Materials.  2023. (著作号ISBN978-3-0365-9890-1)
 
 
 ## 专利
+
+申请和授权发明专利多项，其中授权美国发明专利1项，指导研究生以第一完成人申请/授权专利多项。
+
+赵秋雨，韩琦男，崔海涛. 多晶塑性有限元模拟方法及装置, 申请号CN202311492740.7. 2023. 
 
 韩琦男，施惠基，张成成，邓国坚，任远，高靖云，嵇应凤，燕尾型高温微动疲劳实验系统，已授权，2018年5月（申请号CN201721248108.8，公开号CN207423505U）
 
@@ -147,13 +153,13 @@ Han, Q.-N., Xiaolin Yang, et al. SYSTEM FOR ULTRA-HIGH TEMPERATURE IN-SITU FRETT
 
 ## 软件著作权
 
+获登软件著作权多项，其中指导本科生以第一完成人获登软件著作权多项。
+
 韩琦男，方健文，雷旭升，崔海涛，几何必需位错密度计算与可视化软件，2021.4，登记号2021SR0564383.
 
+韩琦男，俞耀，崔海涛，各向异性材料裂尖场变量求解及可视化交互软件，2021.5.13，软著登字第7408326号.
 
-韩琦男，俞耀，崔海涛，各向异性材料裂尖场变量求解及可视化交互软件，2021.5.13，软著登字第7408326号
-
-
-韩琦男，崔海涛等，裂纹实时识别和可视化软件，2022-04，软著登字第9457843号.
+冉紫成,韩琦男,谢诚语,崔海涛,易禹阳,付荣胜,吴广昊，裂纹实时识别和可视化软件，2022-04，软著登字第9457843号.
 
 
 ## 学术会议
