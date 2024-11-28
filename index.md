@@ -129,6 +129,8 @@ Han, Q. N., Rui, S. S., Qiu, W., Su, Y., Ma, X., He, Z., . . . Shi, H. J. (2019)
 
 Su, Y., Han, Q.-N., Zhang, C.-C., Shi, H.-J., Niu, L.-S., Deng, G.-J., & Rui, S.-S. (2019). Effects of secondary orientation and temperature on the fretting fatigue behaviors of Ni-based single crystal superalloys. Tribology international, 130, 9-18.
 
+李昂，赵秋雨，韩琦男*，崔海涛，张宏建，徐颖，增材制造GH4169 高温合金微动疲劳性能及寿命预测研究，航空动力学报，2024.
+
 Cui H, Han Q. Fatigue Damage Mechanism and Fatigue Life Prediction of Metallic Materials.  2023. (著作号ISBN978-3-0365-9890-1)
 
 
