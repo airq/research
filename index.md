@@ -105,7 +105,7 @@
 
 详细论文请见： [Research Gate](https://www.researchgate.net/profile/Qi_Nan_Han)
 
-Han, Q., Zhao, S., Tang, Y. T., Lu, Z., Lopez, M. A., Li, A., ... & Reed, R. C. (2025). FCC/B2 phase boundary variant-sensitive fatigue cracking in a eutectic high entropy alloy at high temperature. International Journal of Plasticity, 185, 104223.
+Han, Q., Zhao, S., Tang, Y. T., Lu, Z., Lopez, M. A., Li, A., ... & Reed, R. C. (2025). FCC/B2 phase boundary variant-sensitive fatigue cracking in a eutectic high entropy alloy at high temperature. International Journal of Plasticity.
 
 Han, Q.-N., Rui, S.-S., Qiu, W., Ma, X., Su, Y., Cui, H., . . . Shi, H. (2019). Crystal orientation effect on fretting fatigue induced geometrically necessary dislocation distribution in Ni-based single-crystal superalloys. Acta Materialia.
 
