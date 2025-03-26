@@ -105,6 +105,8 @@
 
 详细论文请见： [Research Gate](https://www.researchgate.net/profile/Qi_Nan_Han)
 
+Han, Q., Zhao, S., Tang, Y. T., Lu, Z., Lopez, M. A., Li, A., ... & Reed, R. C. (2025). FCC/B2 phase boundary variant-sensitive fatigue cracking in a eutectic high entropy alloy at high temperature. International Journal of Plasticity, 185, 104223.
+
 Han, Q.-N., Rui, S.-S., Qiu, W., Ma, X., Su, Y., Cui, H., . . . Shi, H. (2019). Crystal orientation effect on fretting fatigue induced geometrically necessary dislocation distribution in Ni-based single-crystal superalloys. Acta Materialia.
 
 Fang J, Han QN*, Cui H, et al. (2023). Fretting fatigue experiment and polycrystal plasticity simulation in Ni-based superalloy at room temperature and 650° C. International Journal of Fatigue.
@@ -220,7 +222,7 @@ Han, Q.-N., Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 为 *International Journal of Fatigue*, *APL Materials*, *Journal of Materials Science*，*Theoretical and Applied Fracture Mechanics*, *Journal of Applied Physics*, *Chinese Journal of Aeronautics* , *Scientific Reports* 等杂志审稿。
 
 
-与清华大学，英国牛津大学，英国伯明翰大学，德国马普所，东南大学，中山大学，重庆大学等国内外知名机构研究人员有深入合作。
+与清华大学，英国牛津大学，新加坡国立大学，英国伯明翰大学，德国马普所，东南大学，中山大学，重庆大学等国内外知名机构研究人员有深入合作。
 
 
 
