@@ -219,7 +219,7 @@ Han, Q.-N., Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 
 国家自然科学基金通讯评审人。
 
-为 *International Journal of Fatigue*, *APL Materials*, *Journal of Materials Science*，*Theoretical and Applied Fracture Mechanics*, *Journal of Applied Physics*, *Chinese Journal of Aeronautics* , *Scientific Reports* 等杂志审稿。
+为 *International Journal of Fatigue*,  *Materials Science & Engineering A*, *APL Materials*, *Journal of Materials Science*，*Theoretical and Applied Fracture Mechanics*, *Journal of Applied Physics*, *Chinese Journal of Aeronautics* , *Scientific Reports* 等杂志审稿。
 
 
 与清华大学，英国牛津大学，新加坡国立大学，英国伯明翰大学，德国马普所，东南大学，中山大学，重庆大学等国内外知名机构研究人员有深入合作。
