@@ -101,7 +101,7 @@
 
 ## 代表性文章/论著
 
-在 Acta Materialia （一区Top，IF=8.3）, International Journal of Plasticity （一区Top，IF=9.4）, International Journal of Fatigue（一区Top，IF=5.7）等刊物发表论文20余篇。所指导硕士生以一作发表International Journal of Fatigue等权威SCI期刊。
+在 Acta Materialia （一区Top，IF=9.3）, International Journal of Plasticity （一区Top，IF=12.8）, International Journal of Fatigue（一区Top，IF=6.8）等刊物发表论文20余篇。所指导硕士生以一作发表International Journal of Fatigue等权威SCI期刊。
 
 详细论文请见： [Research Gate](https://www.researchgate.net/profile/Qi_Nan_Han)
 
@@ -195,7 +195,7 @@ Han, Q.-N., Shao-Shi Rui, Yue Su, Haitao Cui, Huiji Shi. The Distributions of Ge
 
 Han, Q.-N., Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-crystal superalloys: in-situ SEM experiment and crystal plasticity analysis, 6th World Tribology Congress, 2017, Beijing, China. 
 
-## 教学和学生指导
+## 教学、学生指导和学生就业
 
 讲授2021、2022秋季学期《工程弹性力学》课程，发表教学论文《互动教学在弹性力学教学中的实践与探讨》。
 
@@ -207,7 +207,7 @@ Han, Q.-N., Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 
 本科生班级：2021.4-2022.6，卓越工程师班班主任。
 
-学生就业去向：中科院工程热物理研究所、商发、一飞院、623所、606所、中兴等知名科研机构/企业。
+学生就业去向：中科院工程热物理研究所、商发、一飞院、623所、606所、中兴等知名科研机构/企业，所指导学生均在毕业前拿到就业单位offer。
 
 ## 学术兼职和国际国内合作
 
