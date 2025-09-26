@@ -177,7 +177,7 @@ Han, Q.-N., Xiaolin Yang, et al. SYSTEM FOR ULTRA-HIGH TEMPERATURE IN-SITU FRETT
 
 ## 学术会议
 
-Qinan Han, Experimental observation and crystal plasticity simulation of high-temperature fatigue in a dual-phase high entropy alloy.International Workshop On Multiscale, Multiphysics, And Multidisciplinary Research On Materials And Structures, September 2025, Singapore.
+Qinan Han, Experimental observation and crystal plasticity simulation of high-temperature fatigue in a dual-phase high entropy alloy (Invited talk). International Workshop On Multiscale, Multiphysics, And Multidisciplinary Research On Materials And Structures, September 2025, Singapore.
 
 Utada, S., Han, Q., Li, A., Miquel, M. Z., Polatoğlu, C., Hasselqvist, M., ... & Reed, R. C. Tensile Testing of Ni-Based Single Crystal Superalloys: What Is the Correct “Point of View”?. Superalloys2024. August, 2024, Champion, Pennsylvania, USA.
 
