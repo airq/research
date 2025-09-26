@@ -142,7 +142,7 @@ Cui H, Han Q. Fatigue Damage Mechanism and Fatigue Life Prediction of Metallic M
 
 赵秋雨，韩琦男，崔海涛. 多晶塑性有限元模拟方法及装置, 申请号CN202311492740.7. 2023. 
 
-李昂,韩琦男,黄河峡,陈诚,崔海涛,高术依. 鼓包结构、进气道和飞行器，CN202410777789.5 , 2024.
+李昂,韩琦男,黄河峡,陈诚,崔海涛,高术依. 鼓包结构、进气道和飞行器，CN202410777789.5 , 2024.已授权.
 
 韩琦男，施惠基，张成成，邓国坚，任远，高靖云，嵇应凤，燕尾型高温微动疲劳实验系统，已授权，2018年5月（申请号CN201721248108.8，公开号CN207423505U）
 
@@ -176,6 +176,8 @@ Han, Q.-N., Xiaolin Yang, et al. SYSTEM FOR ULTRA-HIGH TEMPERATURE IN-SITU FRETT
 
 
 ## 学术会议
+
+Qinan Han, Experimental observation and crystal plasticity simulation of high-temperature fatigue in a dual-phase high entropy alloy.International Workshop On Multiscale, Multiphysics, And Multidisciplinary Research On Materials And Structures, September 2025, Singapore.
 
 Utada, S., Han, Q., Li, A., Miquel, M. Z., Polatoğlu, C., Hasselqvist, M., ... & Reed, R. C. Tensile Testing of Ni-Based Single Crystal Superalloys: What Is the Correct “Point of View”?. Superalloys2024. August, 2024, Champion, Pennsylvania, USA.
 
