@@ -101,13 +101,15 @@
 
 ## 代表性文章/论著
 
-在 Acta Materialia （一区Top，IF=9.3）, International Journal of Plasticity （一区Top，IF=12.8）, International Journal of Fatigue（一区Top，IF=6.8）等刊物发表论文20余篇。所指导硕士生以一作发表International Journal of Fatigue等权威SCI期刊。
+在 Acta Materialia （一区Top，IF=9.3）, International Journal of Plasticity （一区Top，IF=12.8）, International Journal of Fatigue（一区Top，IF=6.8）等刊物发表论文20余篇。所指导博士生、硕士生以一作发表International Journal of Fatigue等权威SCI期刊。
 
 详细论文请见： [Research Gate](https://www.researchgate.net/profile/Qi_Nan_Han)
 
 Han, Q., Zhao, S., Tang, Y. T., Lu, Z., Lopez, M. A., Li, A., ... & Reed, R. C. (2025). FCC/B2 phase boundary variant-sensitive fatigue cracking in a eutectic high entropy alloy at high temperature. International Journal of Plasticity.
 
 Han, Q.-N., Rui, S.-S., Qiu, W., Ma, X., Su, Y., Cui, H., . . . Shi, H. (2019). Crystal orientation effect on fretting fatigue induced geometrically necessary dislocation distribution in Ni-based single-crystal superalloys. Acta Materialia.
+
+Yu Y, Han Q*, Tang Y, Rui SS, Shi H, Cui H*. (2026) The effect of solution treatment temperature on the fretting fatigue of additively manufactured superalloys. International Journal of Fatigue.
 
 Fang J, Han QN*, Cui H, et al. (2023). Fretting fatigue experiment and polycrystal plasticity simulation in Ni-based superalloy at room temperature and 650° C. International Journal of Fatigue.
 
