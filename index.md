@@ -229,7 +229,7 @@ QS世界大学排名声誉分函评人。
 《应用力学学报》首届青年编委，SCI期刊Metals（科协T2）客座编辑，首届能动之星。ICEEES2021技术委员会委员。
 
 
-为 *International Journal of Fatigue*,  *Materials Science & Engineering A*, *APL Materials*, *Journal of Materials Science*，*Theoretical and Applied Fracture Mechanics*, *Journal of Applied Physics*, *Chinese Journal of Aeronautics* , *Scientific Reports* , *航空学报* 等杂志审稿。
+为 *International Journal of Fatigue*,  *Materials Science & Engineering A*,  *Materials & Design*, *APL Materials*, *Journal of Materials Science*，*Theoretical and Applied Fracture Mechanics*, *Journal of Applied Physics*, *Chinese Journal of Aeronautics* , *Scientific Reports* , *航空学报* 等杂志审稿。
 
 
 与清华大学，英国牛津大学，新加坡国立大学，英国伯明翰大学，德国马普所，东南大学，中山大学，重庆大学等国内外知名机构研究人员有深入合作。
