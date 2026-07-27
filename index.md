@@ -89,7 +89,7 @@
 
 ## 科研项目
 
-主持国家自然科学基金青年项目、面上项目、国际合作交流项目等多项国家级科研项目，参研国家自然科学基金重点项目、面上项目等国家级和省部级科研项目多项。
+主持国家自然科学基金青年项目、面上项目、国际合作交流、WDZC项目等多项国家级科研项目，参研国家自然科学基金重点项目、LJ专项等国家重大项目。
 
 <!--
 - 考虑小角晶界影响的镍基单晶高温合金微动疲劳性能研究 ，国家自然科学基金青年项目，主持
@@ -106,7 +106,7 @@
 
 ## 代表性文章/论著
 
-在 Acta Materialia （一区Top，IF=9.3）, International Journal of Plasticity （一区Top，IF=12.8）, International Journal of Fatigue（一区Top，IF=6.8）等刊物发表论文20余篇。所指导博士生、硕士生以一作发表International Journal of Fatigue等权威SCI期刊。
+在 Acta Materialia （一区Top，IF=10.7）, International Journal of Plasticity （一区Top，IF=15.4）, International Journal of Fatigue（一区Top，IF=7）等刊物发表论文20余篇。所指导博士生、硕士生以一作发表International Journal of Fatigue等权威SCI期刊。
 
 详细论文请见： [Research Gate](https://www.researchgate.net/profile/Qi_Nan_Han)
 
@@ -145,7 +145,7 @@ Cui H, Han Q. Fatigue Damage Mechanism and Fatigue Life Prediction of Metallic M
 
 ## 专利
 
-申请和授权发明专利多项，其中授权美国发明专利1项，指导研究生以第一完成人申请/授权专利多项。
+申请和授权发明专利多项，其中授权美国发明专利2项，指导研究生以第一完成人申请/授权专利多项。
 
 赵秋雨，韩琦男，崔海涛. 多晶塑性有限元模拟方法及装置, 申请号CN202311492740.7. 2023. 
 
