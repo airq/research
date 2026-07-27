@@ -12,7 +12,7 @@
 
 
 
-韩琦男博士当前作为副教授任职于南京航空航天大学（强度与振动工程系）。他于2013年获得清华大学学士学位（力学）。他于2018年在施惠基教授的指导下获得清华大学博士学位（固体力学）。
+韩琦男博士当前作为副教授任职于南京航空航天大学（强度与振动工程系）。他于2013年获得清华大学学士学位（力学），于2018年在施惠基教授的指导下获得清华大学博士学位（固体力学），于2022~2024年在牛津大学Roger Reed院士课题组、2025~2026年在新加坡国立大学Wei Zhai教授课题组做科学研究。
 
 <!--
 <div align="center">
@@ -28,27 +28,30 @@
 
 **研究兴趣:**
 
-- 高性能合金的复杂疲劳损伤机理和寿命预测
-- 基于原位SEM和EBSD的材料表征
+- 高性能合金/复合材料的损伤机理和性能预测
+- 基于原位SEM和EBSD的材料变形机理揭示
 - 单晶/多晶合金的晶体塑性多尺度有限元模拟
-- 基于人工智能的图像视觉监测、材料内秉属性理解、数据驱动预测
+- 基于AI的图像视觉监测、材料内秉属性、疲劳寿命预测
 
 
 ### 热诚欢迎有志青年报考研究生！
 
 招生范围：
 
-一级学科名称：082500（学术学位）航空宇航科学与技术，其中 02（全日制）推进系统强度与振动工程。
+一级学科名称：082500（学术学位）航空宇航科学与技术。
 
+一级学科名称：080700（学术学位）动力工程及工程热物理。
 
-一级学科名称：085800（专业学位）能源动力，其中 02（全日制）强度与振动工程。
+一级学科名称：085800（专业学位）能源动力。
+
+一级学科名称：085500（专业学位）机械。
 
 
 招、考目录请参考： [http://yzsbm.nuaa.edu.cn/sszsml](http://yzsbm.nuaa.edu.cn/sszsml/index.html)
 
 
 
-### 欢迎各位同学报名大创、基本科研训练、本科毕设！欢迎通过邮箱与我联系！
+### 欢迎各位同学报名大创、基本训练、科创比赛、本科毕设！
 
 <!--
 <div align="center">
@@ -84,7 +87,7 @@
 
 ## 科研项目
 
-主持国家自然科学基金青年项目、面上项目、国际合作交流项目等科研项目，参研国家自然科学基金重点项目、面上项目等国家级和省部级科研项目多项。
+主持国家自然科学基金青年项目、面上项目、国际合作交流项目等多项国家级科研项目，参研国家自然科学基金重点项目、面上项目等国家级和省部级科研项目多项。
 
 <!--
 - 考虑小角晶界影响的镍基单晶高温合金微动疲劳性能研究 ，国家自然科学基金青年项目，主持
@@ -179,7 +182,7 @@ Han, Q.-N., Xiaolin Yang, et al. SYSTEM FOR ULTRA-HIGH TEMPERATURE IN-SITU FRETT
 
 ## 学术会议
 
-Qinan Han, Experimental observation and crystal plasticity simulation of high-temperature fatigue in a dual-phase high entropy alloy (Invited). International Workshop On Multiscale, Multiphysics, And Multidisciplinary Research On Materials And Structures, September 2025, Singapore.
+<!-- Qinan Han, Experimental observation and crystal plasticity simulation of high-temperature fatigue in a dual-phase high entropy alloy (Invited). International Workshop On Multiscale, Multiphysics, And Multidisciplinary Research On Materials And Structures, September 2025, Singapore. -->
 
 Utada, S., Han, Q., Li, A., Miquel, M. Z., Polatoğlu, C., Hasselqvist, M., ... & Reed, R. C. Tensile Testing of Ni-Based Single Crystal Superalloys: What Is the Correct “Point of View”?. Superalloys2024. August, 2024, Champion, Pennsylvania, USA.
 
@@ -211,7 +214,7 @@ Han, Q.-N., Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 
 本科生班级：2021.4-2022.6，卓越工程师班班主任。
 
-学生就业去向：中科院工程热物理研究所、商发、一飞院、623所、606所、中兴等知名科研机构/企业，所指导学生均在毕业前拿到就业单位offer。
+学生就业去向：中科院工程热物理研究所、商发、一飞院、623所、606所、科学出版社、中兴等知名科研机构/企业，所指导学生均在毕业前拿到就业单位offer。
 
 ## 学术兼职和国际国内合作
 
@@ -226,10 +229,10 @@ Han, Q.-N., Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 QS世界大学排名声誉分函评人。
 -->
 
-《应用力学学报》首届青年编委，SCI期刊Metals（科协T2）客座编辑，首届能动之星。ICEEES2021技术委员会委员。
+《应用力学学报》首届青年编委，SCI期刊Metals（科协T2）客座编辑，首届能动之星。ICEEES2021技术委员会委员。Institute of Materials, Minerals and Mining（国际材料、矿物与采矿学会）会员。
 
 
-为 *International Journal of Fatigue*,  *Materials Science & Engineering A*,  *Materials & Design*, *APL Materials*, *Journal of Materials Science*，*Theoretical and Applied Fracture Mechanics*, *Journal of Applied Physics*, *Chinese Journal of Aeronautics* , *Scientific Reports* , *航空学报* 等杂志审稿。
+为 *Tribology International*, *Materials & Design*, *International Journal of Fatigue*, *Materials Science & Engineering A*, *Wear*, *APL Materials*, *Journal of Materials Science*，*Theoretical and Applied Fracture Mechanics*, *Journal of Applied Physics*, *Chinese Journal of Aeronautics* , *Scientific Reports* , *航空学报* 等杂志审稿。
 
 
 与清华大学，英国牛津大学，新加坡国立大学，英国伯明翰大学，德国马普所，东南大学，中山大学，重庆大学等国内外知名机构研究人员有深入合作。
