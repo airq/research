@@ -33,7 +33,7 @@
 - 基于原位SEM和EBSD的材料变形机理揭示
 - 微动疲劳/摩擦磨损机理、基于机理的抗微动/磨损设计
 - 单晶/多晶合金的晶体塑性多尺度有限元模拟
-- 基于AI的图像视觉监测、材料内秉属性、疲劳寿命预测
+- 基于AI的图像视觉监测、材料内秉属性、疲劳寿命预测、自动化建模
 
 
 ### 热诚欢迎有志青年报考研究生！
@@ -114,7 +114,8 @@ Han, Q., Zhao, S., Tang, Y. T., Lu, Z., Lopez, M. A., Li, A., ... & Reed, R. C. 
 
 Han, Q.-N., Rui, S.-S., Qiu, W., Ma, X., Su, Y., Cui, H., . . . Shi, H. (2019). Crystal orientation effect on fretting fatigue induced geometrically necessary dislocation distribution in Ni-based single-crystal superalloys. Acta Materialia.
 
-Yu Y, Han Q*, Tang Y, Rui SS, Shi H, Cui H*. (2026) The effect of solution treatment temperature on the fretting fatigue of additively manufactured superalloys. International Journal of Fatigue.
+
+Yu Y, Han Q\*, Tang Y, Rui SS, Shi H, Cui H\*. (2026) The effect of solution treatment temperature on the fretting fatigue of additively manufactured superalloys. International Journal of Fatigue.
 
 Fang J, Han QN*, Cui H, et al. (2023). Fretting fatigue experiment and polycrystal plasticity simulation in Ni-based superalloy at room temperature and 650° C. International Journal of Fatigue.
 
