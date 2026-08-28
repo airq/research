@@ -237,7 +237,7 @@ QS世界大学排名声誉分函评人。
 
 
 
-为 *Tribology International*, *Materials & Design*, *International Journal of Fatigue*, *Materials Science & Engineering A*, *Wear*, *APL Materials*, *Journal of Materials Science*，*Theoretical and Applied Fracture Mechanics*, *Journal of Applied Physics*, *Chinese Journal of Aeronautics* , *Scientific Reports* , *航空学报* 等杂志审稿。
+为 *Tribology International*, *Materials & Design*, *International Journal of Fatigue*, *Materials Science & Engineering A*, *Wear*, *APL Materials*, *Journal of Materials Science*，*Theoretical and Applied Fracture Mechanics*, *Journal of Applied Physics*, *Chinese Journal of Aeronautics* ,  *Scientific Reports* , *Materials Characterization* , *航空学报* 等杂志审稿。
 
 
 与牛津大学、清华大学、新加坡国立大学、英国伯明翰大学、德国马普所、中山大学、东南大学、重庆大学等国内外知名大学/机构有深入合作。可推荐出国交流/深造。
