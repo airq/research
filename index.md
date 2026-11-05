@@ -13,7 +13,7 @@
 
 
 **韩琦男博士当前作为副教授任职于南京航空航天大学（强度与振动工程系）。
-他于2013年获得清华大学学士学位（力学），于2018年在施惠基教授的指导下获得清华大学博士学位（固体力学），曾在牛津大学Roger Reed院士课题组、新加坡国立大学Wei Zhai课题组做科学研究。南京航空航天大学长空学者（长空之星）。首届能动之星。**
+他于2013年获得清华大学学士学位（力学），于2018年在施惠基教授的指导下获得清华大学博士学位（固体力学），曾在牛津大学Roger Reed院士课题组、新加坡国立大学Wei Zhai课题组做科学研究。南京航空航天大学“长空学者”（长空之星）。**
 
 <!--
 <div align="center">
@@ -232,7 +232,7 @@ Han, Q.-N., Hui-Ji Shi, Fretting fatigue crack formation in Ni-base single-cryst
 , *Mathematics*， *Materials审稿
 -->
 
-中国材料研究学会疲劳分会理事。国家自然科学基金面上项目通讯评审人。《应用力学学报》首届青年编委，SCI期刊Metals（科协T2）客座编辑。ICEEES2021技术委员会委员。Institute of Materials, Minerals and Mining（国际材料、矿物与采矿学会）会员。
+中国材料研究学会疲劳分会理事。国家自然科学基金面上项目通讯评审人。《应用力学学报》首届青年编委，SCI期刊Metals（科协T2）客座编辑。首届“能动之星”。ICEEES2021技术委员会委员。Institute of Materials, Minerals and Mining（国际材料、矿物与采矿学会）会员。
 
 <!--
 QS世界大学排名声誉分函评人。
